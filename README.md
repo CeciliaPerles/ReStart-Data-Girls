@@ -22,7 +22,7 @@ Kaggle → Airflow (Extract) → Pandas (Transform) → S3/MySQL (Load)
 
 ### Tecnologias Utilizadas
 - **Apache Airflow** – Orquestração  
-- **Python + Pandas** – Transformação de dados  
+- **Python 3.12 + Pandas** – Transformação de dados  
 - **Boto3** – Integração com AWS S3  
 - **SQLAlchemy + PyMySQL** – Integração com MySQL  
 - **Kaggle API** – Extração de dados  
@@ -32,6 +32,7 @@ Kaggle → Airflow (Extract) → Pandas (Transform) → S3/MySQL (Load)
 ### Como executar
 
 #### Pré-requisitos
+- **Python 3.12** Não usar 3.13+, pois algumas libs não suportam.
 - **Kaggle API KEY** configurada dentro da pasta /kaggle/kaggle.json
 - **Conta AWS** com credenciais (`AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `REGION_NAME`, `BUCKET`)
 
