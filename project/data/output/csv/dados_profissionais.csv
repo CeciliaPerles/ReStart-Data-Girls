@@ -1,0 +1,1471 @@
+numero_funcionario,departamento,cargo,nivel_do_cargo,viagem_a_trabalho,horas_extras,num_empregos_anteriores,total_anos_experiencia,anos_na_empresa,anos_no_cargo_atual,anos_desde_ultima_promocao,anos_com_mesmo_gerente,desligado,avaliacao_de_desempenho,aumento_percentual_salario,treinamentos_ultimo_ano
+1,Vendas,Executivo de Vendas,2,Viaja raramente,1,8,8,6,4,0,5,1,3,11,0
+2,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,0,1,10,10,7,1,7,0,4,23,3
+4,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,6,7,0,0,0,0,1,3,15,3
+5,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,8,8,7,3,0,0,3,11,3
+7,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,9,6,2,2,2,2,0,3,12,3
+8,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,0,8,7,7,3,6,0,3,13,2
+10,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,4,12,1,0,0,0,0,4,20,3
+11,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,0,0,4,22,2
+12,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,0,10,9,7,1,8,0,4,21,2
+13,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,6,17,7,7,7,7,0,3,13,3
+14,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,6,5,4,0,3,0,3,13,5
+15,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,1,0,10,9,5,0,8,0,3,12,3
+16,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,2,4,3,0,3,17,1
+18,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,3,2,2,1,2,0,3,11,2
+19,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,5,6,4,2,0,3,1,3,14,4
+20,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,1,10,10,9,8,8,0,3,11,1
+21,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,7,6,2,0,5,0,3,12,5
+22,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,1,1,1,1,0,0,0,0,3,13,2
+23,Vendas,Gerente,4,Viaja raramente,0,2,31,25,8,3,7,0,3,16,3
+24,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,5,6,3,2,1,2,0,3,11,3
+26,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,0,5,4,2,1,3,0,3,18,5
+27,Vendas,Representante de Vendas,1,Viaja raramente,0,7,10,5,3,0,3,1,4,23,4
+28,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,0,13,12,6,2,11,0,3,11,4
+30,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,0,0,0,0,0,0,3,14,6
+31,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,8,4,2,1,3,1,3,11,2
+32,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,4,26,14,13,4,8,0,3,11,3
+33,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,10,10,2,6,7,1,4,22,5
+35,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,10,9,7,4,2,0,3,11,2
+36,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,3,24,22,6,5,17,0,3,14,4
+38,Vendas,Gerente,5,Viaja raramente,0,3,22,2,2,2,1,0,3,12,2
+39,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,7,1,1,0,0,0,3,11,3
+40,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,2,9,4,2,1,3,0,3,13,5
+41,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,10,10,0,1,8,0,3,13,5
+42,Vendas,Representante de Vendas,2,Viaja raramente,0,3,19,1,0,0,0,1,3,14,6
+45,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,2,6,2,0,2,0,1,3,16,2
+46,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,5,3,1,4,0,3,12,3
+47,Vendas,Representante de Vendas,1,Viaja raramente,1,1,3,3,2,0,2,1,3,14,2
+49,Vendas,Representante de Vendas,1,Viaja raramente,0,1,2,2,2,2,2,0,3,13,3
+51,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,9,6,1,1,0,0,0,3,14,3
+52,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,2,10,5,3,1,3,0,3,19,3
+53,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,0,0,3,12,3
+54,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,0,0,3,13,6
+55,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,1,1,3,12,2
+56,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,1,9,9,8,1,7,0,3,15,0
+57,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,1,12,12,8,3,7,0,4,23,2
+58,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,1,23,22,15,15,8,1,3,12,0
+60,Vendas,Executivo de Vendas,2,Não viaja,0,0,10,9,5,8,7,0,4,20,2
+61,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,4,8,1,0,0,0,0,4,21,1
+62,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,4,14,9,6,0,8,0,4,21,4
+63,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,1,0,3,19,2
+64,Pesquisa e Desenvolvimento,Técnico de Laboratório,3,Viaja raramente,1,9,23,1,0,0,0,1,3,13,2
+65,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,2,2,2,2,2,1,3,13,3
+68,Vendas,Executivo de Vendas,2,Viaja raramente,1,5,9,4,3,1,3,0,4,21,2
+70,Pesquisa e Desenvolvimento,Representante de Saúde,3,Não viaja,1,2,10,4,0,2,3,0,3,13,3
+72,Vendas,Executivo de Vendas,2,Viaja raramente,1,7,5,2,2,0,0,0,3,19,2
+73,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja frequentemente,1,1,15,15,14,8,12,0,3,12,1
+74,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,1,9,9,8,1,8,0,4,22,3
+75,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,3,4,2,2,2,2,0,3,15,3
+76,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,3,10,7,7,1,7,0,4,22,3
+77,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,7,7,5,0,7,0,3,18,2
+78,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,1,9,9,8,7,8,0,4,22,3
+79,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,1,10,10,3,9,9,0,3,11,2
+80,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,1,5,29,27,3,13,8,0,3,12,2
+81,Vendas,Executivo de Vendas,3,Viaja raramente,0,7,28,21,16,7,9,0,3,11,3
+83,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,1,17,17,14,12,8,0,3,13,2
+84,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,1,2,21,5,0,0,2,0,3,14,2
+85,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,1,6,6,5,0,3,0,3,13,3
+86,Pesquisa e Desenvolvimento,Cientista de Pesquisa,3,Viaja raramente,0,2,25,1,0,0,0,0,3,17,2
+88,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,4,5,3,2,1,2,0,3,13,2
+90,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,2,1,0,0,0,1,3,17,0
+91,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,7,20,4,3,1,3,0,3,11,2
+94,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,6,5,4,0,4,0,4,23,3
+95,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,1,1,0,0,3,17,4
+96,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,10,10,4,0,9,0,3,17,3
+97,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,5,1,0,0,0,0,3,12,3
+98,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,11,11,7,1,8,0,4,23,2
+100,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,16,15,13,2,8,0,3,14,2
+101,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,1,4,17,0,0,0,0,0,3,14,3
+102,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,4,16,5,2,0,2,0,3,13,3
+103,Recursos Humanos,Recursos Humanos,2,Viaja raramente,1,8,16,4,2,0,2,0,4,22,2
+104,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,1,1,10,10,8,3,0,0,3,12,1
+105,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,6,4,0,4,0,3,18,3
+106,Vendas,Executivo de Vendas,3,Viaja raramente,0,3,24,1,0,1,0,0,3,14,4
+107,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Não viaja,1,7,17,13,11,1,9,0,3,12,3
+110,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,5,5,2,1,3,0,3,15,2
+112,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,4,37,6,4,0,2,0,3,11,3
+113,Vendas,Representante de Vendas,1,Viaja raramente,0,3,3,0,0,0,0,0,3,13,3
+116,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,10,4,2,0,3,0,4,23,4
+117,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,1,11,11,10,10,8,0,3,19,3
+118,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,9,9,8,4,7,1,3,16,3
+119,Pesquisa e Desenvolvimento,Representante de Saúde,4,Viaja frequentemente,0,1,22,22,3,11,11,0,4,22,3
+120,Vendas,Executivo de Vendas,2,Viaja raramente,1,0,11,10,7,1,0,0,4,22,2
+121,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,11,11,8,2,7,0,3,12,4
+124,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja frequentemente,1,2,21,10,9,9,5,0,3,13,5
+125,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,12,11,8,5,7,0,3,16,0
+126,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,9,16,4,3,0,3,0,3,12,5
+128,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,4,3,2,0,2,0,4,21,2
+129,Vendas,Executivo de Vendas,2,Não viaja,0,1,5,5,4,0,4,0,3,15,3
+131,Vendas,Executivo de Vendas,4,Viaja raramente,0,0,38,37,10,1,8,0,3,13,1
+132,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,0,4,17,3,2,1,2,0,3,12,3
+133,Recursos Humanos,Recursos Humanos,1,Viaja raramente,1,4,7,3,2,0,2,1,4,22,3
+134,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,0,3,13,2
+137,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,1,1,1,0,1,0,1,3,18,5
+138,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,16,16,13,2,10,0,3,14,3
+139,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,0,5,17,1,0,0,0,0,3,14,2
+140,Recursos Humanos,Gerente,5,Não viaja,0,9,30,3,2,2,2,0,4,21,3
+141,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja frequentemente,1,3,28,8,3,0,7,0,3,19,1
+142,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,6,6,4,0,3,1,3,11,1
+143,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,2,2,2,2,1,0,3,11,2
+144,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,0,0,0,0,0,3,15,5
+145,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja frequentemente,0,3,23,13,12,12,8,0,4,20,1
+147,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,1,1,9,9,7,0,6,1,4,24,3
+148,Recursos Humanos,Gerente,4,Não viaja,1,2,23,5,3,4,4,0,3,12,3
+150,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,6,5,3,1,2,0,3,12,2
+151,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,6,12,1,0,0,0,0,3,15,3
+152,Vendas,Executivo de Vendas,3,Viaja raramente,0,2,12,5,3,1,3,0,3,12,3
+153,Pesquisa e Desenvolvimento,Gerente,3,Viaja raramente,0,2,14,11,10,5,8,0,3,12,6
+154,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,0,10,9,7,2,8,0,3,14,6
+155,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,5,7,1,0,0,0,0,4,22,2
+158,Vendas,Gerente,4,Viaja frequentemente,1,1,25,25,12,4,12,0,3,12,3
+159,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,1,10,10,7,0,9,0,4,25,2
+160,Vendas,Executivo de Vendas,2,Não viaja,0,0,8,7,7,0,7,0,3,13,2
+161,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,9,7,5,4,4,3,1,3,18,2
+162,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,7,23,20,18,15,15,0,3,13,5
+163,Vendas,Executivo de Vendas,2,Viaja raramente,1,4,12,7,7,7,7,1,3,18,3
+164,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,4,4,3,0,3,19,3
+165,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,1,40,40,10,15,6,1,3,12,3
+167,Vendas,Representante de Vendas,1,Viaja raramente,1,1,0,0,0,0,0,1,3,19,2
+169,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,3,2,1,2,1,0,3,14,2
+170,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,16,15,11,5,11,0,3,14,2
+171,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,4,18,3,2,1,2,0,3,12,2
+174,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,4,16,2,2,2,1,0,3,11,3
+175,Vendas,Executivo de Vendas,2,Viaja raramente,1,3,4,2,2,2,2,1,3,11,2
+176,Vendas,Executivo de Vendas,3,Viaja raramente,1,3,12,9,7,0,7,0,3,13,2
+177,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,8,8,7,5,7,0,4,23,3
+178,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,6,7,3,2,0,1,0,4,20,0
+179,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,2,18,4,2,0,3,1,3,15,2
+182,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,17,15,11,5,9,0,3,14,1
+183,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,6,2,2,2,2,0,3,18,3
+184,Recursos Humanos,Recursos Humanos,2,Viaja raramente,1,0,12,11,9,4,7,0,3,19,2
+190,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,7,10,5,4,0,4,1,4,22,2
+192,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,5,9,6,5,0,3,0,3,13,2
+193,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,3,19,3,2,2,2,0,4,20,2
+194,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,4,0,4,0,3,14,4
+195,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,0,9,8,7,0,7,0,3,17,2
+197,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,5,8,3,2,2,2,0,3,14,3
+198,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,6,5,3,1,2,0,3,13,3
+199,Pesquisa e Desenvolvimento,Gerente,4,Viaja frequentemente,0,4,21,7,6,7,7,0,3,13,2
+200,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,2,7,5,0,1,4,0,4,21,2
+201,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,0,0,3,14,3
+202,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,0,1,20,20,7,2,13,0,3,11,2
+204,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,10,10,8,0,6,0,3,13,3
+205,Vendas,Representante de Vendas,2,Viaja raramente,1,2,13,7,7,4,5,0,4,20,3
+206,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,8,20,17,9,0,15,0,3,18,2
+207,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,1,9,9,8,3,7,0,3,14,2
+208,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,1,10,10,7,0,9,0,3,13,1
+211,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,2,10,1,0,0,0,0,3,17,2
+214,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,4,9,1,0,0,0,0,4,20,3
+215,Vendas,Executivo de Vendas,3,Viaja raramente,0,7,15,12,11,2,11,0,3,11,2
+216,Vendas,Representante de Vendas,1,Viaja frequentemente,0,6,6,4,3,1,2,0,3,18,3
+217,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,2,2,2,2,2,0,4,24,6
+218,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,6,6,2,2,2,2,0,3,18,1
+221,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,2,0,2,0,3,11,2
+223,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,1,3,12,5,3,1,4,0,3,16,2
+224,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,1,1,1,1,1,0,1,0,3,15,2
+226,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,3,21,5,4,4,4,0,3,15,5
+227,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,4,13,9,8,1,8,0,3,12,2
+228,Vendas,Executivo de Vendas,3,Viaja raramente,0,2,12,10,9,7,4,0,3,12,2
+230,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,12,8,3,0,7,0,4,22,2
+231,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,8,5,4,1,4,0,4,20,2
+233,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,6,5,2,1,1,0,3,16,3
+235,Vendas,Representante de Vendas,1,Viaja frequentemente,0,0,1,0,0,0,0,1,4,21,5
+238,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,4,13,8,7,7,2,0,3,12,3
+239,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,0,1,12,12,9,6,10,0,3,11,4
+240,Vendas,Executivo de Vendas,2,Viaja raramente,1,4,9,5,4,0,3,0,3,11,3
+241,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,4,19,2,2,2,2,0,3,18,3
+242,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,4,3,1,0,2,0,3,14,2
+243,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,1,0,1,4,22,3
+244,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,24,24,13,15,7,0,4,25,2
+245,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,2,2,2,2,1,0,3,12,3
+246,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,8,7,4,2,0,2,0,4,23,0
+247,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,9,3,2,1,2,0,3,15,3
+248,Vendas,Representante de Vendas,1,Viaja raramente,1,1,4,4,3,0,2,1,4,22,5
+249,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,2,5,3,2,0,2,0,3,15,2
+250,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,5,4,2,1,3,0,3,11,3
+252,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,8,8,7,1,6,0,3,13,5
+253,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,1,21,20,8,9,9,0,3,14,2
+254,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,8,36,24,15,2,15,0,3,11,3
+256,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,1,10,10,9,1,9,0,3,17,2
+258,Pesquisa e Desenvolvimento,Representante de Saúde,4,Viaja raramente,0,3,21,7,7,1,0,0,3,18,6
+259,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,0,34,33,18,11,9,0,3,14,5
+260,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,7,7,7,0,3,0,3,16,2
+261,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,3,8,1,0,0,1,1,3,13,1
+262,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,4,7,5,4,2,2,0,3,14,3
+264,Pesquisa e Desenvolvimento,Gerente,4,Não viaja,0,9,22,20,8,11,8,0,4,23,1
+267,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,8,8,7,1,7,0,3,12,3
+269,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,5,10,6,2,1,2,0,3,11,5
+270,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,2,11,5,3,0,2,0,3,16,5
+271,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,9,14,1,0,0,0,0,3,14,3
+273,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,3,9,7,7,1,7,0,3,18,3
+274,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,5,6,2,2,2,0,0,3,19,1
+275,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,1,1,7,7,7,1,7,0,3,15,0
+277,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,5,5,3,2,0,0,3,17,4
+281,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,1,8,15,7,2,3,7,0,3,15,2
+282,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,7,17,1,0,0,0,1,3,19,2
+283,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,10,10,4,1,9,1,4,22,3
+284,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,4,4,2,2,2,0,3,16,2
+286,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,8,8,1,1,7,0,3,13,2
+287,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,0,9,5,3,2,0,2,0,3,14,5
+288,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,7,17,4,2,0,3,0,3,16,3
+291,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,14,14,8,9,8,1,3,11,2
+292,Pesquisa e Desenvolvimento,Diretor de Produção,3,Não viaja,0,1,12,11,8,5,8,0,4,22,2
+293,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,7,7,7,0,7,0,3,14,2
+296,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,5,16,10,9,4,7,0,3,16,5
+297,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,5,8,5,2,0,4,1,3,11,5
+298,Vendas,Gerente,3,Viaja raramente,1,3,16,1,0,0,0,0,3,18,3
+299,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,5,9,6,3,0,1,1,3,15,5
+300,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,7,6,2,1,5,1,3,14,1
+302,Vendas,Executivo de Vendas,3,Não viaja,0,6,23,19,7,12,8,0,3,12,2
+303,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,16,6,2,0,5,0,3,14,4
+304,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,8,16,13,11,3,7,0,3,16,3
+305,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,6,7,3,2,1,1,0,4,21,3
+306,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja frequentemente,1,1,10,10,8,0,7,0,3,14,1
+307,Vendas,Executivo de Vendas,3,Viaja raramente,0,0,17,16,10,5,13,0,3,12,6
+308,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,0,6,5,4,1,4,0,3,12,2
+309,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,7,1,0,0,0,0,3,17,6
+311,Vendas,Representante de Vendas,1,Viaja frequentemente,0,4,13,9,8,5,8,0,3,17,2
+312,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,1,11,11,10,4,1,0,3,14,5
+314,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,1,10,10,7,0,8,0,3,14,3
+315,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,4,4,3,0,1,1,3,13,3
+316,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,7,6,2,2,2,2,0,3,15,3
+319,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,1,22,22,17,11,15,0,3,11,3
+321,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,8,7,2,2,2,2,0,3,17,2
+323,Vendas,Gerente,5,Viaja raramente,0,3,32,7,0,0,6,0,3,11,3
+325,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,5,8,5,4,0,4,1,3,13,2
+327,Vendas,Gerente,4,Viaja raramente,1,5,22,17,13,1,9,0,4,22,3
+328,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,7,13,9,7,1,7,1,4,20,3
+329,Vendas,Gerente,5,Não viaja,1,1,33,33,7,15,12,0,3,18,2
+330,Vendas,Representante de Vendas,1,Viaja raramente,0,2,6,4,3,1,2,0,3,11,5
+331,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,0,4,3,2,1,2,1,3,14,2
+332,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,7,7,3,2,1,2,0,3,14,1
+333,Vendas,Executivo de Vendas,2,Não viaja,0,0,4,3,2,2,2,0,3,18,2
+334,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,2,17,1,0,0,0,0,3,16,2
+335,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,9,9,8,4,7,0,3,17,3
+336,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,0,25,24,0,1,7,0,3,11,2
+337,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja frequentemente,0,9,9,2,2,2,2,0,3,12,3
+338,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,2,2,2,0,2,0,3,13,2
+339,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,6,13,11,9,5,9,0,3,13,3
+340,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,17,3,1,0,2,0,3,14,2
+341,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,4,9,3,2,0,2,0,3,17,1
+342,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,6,17,1,0,0,0,1,3,11,5
+343,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja frequentemente,0,0,20,19,6,11,8,0,4,25,1
+346,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,6,5,1,5,0,3,19,1
+347,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,3,10,3,2,0,2,0,3,13,1
+349,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,10,3,2,0,2,0,3,14,2
+350,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,0,5,4,2,1,2,0,3,12,3
+351,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,0,10,9,6,7,8,0,3,11,4
+352,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,0,22,21,7,3,9,0,3,19,5
+353,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,0,3,11,0
+355,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,0,6,5,4,1,4,1,3,11,2
+359,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,5,5,1,0,3,0,4,20,3
+361,Vendas,Executivo de Vendas,2,Não viaja,0,3,13,8,7,7,5,0,3,18,0
+362,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,4,9,6,2,0,4,0,3,13,5
+363,Vendas,Gerente,4,Viaja raramente,1,3,28,7,7,7,7,0,3,12,2
+364,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,2,5,0,0,0,0,1,3,11,5
+366,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,10,0,0,0,0,0,3,19,2
+367,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,0,10,9,0,7,8,0,4,21,2
+369,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,0,1,6,6,3,1,5,0,3,12,2
+372,Pesquisa e Desenvolvimento,Representante de Saúde,4,Viaja raramente,1,0,21,20,7,4,10,0,3,14,2
+373,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,16,15,13,10,11,0,3,11,4
+374,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,1,0,37,36,10,4,13,0,3,14,2
+376,Pesquisa e Desenvolvimento,Gerente,3,Não viaja,1,1,10,10,7,9,9,1,3,12,2
+377,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,2,0,4,0,4,23,3
+378,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,7,5,4,0,1,0,3,14,5
+379,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,3,3,2,1,0,0,3,17,4
+380,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Não viaja,1,2,15,5,2,0,2,0,3,18,2
+381,Pesquisa e Desenvolvimento,Gerente,3,Viaja raramente,0,7,10,7,7,6,2,0,3,18,6
+382,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,8,8,0,7,7,0,4,24,3
+384,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,1,6,6,5,1,4,0,4,20,6
+385,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,3,28,10,4,1,6,0,3,14,4
+386,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,1,3,21,5,3,1,3,0,3,16,5
+387,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,20,20,16,11,6,0,4,25,3
+388,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,10,10,7,0,9,0,3,18,3
+389,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,1,3,12,10,7,0,8,0,3,19,4
+390,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,1,1,5,5,3,3,3,0,3,13,3
+391,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,17,17,12,5,7,0,3,12,3
+392,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,3,19,1,0,0,0,1,4,22,0
+393,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,9,10,2,2,1,2,0,3,14,2
+394,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,2,5,3,2,0,2,1,3,13,2
+395,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,3,0,2,0,4,21,3
+396,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja frequentemente,1,9,22,3,2,1,2,0,3,11,4
+397,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,4,10,8,0,7,7,0,3,12,2
+399,Vendas,Representante de Vendas,1,Viaja frequentemente,0,1,2,2,2,2,2,0,3,11,5
+401,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,8,8,7,7,4,1,3,12,0
+403,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,4,4,2,1,2,0,3,12,3
+404,Vendas,Executivo de Vendas,4,Viaja frequentemente,0,5,23,20,4,4,8,0,3,14,2
+405,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,0,0,0,0,0,1,3,13,2
+406,Vendas,Executivo de Vendas,3,Viaja raramente,0,0,12,11,9,6,9,0,3,15,3
+407,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,4,4,1,0,0,0,0,3,18,2
+408,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,5,13,4,1,1,2,0,3,18,3
+410,Vendas,Gerente,4,Viaja raramente,0,1,22,22,10,0,4,0,3,19,2
+411,Vendas,Representante de Vendas,1,Viaja raramente,0,1,0,0,0,0,0,0,3,12,2
+412,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,0,9,8,3,0,7,0,3,19,2
+416,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,10,8,7,7,7,0,3,11,3
+417,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,0,19,18,10,3,7,0,3,17,5
+419,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,0,7,11,9,8,0,8,0,3,15,3
+420,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,13,13,8,4,8,0,3,14,3
+421,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,3,19,10,8,0,1,0,3,17,2
+422,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,1,2,12,5,3,1,2,0,3,13,2
+423,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,6,5,2,0,3,0,3,12,4
+424,Recursos Humanos,Recursos Humanos,2,Viaja raramente,0,3,9,2,2,1,0,0,3,12,1
+425,Pesquisa e Desenvolvimento,Técnico de Laboratório,3,Viaja frequentemente,0,1,24,24,9,9,11,0,3,18,2
+426,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,3,2,2,2,2,0,3,18,2
+428,Pesquisa e Desenvolvimento,Gerente,3,Viaja frequentemente,0,6,12,10,6,8,8,0,3,11,2
+429,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,1,1,21,21,9,11,10,0,3,14,3
+430,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,0,9,8,7,1,7,0,3,19,5
+431,Pesquisa e Desenvolvimento,Representante de Saúde,4,Viaja raramente,1,7,25,7,1,0,7,0,3,12,2
+433,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,2,11,8,2,7,7,1,3,15,3
+434,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,4,4,3,1,2,0,3,12,2
+436,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,13,13,12,11,9,0,3,11,2
+437,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,5,5,4,0,4,0,3,11,3
+438,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,13,7,7,1,7,0,3,12,3
+439,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,7,10,7,7,0,7,0,3,16,0
+440,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,5,5,3,2,2,2,1,3,13,4
+441,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,11,10,8,1,9,0,3,13,2
+442,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,1,10,10,9,8,9,0,4,24,2
+444,Pesquisa e Desenvolvimento,Gerente,5,Viaja frequentemente,0,1,21,21,9,13,3,0,3,15,2
+445,Vendas,Executivo de Vendas,2,Viaja raramente,1,4,12,1,0,0,0,1,3,18,3
+446,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,3,9,7,7,0,1,0,3,14,6
+447,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,4,21,3,2,1,1,0,3,11,2
+448,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,1,9,9,7,0,0,0,3,11,3
+449,Vendas,Executivo de Vendas,2,Não viaja,1,0,6,5,4,1,4,0,3,13,0
+450,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,0,3,20,4,3,0,3,0,3,12,4
+451,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,8,10,1,0,0,0,0,3,16,1
+452,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,9,12,10,9,9,8,0,3,14,3
+453,Vendas,Executivo de Vendas,2,Viaja raramente,1,2,6,4,3,0,2,0,4,22,2
+454,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,7,7,7,0,7,1,3,11,4
+455,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,4,3,2,2,2,0,3,17,2
+456,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,9,1,2,0,3,13,2
+458,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,8,8,7,0,7,0,3,18,3
+460,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,7,8,6,2,0,4,0,3,16,2
+461,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,1,0,12,11,10,2,9,0,3,14,3
+462,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,1,11,11,9,4,10,0,3,14,2
+463,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,7,7,7,1,7,0,3,14,2
+464,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,0,17,16,6,0,13,0,3,13,5
+465,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,4,4,2,0,2,0,3,12,2
+466,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,6,8,5,4,1,2,0,3,15,3
+467,Vendas,Representante de Vendas,2,Viaja frequentemente,0,3,5,0,0,0,0,0,3,19,3
+468,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,2,16,1,0,0,0,0,3,14,2
+469,Vendas,Executivo de Vendas,2,Não viaja,0,1,4,4,3,0,2,0,3,14,3
+470,Recursos Humanos,Recursos Humanos,1,Viaja raramente,1,0,4,3,2,1,0,0,3,11,5
+471,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,8,8,0,0,7,0,3,13,4
+473,Vendas,Gerente,3,Viaja raramente,0,3,15,0,0,0,0,0,4,21,3
+474,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,4,13,7,7,6,7,0,3,13,2
+475,Vendas,Executivo de Vendas,2,Não viaja,1,7,4,2,2,2,2,0,3,12,2
+476,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,8,8,7,7,7,0,3,17,3
+477,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,3,14,1,0,0,0,0,4,23,6
+478,Vendas,Representante de Vendas,1,Viaja frequentemente,1,1,3,3,2,1,2,1,3,11,3
+479,Vendas,Executivo de Vendas,2,Não viaja,0,4,7,1,0,0,0,0,3,15,6
+481,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,4,16,13,9,1,12,0,3,11,2
+482,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,2,15,3,2,1,2,0,3,11,2
+483,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,3,10,7,7,1,7,0,3,13,3
+484,Vendas,Representante de Vendas,1,Não viaja,0,1,3,3,2,2,2,0,4,24,3
+485,Vendas,Representante de Vendas,1,Viaja raramente,1,1,1,1,0,0,0,1,3,13,2
+486,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,6,17,5,4,0,3,0,4,20,3
+487,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,2,7,1,0,0,0,0,3,14,2
+488,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,8,8,7,7,7,1,3,18,5
+491,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,6,20,4,3,1,3,0,3,15,2
+492,Vendas,Executivo de Vendas,2,Viaja raramente,1,2,8,6,4,1,0,1,3,12,6
+493,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,3,2,2,2,2,0,3,16,5
+494,Vendas,Representante de Vendas,1,Viaja raramente,0,1,1,1,0,0,0,1,3,15,0
+495,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,9,6,3,2,1,2,0,3,16,4
+496,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,9,10,1,1,0,0,0,3,19,5
+497,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,5,5,2,0,4,0,3,11,2
+498,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,7,7,5,0,7,0,3,16,1
+499,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,8,26,5,2,0,0,0,4,24,2
+500,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,18,7,7,0,7,0,3,11,2
+501,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,4,6,2,2,2,2,0,3,13,3
+502,Vendas,Executivo de Vendas,2,Não viaja,1,8,9,5,2,0,4,1,3,13,3
+505,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,1,2,30,5,4,1,2,0,3,13,2
+507,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,5,5,2,0,3,0,3,12,2
+508,Vendas,Representante de Vendas,1,Viaja raramente,0,1,1,1,0,0,0,0,3,18,3
+510,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,0,7,6,4,0,4,1,4,22,2
+511,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,2,2,1,1,2,0,3,13,1
+513,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,10,10,9,9,0,0,3,13,2
+514,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,9,3,1,0,0,0,1,4,23,4
+515,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,18,18,7,12,17,0,3,12,2
+516,Vendas,Executivo de Vendas,2,Viaja raramente,0,7,8,5,4,1,3,0,3,12,5
+517,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,8,5,2,1,2,0,3,16,5
+518,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,2,18,1,0,0,1,0,3,12,2
+520,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,1,25,25,10,3,9,0,3,11,3
+521,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,6,20,1,0,0,0,0,4,22,3
+522,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,4,24,4,2,1,2,0,3,11,4
+523,Vendas,Executivo de Vendas,2,Não viaja,0,9,6,3,2,1,2,0,3,15,3
+524,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,13,13,10,3,12,0,3,12,5
+525,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,7,8,3,2,1,2,0,4,20,1
+526,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,4,8,5,2,0,2,0,3,14,3
+527,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,5,5,4,1,3,0,3,11,3
+529,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Não viaja,1,3,15,13,11,10,7,0,3,15,2
+530,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,4,4,2,3,2,0,3,12,3
+531,Pesquisa e Desenvolvimento,Gerente,5,Viaja frequentemente,1,1,21,21,8,1,6,0,3,14,3
+532,Vendas,Executivo de Vendas,4,Viaja frequentemente,0,9,36,7,7,7,7,0,3,11,0
+533,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,6,5,4,4,4,0,3,11,6
+534,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,10,10,7,0,7,0,3,16,2
+536,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,1,10,10,0,1,8,0,3,12,2
+538,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,5,6,2,2,0,2,1,3,13,5
+543,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,2,28,5,4,0,4,0,3,14,4
+544,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,8,2,2,0,2,0,4,21,3
+546,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,0,2,31,5,2,1,4,0,3,13,2
+547,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,0,2,19,5,4,0,2,0,3,11,3
+548,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,2,11,5,4,0,2,0,4,20,2
+549,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,5,33,29,8,11,10,0,3,11,5
+550,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,2,19,10,7,0,8,0,3,14,5
+551,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,0,7,6,5,0,4,0,3,11,4
+554,Vendas,Representante de Vendas,1,Viaja raramente,1,1,6,5,3,1,4,1,3,16,4
+555,Vendas,Representante de Vendas,1,Viaja frequentemente,0,0,3,2,2,1,0,1,3,16,3
+556,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,1,1,1,0,0,0,0,4,23,3
+558,Vendas,Gerente,5,Viaja raramente,0,0,21,20,15,1,12,0,3,14,2
+560,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,3,3,2,0,2,0,4,22,3
+562,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,4,9,5,3,1,4,0,3,15,3
+564,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,1,10,10,2,0,7,0,3,18,2
+565,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,5,6,2,2,1,1,1,3,16,2
+566,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,1,1,0,0,0,1,3,12,3
+567,Vendas,Executivo de Vendas,3,Não viaja,0,0,10,9,8,7,8,0,3,11,3
+568,Vendas,Gerente,4,Viaja raramente,0,3,32,1,0,0,0,0,3,12,3
+569,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,0,0,28,27,10,15,7,0,3,15,2
+571,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,0,12,11,7,6,7,0,3,14,2
+573,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,4,22,18,13,13,11,0,3,19,5
+574,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,5,20,5,0,0,4,0,3,13,2
+575,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,6,26,3,2,0,1,0,3,13,2
+577,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,6,5,4,4,3,0,3,15,2
+578,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,7,19,1,0,0,0,0,3,11,3
+579,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,14,7,3,5,7,0,3,12,3
+580,Vendas,Executivo de Vendas,3,Viaja raramente,1,2,15,3,2,1,2,0,3,19,3
+581,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,1,13,13,8,0,8,0,4,25,6
+582,Pesquisa e Desenvolvimento,Gerente,3,Viaja raramente,1,7,15,7,6,7,7,1,3,12,2
+584,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,7,8,4,3,1,3,1,3,13,2
+585,Vendas,Representante de Vendas,1,Viaja raramente,0,0,4,3,2,1,2,0,3,14,3
+586,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,1,4,10,8,7,0,0,0,3,12,2
+587,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja frequentemente,0,3,12,1,0,0,0,1,3,12,2
+590,Recursos Humanos,Recursos Humanos,3,Viaja frequentemente,1,9,11,3,2,0,2,1,3,15,2
+591,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,4,8,2,2,2,0,0,3,17,4
+592,Vendas,Executivo de Vendas,3,Não viaja,0,1,10,10,3,9,7,0,3,14,3
+593,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,5,4,2,2,1,2,1,3,16,3
+595,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,14,9,7,6,7,0,3,14,2
+597,Vendas,Gerente,4,Viaja raramente,0,3,37,10,9,7,7,0,4,23,2
+599,Vendas,Executivo de Vendas,2,Não viaja,0,7,16,14,3,1,10,0,3,14,3
+600,Vendas,Executivo de Vendas,2,Viaja raramente,0,9,15,11,9,6,9,0,3,11,2
+601,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja raramente,0,7,22,20,6,5,13,0,3,15,3
+602,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,8,8,3,0,7,0,3,11,3
+604,Vendas,Executivo de Vendas,2,Viaja raramente,1,4,10,6,5,0,5,0,3,13,2
+605,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,1,10,10,9,5,8,0,4,21,5
+606,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,9,8,7,3,7,0,3,19,3
+608,Recursos Humanos,Recursos Humanos,1,Viaja frequentemente,1,0,8,7,7,1,0,1,3,11,2
+611,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,4,8,3,2,1,2,0,3,12,2
+612,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,4,10,6,1,0,5,0,3,19,2
+613,Vendas,Gerente,3,Viaja raramente,0,9,10,5,4,0,1,0,4,21,3
+614,Vendas,Representante de Vendas,1,Viaja frequentemente,1,1,0,0,0,0,0,1,3,14,3
+615,Vendas,Executivo de Vendas,3,Não viaja,0,3,20,1,0,0,1,0,3,15,2
+616,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,1,2,10,8,7,0,7,0,3,17,3
+618,Vendas,Executivo de Vendas,2,Viaja raramente,0,5,8,0,0,0,0,0,3,12,5
+620,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,5,5,4,0,3,0,3,16,3
+621,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,7,5,7,0,3,12,3
+622,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,1,0,0,0,1,3,18,3
+623,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,4,12,6,5,1,2,0,3,17,3
+624,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja frequentemente,0,5,28,2,2,1,2,0,3,11,3
+625,Vendas,Gerente,4,Viaja raramente,0,7,22,18,16,11,8,0,3,16,2
+626,Vendas,Executivo de Vendas,3,Não viaja,0,1,9,9,5,7,7,0,3,13,6
+630,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,3,18,10,9,6,9,0,3,12,3
+631,Vendas,Executivo de Vendas,2,Não viaja,0,8,6,4,2,1,2,1,3,12,2
+632,Vendas,Representante de Vendas,1,Viaja frequentemente,0,0,3,2,2,2,1,0,3,13,3
+634,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,3,18,1,0,0,0,0,3,19,4
+635,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,6,8,6,5,4,3,0,3,12,2
+638,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,1,1,31,31,9,0,9,0,3,17,5
+639,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,6,6,5,1,4,0,3,11,3
+641,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,6,5,3,1,4,0,4,20,5
+643,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,0,0,4,21,2
+644,Recursos Humanos,Gerente,5,Viaja frequentemente,0,1,32,32,5,10,7,0,3,11,2
+645,Vendas,Representante de Vendas,1,Viaja raramente,0,1,7,7,4,0,6,0,3,11,1
+647,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,1,6,6,3,1,2,1,3,16,4
+648,Vendas,Representante de Vendas,1,Viaja frequentemente,0,1,1,1,0,0,0,1,3,18,2
+649,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,6,6,5,1,3,0,3,13,3
+650,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,9,3,1,1,2,1,3,17,2
+652,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,4,9,3,2,0,2,0,3,14,3
+653,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,13,7,7,5,7,0,4,22,4
+655,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,6,5,3,0,3,0,3,12,5
+656,Vendas,Executivo de Vendas,2,Viaja raramente,1,4,17,3,0,1,0,0,3,11,3
+657,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,0,3,13,0
+659,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,1,10,10,2,2,2,0,3,13,4
+661,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,1,4,21,1,0,0,0,0,3,14,3
+662,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,8,0,0,0,0,0,3,17,3
+663,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,1,3,10,8,7,4,7,0,3,13,3
+664,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,0,7,21,3,2,0,2,0,3,11,3
+665,Recursos Humanos,Recursos Humanos,2,Viaja raramente,0,4,10,2,2,0,2,0,3,11,1
+666,Vendas,Representante de Vendas,1,Viaja raramente,1,1,8,8,2,0,6,0,3,18,3
+667,Vendas,Representante de Vendas,1,Viaja raramente,0,0,5,4,3,0,2,1,3,11,3
+669,Vendas,Representante de Vendas,1,Viaja raramente,0,1,3,3,2,1,2,0,3,11,2
+671,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,1,4,26,2,2,0,1,0,3,12,2
+675,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,3,2,2,2,2,0,4,20,3
+677,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,6,5,0,1,2,0,3,12,3
+679,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,1,6,6,4,0,5,0,3,12,2
+680,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,1,1,1,0,0,0,0,4,20,2
+682,Vendas,Executivo de Vendas,2,Viaja raramente,0,7,18,14,7,8,10,0,4,20,2
+683,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,10,10,9,8,8,0,3,12,4
+684,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,2,5,1,1,0,0,1,3,14,4
+686,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,3,3,2,0,2,0,3,13,2
+689,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,1,10,10,7,7,8,0,3,15,2
+690,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,6,6,0,1,2,0,3,14,5
+691,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,17,17,11,11,8,0,3,13,3
+692,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,3,15,13,11,4,7,0,4,23,2
+698,Recursos Humanos,Recursos Humanos,3,Viaja raramente,0,2,16,9,7,7,1,0,3,15,1
+699,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,2,13,3,2,0,2,0,3,11,2
+700,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,5,4,2,1,1,0,3,13,0
+701,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,1,1,0,1,1,1,3,11,5
+702,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,10,10,8,9,7,1,3,11,3
+704,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,1,1,1,0,0,0,0,3,18,3
+705,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,5,3,2,0,2,0,3,16,3
+707,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,4,3,2,1,2,0,4,22,4
+709,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,8,7,7,0,5,0,4,20,2
+710,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,1,10,10,7,2,8,0,3,18,5
+712,Vendas,Executivo de Vendas,2,Viaja raramente,0,3,12,2,2,2,2,0,3,12,3
+714,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,1,6,6,5,0,4,0,4,20,3
+715,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,4,1,0,0,0,0,3,17,2
+716,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,20,20,8,3,8,0,3,11,3
+717,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,1,9,8,7,7,7,0,3,14,3
+720,Vendas,Executivo de Vendas,2,Viaja raramente,0,9,4,2,2,2,0,1,3,14,3
+721,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,1,20,20,7,11,10,0,3,11,4
+722,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,7,0,8,0,3,12,2
+723,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,3,18,4,3,1,3,1,3,14,4
+724,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,0,10,9,7,1,8,0,3,13,4
+725,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,1,9,9,7,0,7,0,3,11,3
+727,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,3,10,7,7,7,7,0,3,15,6
+728,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,20,7,7,1,7,0,3,12,2
+729,Vendas,Executivo de Vendas,3,Viaja frequentemente,1,5,20,18,13,1,12,0,4,21,2
+730,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,3,32,5,1,1,3,0,3,19,3
+731,Recursos Humanos,Gerente,5,Viaja raramente,0,3,23,21,6,12,6,0,3,15,2
+732,Vendas,Executivo de Vendas,2,Viaja raramente,0,8,10,2,2,2,2,0,3,14,1
+733,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,1,9,9,7,1,7,0,4,21,4
+734,Recursos Humanos,Gerente,5,Viaja raramente,0,1,22,22,7,2,10,0,3,12,3
+738,Vendas,Representante de Vendas,1,Viaja raramente,0,7,4,2,2,2,2,0,3,15,2
+741,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,7,10,7,7,3,7,1,3,13,4
+742,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Não viaja,0,9,10,8,7,0,5,0,3,14,2
+743,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,4,10,1,0,0,0,0,3,14,4
+744,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,2,9,5,2,1,4,0,3,14,5
+746,Vendas,Executivo de Vendas,4,Viaja frequentemente,1,9,28,22,2,11,13,0,3,12,2
+747,Vendas,Executivo de Vendas,2,Viaja raramente,0,7,10,8,7,7,7,0,4,23,2
+749,Vendas,Representante de Vendas,1,Viaja raramente,0,1,1,1,0,0,0,0,3,11,6
+752,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,6,7,2,2,2,2,1,3,12,2
+754,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,3,7,2,2,2,2,0,3,18,5
+757,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,3,10,5,1,4,3,0,3,11,2
+758,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,5,4,3,0,2,0,3,14,2
+760,Recursos Humanos,Recursos Humanos,2,Viaja raramente,0,9,12,8,3,3,6,0,3,15,3
+762,Pesquisa e Desenvolvimento,Representante de Saúde,4,Viaja raramente,0,7,30,10,7,1,1,0,3,11,1
+763,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,5,4,2,2,3,0,4,20,2
+764,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,8,9,7,6,0,7,0,3,19,2
+766,Vendas,Representante de Vendas,1,Viaja raramente,0,1,2,2,2,2,2,0,3,14,2
+769,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,2,19,2,2,2,2,0,3,17,4
+771,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,0,2,16,1,0,0,0,0,3,11,2
+772,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,1,10,10,8,4,7,0,3,15,2
+773,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,6,6,1,0,0,1,0,3,13,0
+775,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,3,7,0,0,0,0,0,3,14,3
+776,Vendas,Gerente,4,Viaja raramente,0,1,34,34,6,1,16,0,3,11,3
+780,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,10,10,9,7,8,1,3,13,2
+781,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,6,6,5,1,4,0,4,23,5
+783,Vendas,Representante de Vendas,2,Viaja raramente,0,0,9,8,7,3,1,0,3,13,3
+784,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,2,2,2,0,2,0,3,18,3
+785,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,4,8,5,4,1,3,1,3,12,2
+786,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,6,6,5,1,4,0,4,22,5
+787,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,1,5,24,5,2,1,4,1,3,13,2
+789,Vendas,Executivo de Vendas,3,Não viaja,0,1,10,10,7,0,9,0,3,15,1
+791,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,0,5,4,3,1,2,0,3,18,3
+792,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,3,5,2,2,2,0,0,3,14,2
+793,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,4,11,8,7,1,1,0,3,12,3
+796,Vendas,Executivo de Vendas,2,Viaja raramente,0,6,6,4,3,1,2,1,3,17,2
+797,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,10,4,2,1,3,0,3,16,2
+799,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,9,9,5,3,1,4,0,3,11,4
+800,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,0,5,4,2,1,1,0,3,19,3
+802,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,6,5,3,4,3,0,3,13,3
+803,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,1,6,17,15,7,4,12,0,3,12,2
+804,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,6,5,1,3,0,3,11,3
+805,Vendas,Representante de Vendas,1,Viaja raramente,0,1,3,3,2,0,2,0,3,16,1
+806,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,7,2,2,0,2,0,4,21,2
+807,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,1,8,8,7,3,7,0,4,24,2
+808,Vendas,Executivo de Vendas,2,Viaja raramente,0,5,6,3,2,1,2,0,3,17,1
+809,Pesquisa e Desenvolvimento,Gerente,5,Viaja frequentemente,0,1,24,24,7,14,9,0,3,13,4
+811,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,0,0,0,0,1,4,21,2
+812,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,1,1,1,0,0,0,0,3,11,4
+813,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,8,9,5,2,1,4,0,4,20,3
+815,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,5,30,4,3,0,3,0,3,16,3
+816,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,1,0,0,0,1,3,11,1
+817,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,0,14,13,9,3,7,0,3,11,3
+819,Vendas,Executivo de Vendas,2,Viaja raramente,0,5,6,3,2,0,2,1,3,15,3
+820,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,1,1,26,26,14,3,0,0,3,11,3
+823,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,0,10,9,7,0,5,0,3,15,2
+824,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,10,10,7,0,7,0,4,24,3
+825,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,1,7,40,31,15,13,8,1,3,12,2
+826,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,7,2,2,2,2,0,3,13,0
+827,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,9,8,4,3,0,2,0,3,13,4
+828,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,6,5,2,2,2,1,1,3,17,3
+829,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,4,8,5,2,0,4,0,3,13,2
+830,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,14,14,13,6,8,0,3,12,3
+832,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,6,10,1,0,0,0,0,3,14,6
+833,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,5,12,0,0,0,0,0,4,24,4
+834,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,0,3,14,3
+836,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,10,9,8,7,8,0,3,13,3
+837,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,2,13,4,3,1,2,0,3,15,3
+838,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,1,6,5,2,1,3,0,3,16,3
+840,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,9,9,8,7,7,1,3,18,3
+842,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,12,9,7,7,3,1,3,16,3
+843,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,6,22,4,1,1,0,0,4,24,3
+844,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,1,1,9,9,8,0,8,0,3,16,3
+845,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,3,17,8,5,1,6,0,4,21,3
+846,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,8,8,7,7,5,0,4,20,2
+847,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,0,4,3,2,0,2,0,3,19,1
+848,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,8,8,7,1,7,1,3,14,2
+850,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,1,0,0,0,0,0,0,3,11,6
+851,Vendas,Gerente,4,Viaja raramente,0,2,29,20,6,4,17,0,3,14,2
+852,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,9,10,5,2,2,3,0,3,12,2
+854,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,7,6,4,3,0,1,0,3,13,3
+855,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,9,9,8,0,8,0,4,22,5
+856,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,6,5,1,1,0,3,11,3
+857,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,18,18,14,4,11,0,3,14,1
+859,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,8,5,2,0,3,0,3,11,3
+861,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,9,10,5,4,0,3,0,3,12,3
+862,Vendas,Executivo de Vendas,3,Viaja raramente,1,7,35,5,2,0,4,0,3,18,3
+864,Vendas,Executivo de Vendas,3,Viaja raramente,1,4,18,5,4,0,2,0,3,12,2
+865,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,5,9,5,3,1,3,0,3,12,3
+867,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja frequentemente,0,3,31,9,8,0,0,0,4,22,3
+868,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,9,1,0,0,0,0,3,19,2
+869,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,6,5,1,0,4,0,3,13,6
+872,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,6,4,2,2,2,2,0,4,22,2
+874,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,2,10,3,2,0,2,0,4,24,2
+875,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,5,8,2,1,2,2,0,3,14,2
+878,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,0,6,5,4,0,3,0,4,21,3
+879,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,5,5,3,0,3,0,3,18,3
+880,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,1,17,17,14,5,15,0,4,20,2
+881,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,10,10,2,7,8,1,3,19,3
+882,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,0,4,3,0,0,2,0,3,12,2
+885,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,5,5,2,0,3,0,3,12,1
+887,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,7,4,2,0,2,0,3,16,2
+888,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,0,6,5,2,3,4,0,3,17,2
+889,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,10,10,8,5,3,0,3,14,3
+893,Vendas,Representante de Vendas,1,Viaja raramente,0,0,3,2,2,1,2,0,3,19,3
+894,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,1,2,17,5,3,1,3,0,3,13,1
+895,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,3,8,6,4,0,2,0,3,19,2
+896,Vendas,Representante de Vendas,1,Viaja raramente,1,6,5,3,2,0,2,1,3,19,3
+897,Vendas,Executivo de Vendas,4,Viaja raramente,0,5,28,2,0,2,2,0,3,14,3
+899,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,3,16,13,10,4,8,0,3,16,2
+900,Vendas,Representante de Vendas,1,Viaja frequentemente,0,5,10,5,4,0,0,0,3,15,3
+901,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,6,33,12,9,3,8,0,3,18,0
+902,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,4,12,5,2,2,2,0,3,13,2
+903,Vendas,Executivo de Vendas,2,Viaja raramente,1,0,8,7,6,7,7,0,4,22,2
+904,Vendas,Executivo de Vendas,3,Não viaja,1,1,10,10,0,0,9,0,3,13,2
+905,Pesquisa e Desenvolvimento,Gerente,4,Não viaja,0,1,31,31,6,14,7,0,3,11,3
+909,Recursos Humanos,Recursos Humanos,2,Viaja raramente,0,8,13,5,4,0,4,0,3,11,2
+910,Recursos Humanos,Recursos Humanos,1,Viaja raramente,1,3,7,4,3,0,3,0,3,11,4
+911,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,1,0,0,1,1,4,24,2
+912,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,6,8,4,3,0,3,0,3,14,5
+913,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,8,8,7,7,1,0,3,13,0
+916,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,4,4,2,0,2,0,3,14,3
+918,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,9,3,1,0,0,0,1,3,14,3
+920,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,4,4,1,0,0,0,0,4,21,2
+922,Vendas,Representante de Vendas,1,Viaja raramente,0,1,2,2,2,0,2,1,3,13,3
+923,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,1,3,19,3
+924,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,0,17,16,8,4,11,0,3,17,2
+925,Vendas,Representante de Vendas,1,Viaja raramente,1,1,3,3,2,1,2,0,3,18,3
+926,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,0,4,3,2,0,2,1,3,19,3
+927,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,4,10,7,7,1,0,1,3,13,1
+930,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,5,6,2,2,2,2,0,3,18,2
+932,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,7,8,2,2,2,2,1,4,21,2
+933,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,1,0,0,0,3,19,2
+934,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,1,0,0,3,14,3
+936,Vendas,Executivo de Vendas,2,Viaja raramente,0,7,10,5,4,0,3,0,3,17,6
+939,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,3,6,3,2,0,2,0,3,11,1
+940,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,1,2,24,6,0,0,4,0,3,13,3
+941,Vendas,Representante de Vendas,1,Viaja raramente,0,3,13,7,7,5,2,0,3,15,2
+942,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,1,10,10,6,0,7,0,4,25,2
+944,Pesquisa e Desenvolvimento,Técnico de Laboratório,3,Viaja raramente,0,4,29,26,9,1,7,0,3,11,3
+945,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,4,13,0,0,0,0,0,3,17,2
+947,Vendas,Executivo de Vendas,2,Não viaja,0,1,9,9,8,0,0,0,3,13,2
+949,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,8,6,2,0,1,0,3,18,6
+950,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,1,15,15,12,5,11,0,3,13,3
+951,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,6,5,3,0,0,2,0,4,20,3
+952,Vendas,Representante de Vendas,1,Viaja raramente,1,1,1,1,0,0,0,1,3,18,2
+954,Vendas,Executivo de Vendas,3,Viaja raramente,0,2,11,1,0,0,0,0,3,12,2
+956,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,7,7,7,0,7,0,3,12,2
+957,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,2,20,18,13,2,17,0,3,13,3
+958,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,16,11,8,3,9,0,4,21,6
+959,Vendas,Representante de Vendas,1,Viaja raramente,1,1,1,1,0,0,0,1,3,13,3
+960,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,0,1,3,19,2
+961,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,0,10,9,7,8,5,0,3,11,2
+964,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,8,3,1,1,0,0,0,3,14,2
+966,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,8,8,7,6,3,0,3,12,2
+967,Vendas,Executivo de Vendas,3,Viaja raramente,1,1,16,16,7,3,7,1,3,11,6
+969,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,0,6,5,0,1,4,0,3,14,3
+970,Vendas,Executivo de Vendas,3,Viaja raramente,0,5,17,14,1,11,7,1,3,11,2
+972,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,0,1,9,9,7,0,8,0,3,12,5
+974,Vendas,Representante de Vendas,1,Viaja frequentemente,0,1,3,3,1,0,2,0,3,15,5
+975,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,5,5,2,1,0,0,3,16,3
+976,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,0,2,26,9,8,7,8,0,3,15,2
+977,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,4,7,1,0,0,0,1,4,24,4
+981,Vendas,Gerente,4,Viaja raramente,0,6,22,17,13,15,2,0,3,13,3
+982,Vendas,Executivo de Vendas,3,Viaja raramente,0,5,10,8,4,7,7,0,3,11,2
+983,Vendas,Executivo de Vendas,2,Não viaja,1,1,6,5,3,1,3,0,3,13,1
+984,Vendas,Executivo de Vendas,3,Viaja raramente,0,6,12,10,9,0,8,0,3,13,2
+985,Vendas,Executivo de Vendas,3,Viaja raramente,0,0,9,8,7,0,7,0,3,18,3
+986,Vendas,Executivo de Vendas,4,Não viaja,1,4,22,1,0,0,0,1,3,16,2
+987,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,1,1,20,19,10,2,7,0,3,19,3
+990,Vendas,Executivo de Vendas,2,Não viaja,0,4,12,7,7,0,7,0,3,13,3
+991,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,1,0,4,3,2,1,2,1,4,22,0
+992,Vendas,Gerente,4,Não viaja,0,1,10,10,8,6,0,0,3,11,2
+994,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,6,3,0,0,0,0,1,4,20,5
+995,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,5,3,2,0,2,0,3,18,4
+996,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,8,5,3,0,2,0,3,14,2
+997,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,9,32,5,4,1,3,0,4,22,1
+998,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,1,1,6,6,5,1,2,0,3,13,2
+999,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja frequentemente,0,2,21,18,16,0,11,0,3,17,2
+1001,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,9,4,2,2,2,2,0,3,14,2
+1002,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,1,1,9,9,8,0,8,0,3,15,2
+1003,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,9,9,0,0,7,0,3,17,0
+1004,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,4,7,5,2,0,1,1,3,11,2
+1005,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja raramente,1,3,22,12,11,1,5,0,3,18,2
+1006,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,0,3,2,1,0,2,0,3,17,0
+1007,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,6,13,8,7,0,7,0,3,13,3
+1009,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,5,4,2,3,2,0,3,15,6
+1010,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,5,4,2,0,2,1,4,24,2
+1011,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,1,4,4,3,0,3,0,3,12,1
+1012,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,1,0,0,0,0,0,0,3,15,2
+1013,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,8,22,10,7,0,8,0,3,11,2
+1014,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,1,1,16,16,10,10,1,0,3,11,3
+1015,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,1,0,9,8,7,1,7,0,3,12,4
+1016,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,1,1,0,0,0,1,3,15,2
+1017,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,0,4,3,2,1,2,1,3,17,3
+1018,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,8,8,7,1,3,0,3,12,2
+1019,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,4,4,3,1,1,0,3,15,3
+1022,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,2,19,2,2,2,2,0,3,13,0
+1024,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,7,27,15,11,4,8,0,3,14,3
+1025,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,6,8,2,2,2,1,0,3,14,6
+1026,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja raramente,0,1,21,21,6,11,8,0,3,16,3
+1027,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,0,4,3,2,2,2,0,3,18,2
+1028,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,3,3,2,1,2,0,4,20,4
+1029,Vendas,Gerente,5,Viaja raramente,0,6,21,1,0,0,0,0,3,13,3
+1030,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,8,1,0,0,0,0,3,18,5
+1032,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja raramente,1,3,30,5,3,4,3,0,3,13,4
+1033,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,5,15,1,0,0,0,1,3,15,2
+1034,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,1,3,17,8,7,6,7,0,3,14,3
+1035,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Não viaja,0,1,21,21,16,5,10,0,4,22,3
+1036,Vendas,Executivo de Vendas,2,Viaja raramente,1,8,19,1,0,0,0,0,3,12,1
+1037,Vendas,Executivo de Vendas,2,Não viaja,0,8,7,2,2,2,2,1,3,18,6
+1038,Vendas,Gerente,5,Viaja raramente,0,1,33,32,14,6,9,1,3,15,3
+1039,Vendas,Executivo de Vendas,4,Viaja raramente,1,3,23,12,11,11,11,0,3,18,2
+1040,Vendas,Executivo de Vendas,2,Não viaja,0,0,19,18,7,0,13,0,3,12,3
+1042,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,18,17,13,15,14,1,3,16,1
+1043,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,1,1,21,21,6,2,8,0,3,13,2
+1044,Vendas,Representante de Vendas,1,Não viaja,0,0,3,2,2,2,2,0,3,19,2
+1045,Vendas,Gerente,4,Viaja raramente,0,3,26,9,3,1,1,0,3,13,4
+1046,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,9,10,8,7,7,7,0,3,12,2
+1047,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,16,15,1,0,9,0,3,11,2
+1048,Vendas,Gerente,3,Viaja raramente,1,3,14,6,4,0,4,0,3,14,1
+1049,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,6,6,3,0,4,0,3,16,3
+1050,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,2,30,15,7,6,12,0,3,12,2
+1052,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,7,9,1,0,0,0,1,3,14,3
+1053,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,6,6,3,2,1,2,1,3,14,2
+1055,Vendas,Representante de Vendas,1,Viaja raramente,1,1,1,1,1,0,0,0,3,19,2
+1056,Vendas,Representante de Vendas,1,Viaja raramente,0,1,1,1,0,0,0,0,4,22,5
+1060,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,3,8,2,2,2,2,0,3,16,2
+1061,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,1,2,29,8,1,7,7,0,3,11,2
+1062,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,3,8,4,3,0,1,0,3,15,3
+1066,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,8,7,7,7,5,0,3,14,3
+1068,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,1,5,5,3,1,3,0,3,13,5
+1069,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,9,23,2,2,2,2,0,3,17,0
+1070,Vendas,Executivo de Vendas,3,Viaja raramente,0,6,13,9,4,7,0,0,3,11,4
+1071,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,2,18,5,4,0,3,0,3,19,4
+1073,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,0,15,14,8,7,8,0,3,11,2
+1074,Pesquisa e Desenvolvimento,Gerente,4,Não viaja,0,7,31,9,7,6,2,0,3,15,3
+1076,Vendas,Executivo de Vendas,3,Viaja raramente,0,5,18,1,0,0,0,0,3,13,5
+1077,Vendas,Representante de Vendas,1,Viaja frequentemente,1,1,2,2,2,0,2,1,3,14,3
+1079,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,1,0,1,3,13,6
+1080,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,8,19,16,13,1,7,0,4,23,2
+1081,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,9,18,10,0,2,7,1,3,12,2
+1082,Pesquisa e Desenvolvimento,Representante de Saúde,3,Não viaja,0,1,10,10,7,1,9,1,3,12,2
+1083,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,6,5,3,1,3,0,3,16,2
+1084,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,0,7,6,2,0,2,0,3,15,1
+1085,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,10,10,6,0,8,0,3,13,3
+1088,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,0,20,19,9,1,9,0,3,18,4
+1092,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,4,14,11,10,11,1,0,4,20,6
+1094,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,1,3,3,2,1,2,0,3,19,4
+1096,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,3,23,3,2,1,2,0,3,18,4
+1097,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,3,10,8,7,1,7,0,3,13,4
+1098,Recursos Humanos,Recursos Humanos,3,Viaja raramente,0,9,24,20,6,3,6,1,3,14,1
+1099,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,4,9,3,2,1,2,0,3,15,2
+1100,Vendas,Executivo de Vendas,3,Viaja raramente,1,0,9,8,7,4,7,1,4,22,2
+1101,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,0,1,14,13,7,3,8,1,4,22,4
+1102,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,4,4,2,2,2,0,3,16,5
+1103,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,0,7,6,2,0,4,0,3,17,1
+1105,Vendas,Executivo de Vendas,2,Viaja raramente,1,2,8,1,0,0,0,0,3,14,5
+1106,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,7,7,7,5,6,1,3,15,3
+1107,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,1,0,0,1,4,20,0
+1108,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,4,5,2,2,2,2,1,4,20,0
+1109,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,0,0,23,22,6,13,7,0,3,17,3
+1111,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,1,1,0,0,0,1,3,15,2
+1113,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,3,5,0,0,0,0,1,3,14,4
+1114,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,0,4,3,2,0,2,0,3,17,3
+1115,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,3,6,0,0,0,0,0,3,17,2
+1116,Pesquisa e Desenvolvimento,Gerente,4,Não viaja,0,2,27,5,4,2,1,0,4,22,3
+1117,Vendas,Executivo de Vendas,2,Não viaja,0,1,15,15,10,4,12,0,3,13,2
+1118,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,7,18,8,6,4,0,0,3,19,4
+1119,Vendas,Executivo de Vendas,3,Viaja raramente,1,0,9,8,7,2,7,0,3,14,2
+1120,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,4,11,7,5,1,7,0,4,22,1
+1121,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,0,10,9,7,1,7,0,3,17,3
+1124,Vendas,Gerente,4,Viaja raramente,0,3,23,12,9,4,9,0,3,12,3
+1125,Vendas,Executivo de Vendas,3,Viaja raramente,0,7,10,1,0,0,0,0,3,16,2
+1126,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,8,18,8,7,0,1,0,3,11,1
+1127,Pesquisa e Desenvolvimento,Representante de Saúde,4,Viaja frequentemente,0,7,21,18,7,11,5,1,3,11,4
+1128,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,1,21,20,7,4,9,0,3,14,2
+1131,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,2,2,2,2,2,0,3,11,6
+1132,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,0,9,9,5,4,0,3,0,3,15,2
+1133,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,2,18,11,9,0,9,0,4,20,0
+1135,Vendas,Representante de Vendas,1,Viaja frequentemente,0,0,3,2,2,2,2,0,3,12,4
+1136,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,6,5,3,0,4,0,3,17,2
+1137,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,5,5,2,0,2,0,3,11,3
+1138,Vendas,Executivo de Vendas,4,Viaja raramente,0,6,22,9,8,2,3,0,3,17,3
+1140,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,2,5,3,2,0,2,0,3,11,3
+1143,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,0,8,7,5,1,1,0,3,14,2
+1148,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,4,16,1,0,0,0,0,3,19,3
+1150,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,1,10,10,7,1,2,0,3,15,2
+1152,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,7,7,6,5,0,0,3,13,2
+1154,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,3,3,1,0,2,0,3,14,2
+1156,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,1,0,0,0,0,0,1,3,12,0
+1157,Vendas,Executivo de Vendas,2,Viaja raramente,1,0,6,5,2,0,3,1,3,17,3
+1158,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,3,6,1,0,0,0,0,3,11,4
+1160,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,2,2,2,2,2,1,3,12,5
+1161,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,7,9,6,2,1,3,0,3,13,2
+1162,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,4,4,2,2,2,0,3,13,0
+1163,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,6,6,5,1,3,0,4,20,3
+1164,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,6,5,4,1,4,0,3,17,2
+1165,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,11,11,8,3,10,1,3,13,3
+1166,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja frequentemente,0,9,20,18,7,2,13,0,3,17,3
+1167,Vendas,Executivo de Vendas,4,Viaja frequentemente,1,0,22,21,9,13,14,1,3,12,2
+1171,Vendas,Executivo de Vendas,2,Viaja raramente,0,7,9,6,4,1,5,0,3,13,3
+1172,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,6,10,8,0,1,7,0,3,12,2
+1173,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,8,6,4,3,1,2,0,4,22,2
+1175,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,1,1,0,0,1,3,11,4
+1177,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,8,8,7,0,7,0,4,22,2
+1179,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,3,1,4,0,3,18,3
+1180,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,1,3,16,1,1,0,0,0,3,13,3
+1182,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,2,15,7,7,6,4,0,3,18,2
+1184,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,0,14,13,9,4,9,0,4,20,3
+1185,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,2,2,2,2,2,0,3,13,2
+1188,Vendas,Executivo de Vendas,2,Viaja raramente,0,8,7,4,3,1,3,1,3,13,2
+1190,Vendas,Representante de Vendas,1,Não viaja,0,1,1,1,0,0,0,0,3,12,3
+1191,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,4,28,5,2,4,2,0,3,13,2
+1192,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,10,10,8,0,8,0,3,13,5
+1193,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,1,0,0,0,4,25,4
+1195,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,4,7,3,2,0,2,0,3,19,2
+1196,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,14,14,8,3,11,0,3,13,2
+1198,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,2,2,2,1,2,0,3,12,2
+1200,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,6,6,4,0,2,1,3,11,4
+1201,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,3,26,7,7,4,7,0,3,18,6
+1202,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,6,5,4,1,3,0,3,18,2
+1203,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,0,1,0,0,0,0,1,3,11,5
+1204,Vendas,Gerente,4,Viaja raramente,0,8,28,26,15,15,9,0,4,23,2
+1206,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,2,6,0,0,0,0,0,3,13,3
+1207,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,5,5,4,1,4,0,3,13,2
+1210,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,6,5,1,0,0,0,1,3,17,2
+1211,Vendas,Executivo de Vendas,2,Viaja raramente,0,8,8,4,3,0,3,0,3,19,3
+1212,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,5,5,0,0,0,0,0,3,12,2
+1215,Pesquisa e Desenvolvimento,Gerente,4,Viaja frequentemente,0,2,32,2,2,2,2,0,4,22,3
+1216,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,6,6,5,3,3,0,3,12,2
+1217,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,5,25,4,2,0,3,0,3,11,2
+1218,Vendas,Executivo de Vendas,2,Viaja raramente,1,3,15,7,7,1,7,0,3,15,2
+1219,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,0,1,3,13,3
+1220,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,10,10,7,0,1,0,3,12,3
+1221,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,7,7,7,1,7,0,3,14,4
+1224,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,1,10,10,7,8,9,0,3,13,4
+1225,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,20,20,11,13,17,0,4,25,3
+1226,Vendas,Representante de Vendas,1,Viaja raramente,0,1,2,2,1,2,2,0,3,17,2
+1228,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,2,12,6,3,1,4,0,3,11,3
+1231,Recursos Humanos,Recursos Humanos,2,Não viaja,0,7,10,4,3,0,3,0,3,16,3
+1233,Vendas,Executivo de Vendas,2,Viaja raramente,1,0,12,11,7,1,9,0,3,18,3
+1234,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,2,2,2,2,2,0,4,20,2
+1235,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,1,4,10,8,7,0,7,0,3,14,2
+1237,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,2,17,7,7,7,7,0,4,21,2
+1238,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,15,14,10,4,10,0,3,13,5
+1239,Vendas,Executivo de Vendas,2,Viaja raramente,0,7,7,5,1,1,3,0,3,12,2
+1240,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,5,4,3,1,1,0,3,14,4
+1241,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,12,11,9,5,7,0,4,21,2
+1242,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja frequentemente,1,3,20,1,0,0,0,0,3,17,6
+1243,Vendas,Executivo de Vendas,3,Não viaja,1,4,16,13,2,4,12,0,3,11,6
+1244,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,9,9,7,6,8,0,3,14,3
+1245,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,7,33,5,4,1,4,0,3,17,2
+1246,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,10,10,5,7,7,0,3,13,5
+1248,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,1,1,1,1,1,0,0,1,4,25,2
+1249,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,3,3,2,1,2,0,3,15,5
+1250,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,3,36,10,9,0,9,0,3,14,2
+1251,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,1,6,6,5,0,1,0,3,12,2
+1252,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,1,10,10,9,1,8,0,3,19,2
+1254,Vendas,Executivo de Vendas,2,Viaja raramente,0,5,13,6,1,0,5,0,3,17,2
+1255,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,3,25,8,7,0,7,0,3,14,2
+1256,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,2,23,1,0,0,0,0,3,13,2
+1257,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,1,12,11,10,0,7,0,3,12,2
+1258,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,5,7,1,0,0,0,0,3,11,4
+1259,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,3,0,3,0,3,11,2
+1260,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,1,6,6,0,1,0,0,3,11,2
+1263,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,6,25,1,0,0,0,0,3,12,3
+1264,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,3,9,7,7,1,7,0,3,14,2
+1265,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,2,1,0,0,0,0,3,17,5
+1267,Vendas,Gerente,5,Viaja raramente,0,7,26,22,9,3,10,0,3,11,5
+1268,Vendas,Executivo de Vendas,3,Viaja raramente,1,0,10,9,8,0,8,0,3,14,3
+1269,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,1,1,0,0,1,0,3,12,2
+1270,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,1,0,4,22,2
+1273,Vendas,Representante de Vendas,1,Viaja frequentemente,1,1,1,1,0,1,0,1,3,14,4
+1275,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,8,8,5,2,2,0,4,20,2
+1277,Vendas,Gerente,5,Viaja raramente,1,2,26,24,10,1,11,1,3,16,2
+1278,Pesquisa e Desenvolvimento,Representante de Saúde,4,Não viaja,1,1,34,33,9,15,0,0,3,15,3
+1279,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,2,2,2,2,2,1,4,20,2
+1280,Vendas,Gerente,5,Viaja raramente,0,2,26,11,4,0,8,0,3,14,2
+1281,Vendas,Executivo de Vendas,2,Viaja raramente,1,0,4,3,2,0,2,0,3,12,3
+1282,Vendas,Gerente,5,Viaja frequentemente,1,4,31,29,10,11,10,0,4,24,5
+1283,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,6,25,9,7,5,4,0,3,12,6
+1285,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,4,15,11,8,5,10,0,3,13,2
+1286,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,0,5,4,2,0,2,0,3,11,2
+1288,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,1,26,25,9,14,13,0,3,14,4
+1289,Recursos Humanos,Recursos Humanos,2,Viaja frequentemente,0,4,14,10,9,1,8,0,3,11,5
+1291,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,4,3,2,2,2,0,3,14,3
+1292,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,6,18,1,0,0,0,0,3,16,2
+1293,Vendas,Executivo de Vendas,3,Viaja raramente,0,3,23,21,7,15,17,0,3,14,3
+1294,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,9,18,16,14,5,12,0,3,11,2
+1295,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,1,10,10,7,0,5,1,3,11,2
+1296,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,1,2,2,2,2,2,0,3,12,2
+1297,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,0,8,7,0,7,7,0,3,14,6
+1298,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,1,7,10,8,4,1,7,0,3,18,3
+1299,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,3,10,7,7,7,7,1,3,13,2
+1301,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,5,3,2,1,2,0,3,11,2
+1303,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,2,2,2,2,1,0,3,18,3
+1304,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,7,0,8,0,3,15,4
+1306,Pesquisa e Desenvolvimento,Gerente,5,Viaja frequentemente,0,3,22,0,0,0,0,0,4,22,4
+1307,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,1,6,21,19,9,15,2,0,3,13,4
+1308,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,2,2,2,2,2,0,3,12,3
+1309,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,1,10,10,4,1,1,1,3,18,3
+1310,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,6,5,2,0,3,1,3,13,2
+1311,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,0,10,9,2,6,7,0,3,12,6
+1312,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,3,10,7,7,1,7,0,3,12,0
+1314,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,6,10,7,6,5,7,0,3,12,3
+1315,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,0,0,10,9,8,7,5,0,3,11,6
+1317,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,1,4,25,3,2,1,2,0,3,11,2
+1318,Vendas,Executivo de Vendas,3,Viaja raramente,1,2,9,5,4,1,0,1,3,12,2
+1319,Vendas,Executivo de Vendas,3,Viaja raramente,1,9,10,8,7,7,7,1,3,19,2
+1321,Pesquisa e Desenvolvimento,Gerente,3,Viaja raramente,1,1,9,9,1,0,8,0,4,23,2
+1322,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,0,9,8,7,1,7,0,3,11,6
+1324,Vendas,Executivo de Vendas,3,Não viaja,1,1,10,10,8,9,6,0,3,19,5
+1329,Vendas,Executivo de Vendas,2,Não viaja,0,1,19,19,2,11,9,0,3,13,4
+1331,Vendas,Representante de Vendas,1,Viaja frequentemente,1,1,3,3,2,2,2,1,3,11,2
+1333,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,10,3,2,1,2,1,3,12,4
+1334,Pesquisa e Desenvolvimento,Gerente,4,Não viaja,1,0,21,20,8,2,10,0,3,13,3
+1336,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,4,23,19,9,9,11,0,3,14,5
+1338,Recursos Humanos,Gerente,5,Viaja raramente,0,6,36,7,3,7,7,0,3,14,4
+1340,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,9,6,4,2,0,0,0,3,16,0
+1344,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,0,10,9,7,1,6,0,3,11,0
+1346,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,9,9,8,8,8,0,3,13,4
+1349,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,0,10,9,3,1,7,0,3,17,2
+1350,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,1,1,9,9,6,1,1,0,3,11,3
+1352,Recursos Humanos,Gerente,4,Viaja raramente,1,1,33,33,9,0,10,0,3,11,2
+1355,Vendas,Executivo de Vendas,2,Viaja raramente,0,3,11,7,7,1,7,0,3,15,3
+1356,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,8,9,6,0,3,12,6
+1358,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,7,3,2,1,2,0,3,11,6
+1360,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,7,31,10,9,5,9,1,3,14,0
+1361,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,7,4,2,0,3,0,4,22,3
+1362,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,2,17,15,7,6,13,0,3,16,2
+1363,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,1,11,10,9,0,8,0,3,11,2
+1364,Vendas,Representante de Vendas,1,Viaja raramente,0,8,5,1,0,0,0,0,3,14,4
+1367,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja raramente,0,3,29,5,2,0,3,0,3,16,1
+1368,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,1,0,0,0,0,0,0,3,15,5
+1369,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,0,10,9,7,0,0,0,3,12,0
+1371,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,3,8,6,2,0,0,0,4,20,3
+1372,Vendas,Executivo de Vendas,4,Viaja raramente,1,6,24,19,7,3,8,1,3,17,2
+1373,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja raramente,1,4,33,19,16,15,9,0,3,12,0
+1374,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,1,5,5,4,0,0,0,4,20,2
+1375,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,5,15,12,11,11,8,0,4,20,0
+1377,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,4,10,8,7,7,7,0,3,13,1
+1379,Vendas,Representante de Vendas,1,Viaja frequentemente,0,7,3,1,0,0,0,1,3,14,3
+1380,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,0,5,4,2,3,2,1,3,18,0
+1382,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,1,4,4,2,0,3,0,3,11,2
+1383,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,1,14,14,11,4,11,0,3,11,2
+1387,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,5,5,3,0,4,0,3,11,0
+1389,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,1,10,10,2,6,7,1,3,15,3
+1390,Vendas,Executivo de Vendas,2,Viaja raramente,1,3,8,5,4,1,4,0,3,12,2
+1391,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,2,14,4,2,3,2,0,3,11,5
+1392,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,1,3,12,6,2,3,3,0,3,14,4
+1394,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,7,8,6,4,1,3,0,3,15,2
+1395,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,6,8,5,4,1,2,0,3,13,2
+1396,Vendas,Executivo de Vendas,2,Viaja raramente,1,0,4,3,2,1,2,0,3,13,3
+1397,Pesquisa e Desenvolvimento,Representante de Saúde,3,Não viaja,0,3,13,6,4,0,5,0,4,21,2
+1399,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,6,3,2,1,2,0,3,11,3
+1401,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja frequentemente,1,2,24,5,3,0,2,0,3,11,3
+1402,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,1,20,20,7,1,8,0,3,14,3
+1403,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,6,6,2,4,4,0,3,11,3
+1405,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,8,8,2,7,7,1,3,13,2
+1407,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,5,4,3,1,1,0,3,12,2
+1408,Recursos Humanos,Gerente,4,Viaja raramente,0,0,21,20,7,0,9,0,3,14,5
+1409,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,9,12,5,4,0,4,0,3,13,2
+1411,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,8,3,2,0,2,0,3,18,6
+1412,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,2,10,2,2,2,2,0,3,11,2
+1415,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,7,3,2,0,2,0,3,11,2
+1417,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,8,7,7,0,7,0,3,12,2
+1419,Recursos Humanos,Recursos Humanos,3,Viaja raramente,0,1,10,10,9,0,9,0,3,13,3
+1420,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,3,20,4,3,1,3,1,4,20,2
+1421,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja frequentemente,1,0,9,8,7,7,7,1,3,12,1
+1422,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,6,29,20,7,12,7,0,3,19,3
+1423,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,1,3,32,9,8,1,5,0,4,21,3
+1424,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,2,31,7,7,0,0,0,3,13,4
+1425,Vendas,Executivo de Vendas,2,Viaja raramente,1,3,15,5,4,0,1,0,3,16,3
+1427,Vendas,Representante de Vendas,1,Viaja frequentemente,0,1,1,1,0,0,0,1,3,12,3
+1428,Vendas,Executivo de Vendas,2,Viaja raramente,0,7,8,3,2,0,2,0,3,14,3
+1430,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,3,9,3,2,1,0,0,3,11,3
+1431,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,5,10,4,3,1,3,0,3,14,2
+1433,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,1,3,12,3
+1434,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,6,5,0,1,4,0,3,14,3
+1435,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,1,10,10,4,1,8,0,3,16,2
+1436,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,11,3,2,0,2,0,3,13,3
+1438,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,7,17,6,5,1,2,0,3,12,2
+1439,Vendas,Representante de Vendas,1,Viaja raramente,0,3,6,3,2,2,2,1,3,12,2
+1440,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,0,7,6,5,1,3,0,3,14,2
+1441,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,5,3,2,1,0,0,4,22,3
+1443,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,3,26,20,17,5,6,0,3,19,2
+1445,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,5,5,4,0,3,0,3,12,3
+1446,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,7,4,3,0,3,0,3,12,3
+1447,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,5,7,5,4,0,2,0,3,17,2
+1448,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,2,7,4,2,0,3,0,3,12,5
+1449,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,0,3,11,8,7,0,7,0,3,11,2
+1453,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,13,13,7,9,9,0,3,18,5
+1457,Vendas,Executivo de Vendas,3,Viaja raramente,0,4,28,7,7,4,3,1,3,11,1
+1458,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,1,2,11,1,0,0,0,1,4,23,2
+1459,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,0,1,10,10,8,4,7,1,3,11,2
+1460,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,1,2,24,7,7,0,7,0,3,18,2
+1461,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,9,8,3,2,0,2,0,3,18,3
+1464,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,6,7,2,2,2,2,1,3,13,2
+1465,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,4,10,3,1,1,2,0,3,18,4
+1466,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,15,2,2,2,2,0,3,11,3
+1467,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,2,2,2,2,2,1,3,15,0
+1468,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Não viaja,0,2,16,9,8,4,8,0,3,11,5
+1469,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,6,5,4,1,3,0,3,18,4
+1471,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,3,7,5,2,0,3,0,3,14,5
+1472,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,4,35,9,8,8,8,0,3,12,2
+1473,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,2,20,3,2,1,2,0,3,14,0
+1474,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,8,3,1,1,2,0,3,14,3
+1475,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,5,2,1,3,0,3,13,3
+1477,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,0,5,4,3,0,3,0,3,14,2
+1478,Vendas,Executivo de Vendas,2,Viaja raramente,0,3,15,13,9,3,12,0,3,18,2
+1479,Vendas,Executivo de Vendas,2,Viaja raramente,0,8,4,2,1,2,2,0,3,15,2
+1480,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,12,12,9,5,8,0,3,13,3
+1481,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,7,11,1,0,0,0,0,3,12,4
+1482,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,1,1,1,0,0,0,0,3,13,2
+1483,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,0,13,12,9,2,8,0,4,24,2
+1484,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,3,29,8,7,0,7,0,3,14,3
+1485,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja frequentemente,0,7,16,14,8,6,9,0,3,14,3
+1486,Vendas,Representante de Vendas,1,Viaja frequentemente,0,3,5,3,2,1,2,1,3,15,3
+1487,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,5,7,5,3,0,0,1,3,11,4
+1489,Vendas,Executivo de Vendas,2,Viaja raramente,1,0,16,15,9,10,10,1,4,23,2
+1492,Vendas,Representante de Vendas,1,Viaja raramente,0,1,1,1,0,0,0,0,3,13,3
+1494,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,2,4,0,0,0,0,1,3,11,2
+1495,Vendas,Representante de Vendas,1,Não viaja,0,1,1,1,0,0,0,0,3,13,2
+1496,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja frequentemente,1,5,16,2,2,2,2,0,3,18,2
+1497,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,7,0,4,0,3,14,3
+1499,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,0,6,5,3,1,3,0,4,21,3
+1501,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,0,4,3,2,1,2,0,3,16,2
+1502,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,8,8,5,4,0,2,0,3,11,5
+1503,Vendas,Executivo de Vendas,2,Viaja raramente,1,3,11,5,4,1,2,0,3,17,4
+1504,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,7,8,0,0,0,0,1,3,11,2
+1506,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,0,3,14,2
+1507,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,0,5,4,2,1,3,0,3,14,5
+1509,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,4,10,3,2,1,2,0,4,25,3
+1513,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,0,4,3,2,0,2,0,3,13,3
+1514,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,8,8,6,1,7,0,3,14,2
+1515,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,2,14,0,0,0,0,0,3,17,6
+1516,Pesquisa e Desenvolvimento,Gerente,3,Viaja raramente,0,2,10,5,2,0,0,0,4,25,5
+1520,Pesquisa e Desenvolvimento,Gerente,4,Viaja frequentemente,0,3,26,14,9,1,12,0,4,20,2
+1522,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,6,11,9,7,0,7,1,3,13,2
+1523,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,3,24,20,6,14,17,0,3,13,1
+1525,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,4,9,2,0,2,2,0,3,18,3
+1527,Vendas,Gerente,4,Viaja raramente,0,8,23,13,12,5,1,0,3,12,2
+1529,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,1,11,11,8,3,3,0,3,19,3
+1533,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,0,5,4,3,1,2,0,3,14,2
+1534,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,15,5,4,1,0,1,3,14,3
+1535,Vendas,Executivo de Vendas,3,Viaja raramente,1,1,10,10,9,8,6,0,3,14,3
+1537,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,1,7,7,2,7,7,1,3,12,2
+1539,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja frequentemente,1,1,32,32,6,13,9,0,3,13,2
+1541,Vendas,Representante de Vendas,1,Viaja raramente,1,0,12,11,10,5,7,0,4,25,4
+1542,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,4,1,0,0,0,0,3,14,3
+1543,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,10,10,8,3,7,0,3,17,2
+1544,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,3,9,7,7,0,7,0,3,13,3
+1545,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,5,5,3,0,2,0,3,13,2
+1546,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,4,8,5,4,0,3,0,4,20,3
+1547,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja frequentemente,1,2,24,20,8,13,9,0,3,14,3
+1548,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,9,8,4,7,1,0,3,12,5
+1549,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,1,1,15,15,14,5,7,0,3,12,3
+1550,Recursos Humanos,Gerente,4,Viaja raramente,1,1,21,21,7,7,7,0,4,21,2
+1551,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,2,1,1,0,0,0,3,14,3
+1552,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,1,3,8,2,2,2,2,0,3,18,2
+1553,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,1,10,10,8,7,7,0,3,12,4
+1554,Vendas,Representante de Vendas,1,Viaja raramente,0,0,6,5,3,4,2,0,4,23,5
+1555,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,3,12,7,1,2,5,0,3,12,2
+1556,Vendas,Representante de Vendas,1,Viaja raramente,1,3,7,3,2,1,2,0,4,21,3
+1557,Vendas,Executivo de Vendas,2,Viaja raramente,0,8,18,8,7,7,7,0,3,14,2
+1558,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,6,5,1,0,0,0,0,3,18,2
+1560,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,8,2,2,2,2,0,3,13,6
+1562,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,8,6,7,1,3,11,4
+1563,Recursos Humanos,Recursos Humanos,2,Viaja frequentemente,0,3,10,6,3,1,2,0,3,11,2
+1564,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,3,3,0,1,2,0,3,19,3
+1568,Vendas,Executivo de Vendas,3,Viaja raramente,0,3,9,4,2,1,3,0,3,12,3
+1569,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,1,0,0,0,1,3,12,2
+1572,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,0,34,33,7,1,9,1,3,16,4
+1573,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,4,7,5,2,1,4,1,3,11,2
+1574,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Não viaja,0,4,9,6,5,1,2,0,3,14,3
+1576,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,8,10,8,2,7,6,0,3,12,3
+1577,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,0,3,13,4
+1578,Vendas,Gerente,5,Viaja raramente,0,1,36,36,6,2,13,0,4,21,3
+1580,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,9,9,2,2,2,1,0,3,17,3
+1581,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,0,4,21,5
+1582,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,10,9,8,7,7,0,3,11,3
+1583,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,8,3,2,1,2,0,3,12,5
+1585,Vendas,Executivo de Vendas,2,Viaja raramente,0,6,15,1,0,0,0,0,3,13,5
+1586,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,10,10,9,1,5,0,3,18,3
+1587,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,3,10,5,2,0,4,0,3,16,4
+1588,Vendas,Executivo de Vendas,3,Viaja raramente,0,2,11,7,6,7,6,0,3,11,3
+1590,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,1,6,6,4,1,3,0,3,19,0
+1591,Vendas,Gerente,5,Viaja raramente,1,4,27,1,0,0,0,0,3,16,2
+1592,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,4,2,2,2,2,0,3,16,2
+1594,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,1,3,9,3,2,0,2,0,3,13,3
+1595,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,8,24,1,0,0,1,0,4,22,2
+1596,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,1,10,10,9,6,8,0,3,17,3
+1597,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,1,8,8,2,7,7,0,3,14,3
+1598,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,5,5,4,1,2,0,3,15,2
+1599,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,5,8,6,4,0,2,0,3,12,0
+1601,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,1,0,3,18,5
+1602,Vendas,Gerente,4,Viaja raramente,0,1,27,26,0,0,12,0,3,15,5
+1604,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,1,1,0,0,1,3,17,3
+1605,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,1,1,4,4,2,1,3,0,3,14,2
+1606,Pesquisa e Desenvolvimento,Representante de Saúde,4,Viaja frequentemente,1,2,32,30,8,12,13,0,3,15,3
+1607,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,6,3,2,0,2,0,3,17,3
+1608,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,1,0,23,22,7,1,10,0,3,14,4
+1609,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,6,4,1,1,0,3,12,3
+1611,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,1,1,10,10,7,1,4,0,3,14,3
+1612,Vendas,Executivo de Vendas,2,Não viaja,0,1,10,10,7,4,5,0,3,15,2
+1613,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,7,10,5,2,0,3,0,3,13,3
+1614,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,9,7,3,2,1,1,0,3,12,2
+1615,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,1,9,9,7,7,2,0,3,13,3
+1617,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,10,9,6,1,4,0,3,14,3
+1618,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,2,10,7,7,7,7,0,3,13,3
+1619,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,7,7,7,0,7,0,3,11,3
+1621,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,16,16,15,1,10,0,3,11,2
+1622,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,0,6,5,3,0,0,0,4,21,5
+1623,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,3,2,2,2,2,0,3,18,2
+1624,Vendas,Representante de Vendas,1,Viaja frequentemente,1,1,0,0,0,0,0,1,3,12,2
+1625,Recursos Humanos,Gerente,5,Viaja raramente,0,3,27,5,2,1,0,0,3,11,2
+1627,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,0,11,10,8,0,7,0,3,15,3
+1628,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,1,18,18,15,14,12,0,3,13,2
+1630,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,0,1,15,14,11,2,9,0,3,12,5
+1631,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,3,9,4,3,0,2,0,3,17,2
+1633,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,0,10,9,2,3,8,0,3,13,2
+1635,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,10,10,7,3,9,0,3,19,3
+1638,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,3,10,5,4,0,2,0,3,19,6
+1639,Vendas,Executivo de Vendas,3,Viaja raramente,0,9,15,13,12,6,0,1,3,17,3
+1640,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,8,8,4,7,7,0,3,11,2
+1641,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,6,18,4,2,3,3,0,3,15,2
+1642,Recursos Humanos,Recursos Humanos,2,Viaja frequentemente,1,4,14,10,7,0,2,0,3,11,3
+1644,Pesquisa e Desenvolvimento,Gerente,4,Viaja frequentemente,0,2,23,2,2,2,2,0,4,25,3
+1645,Vendas,Executivo de Vendas,2,Viaja raramente,1,6,7,2,2,2,2,1,3,14,2
+1646,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,6,6,3,1,3,0,3,13,2
+1647,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,7,5,3,2,0,2,0,3,17,0
+1648,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,2,6,4,2,1,2,0,3,13,0
+1649,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,3,10,4,2,0,3,1,3,14,3
+1650,Vendas,Executivo de Vendas,2,Viaja raramente,0,9,8,5,2,1,4,0,3,11,2
+1651,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,4,9,3,2,0,2,0,3,12,6
+1653,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,1,7,7,7,0,7,0,3,17,6
+1654,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,4,7,5,4,1,0,0,4,21,3
+1655,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,3,27,4,2,1,2,0,3,16,2
+1656,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,5,19,14,11,1,11,0,3,15,3
+1657,Vendas,Representante de Vendas,1,Viaja raramente,0,1,2,2,2,2,2,0,3,19,3
+1658,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,11,11,8,7,9,0,3,12,2
+1659,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,2,15,4,3,1,3,0,3,11,4
+1661,Pesquisa e Desenvolvimento,Representante de Saúde,4,Viaja raramente,1,2,30,15,11,2,12,0,3,19,3
+1662,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,0,4,3,2,1,2,0,3,15,6
+1664,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,6,13,5,4,0,4,0,4,20,3
+1665,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,0,3,36,10,8,4,7,0,4,25,6
+1666,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,1,14,14,10,6,11,0,4,24,3
+1667,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,3,13,11,9,6,7,1,4,24,2
+1668,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,0,7,19,13,11,2,9,0,3,15,4
+1669,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,10,10,0,0,9,0,3,13,3
+1670,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,6,6,2,0,4,0,3,14,5
+1671,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,0,10,9,5,1,6,0,3,13,4
+1673,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,0,0,2,0,3,11,2
+1674,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,4,17,2,2,2,2,0,3,16,2
+1675,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,4,4,3,3,3,0,4,22,3
+1676,Vendas,Gerente,4,Viaja raramente,0,6,29,3,2,1,2,0,3,14,2
+1677,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,0,4,23,8,7,0,0,0,3,14,2
+1678,Vendas,Executivo de Vendas,3,Viaja raramente,1,3,21,2,0,0,2,0,3,16,2
+1680,Vendas,Representante de Vendas,1,Viaja raramente,0,1,2,2,2,0,2,0,3,11,3
+1681,Vendas,Executivo de Vendas,2,Não viaja,1,1,7,6,5,1,2,0,4,25,2
+1682,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,6,10,3,2,0,2,0,3,14,2
+1683,Recursos Humanos,Recursos Humanos,1,Viaja raramente,1,4,8,2,2,2,2,0,3,18,2
+1684,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,5,5,4,1,2,1,3,11,2
+1687,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,7,7,0,0,0,0,0,3,19,5
+1689,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,3,11,4,3,1,2,0,3,15,2
+1691,Vendas,Representante de Vendas,1,Viaja frequentemente,1,2,19,9,7,7,7,1,3,11,3
+1692,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,1,1,0,0,0,1,3,12,2
+1693,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,1,7,7,7,5,7,0,4,20,5
+1694,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,5,8,4,2,1,2,0,3,12,1
+1696,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,1,15,15,10,4,13,0,3,14,3
+1697,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,3,19,1,0,0,0,0,4,20,2
+1698,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,14,14,11,2,13,0,3,18,6
+1700,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,6,6,3,1,3,0,3,14,2
+1701,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,10,10,9,8,7,0,3,12,3
+1702,Vendas,Representante de Vendas,1,Viaja raramente,1,1,3,3,2,0,2,1,4,21,2
+1703,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,1,1,9,8,7,6,7,0,3,19,2
+1704,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,0,6,5,4,1,4,0,3,14,2
+1706,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,10,10,9,8,8,0,3,17,3
+1707,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,3,0,4,0,3,16,1
+1708,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,10,10,8,8,7,0,3,12,3
+1709,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,9,9,5,3,1,2,0,3,17,2
+1710,Vendas,Representante de Vendas,2,Viaja raramente,0,3,17,13,7,6,7,0,3,15,2
+1712,Pesquisa e Desenvolvimento,Representante de Saúde,3,Não viaja,0,3,25,23,15,14,4,0,4,23,3
+1714,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,1,1,0,0,0,1,3,11,2
+1716,Vendas,Executivo de Vendas,4,Viaja frequentemente,0,7,25,23,5,14,10,1,3,11,3
+1718,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,3,3,2,0,2,0,3,15,3
+1719,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja raramente,0,1,21,21,6,8,6,0,3,11,2
+1720,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,6,10,5,2,1,3,0,3,13,3
+1721,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,6,5,2,0,3,0,3,14,2
+1722,Recursos Humanos,Recursos Humanos,2,Não viaja,0,6,10,3,2,1,2,0,3,19,4
+1724,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,2,18,1,0,0,0,0,3,16,3
+1725,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,6,6,2,1,2,0,3,13,2
+1727,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,6,19,10,7,0,9,0,3,14,3
+1728,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,2,17,7,7,0,7,0,3,16,3
+1729,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,10,10,0,0,8,0,3,12,2
+1731,Vendas,Executivo de Vendas,2,Não viaja,0,7,4,1,0,0,0,0,3,11,3
+1732,Vendas,Executivo de Vendas,3,Viaja raramente,1,4,13,10,6,0,3,0,3,12,5
+1733,Vendas,Executivo de Vendas,2,Viaja raramente,1,5,16,2,2,2,2,1,3,13,3
+1734,Vendas,Executivo de Vendas,2,Viaja raramente,0,6,10,0,0,0,0,1,3,15,2
+1735,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,3,3,2,1,2,0,3,13,3
+1736,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,2,9,5,4,1,4,0,4,20,3
+1737,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Não viaja,1,1,9,9,8,5,8,0,3,15,2
+1739,Vendas,Executivo de Vendas,3,Viaja raramente,0,3,10,4,3,0,2,0,3,13,2
+1740,Vendas,Gerente,5,Viaja raramente,0,1,21,21,8,12,8,0,3,14,3
+1744,Recursos Humanos,Recursos Humanos,3,Viaja raramente,0,4,9,5,0,0,3,0,4,21,2
+1745,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,0,10,9,7,0,7,0,3,16,2
+1746,Recursos Humanos,Recursos Humanos,1,Viaja frequentemente,0,0,3,2,2,2,1,0,3,14,2
+1747,Recursos Humanos,Recursos Humanos,1,Viaja frequentemente,0,6,6,4,2,1,2,1,3,11,0
+1749,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,6,5,2,0,2,0,3,19,3
+1751,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,6,2,1,4,0,3,11,5
+1752,Vendas,Representante de Vendas,1,Viaja raramente,0,1,2,2,2,2,2,1,3,13,3
+1753,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,1,8,10,3,2,0,2,0,3,12,5
+1754,Vendas,Executivo de Vendas,3,Viaja raramente,0,2,12,7,7,1,7,0,3,11,2
+1755,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,0,6,5,0,1,2,0,3,14,3
+1756,Vendas,Executivo de Vendas,2,Não viaja,0,8,13,11,7,1,7,0,3,15,2
+1757,Vendas,Executivo de Vendas,2,Viaja raramente,0,3,8,5,1,0,4,0,3,12,1
+1758,Vendas,Executivo de Vendas,3,Viaja raramente,1,2,11,0,0,0,0,1,4,20,2
+1760,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,4,9,6,1,0,5,0,3,14,4
+1761,Vendas,Executivo de Vendas,3,Viaja raramente,0,2,10,1,0,0,0,1,3,13,2
+1762,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,1,1,0,0,0,0,3,13,2
+1763,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,3,10,7,0,1,7,0,3,16,3
+1764,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,2,12,7,7,0,7,0,3,14,3
+1766,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,3,15,1,0,1,0,0,3,16,2
+1767,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,9,6,1,0,0,0,1,3,16,4
+1768,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,8,7,5,3,0,4,0,4,22,6
+1770,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,8,34,1,0,0,0,0,3,12,2
+1771,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Não viaja,0,5,11,9,8,1,7,0,3,15,2
+1772,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,5,5,3,0,4,0,4,20,2
+1774,Vendas,Executivo de Vendas,2,Não viaja,1,1,15,15,14,0,7,0,3,14,3
+1775,Pesquisa e Desenvolvimento,Diretor de Produção,4,Não viaja,1,4,27,3,2,0,2,0,4,20,2
+1778,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,0,10,9,7,1,8,0,3,13,5
+1779,Vendas,Executivo de Vendas,2,Viaja raramente,0,5,6,2,2,2,2,0,3,12,3
+1780,Vendas,Representante de Vendas,1,Viaja raramente,0,1,1,1,0,1,0,1,3,13,3
+1782,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,5,5,4,0,4,0,3,11,3
+1783,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,1,0,0,0,1,3,17,6
+1784,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,13,12,7,5,7,0,3,14,3
+1786,Pesquisa e Desenvolvimento,Gerente,3,Viaja raramente,0,2,15,2,2,2,2,0,3,11,2
+1787,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,5,5,2,0,3,0,3,14,2
+1789,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,1,7,24,2,1,2,2,0,3,17,3
+1790,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,1,7,15,12,8,5,7,0,3,13,1
+1792,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,6,5,3,2,3,1,3,12,2
+1794,Recursos Humanos,Recursos Humanos,2,Viaja raramente,0,2,19,10,0,4,7,0,3,13,4
+1797,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,10,10,7,7,7,1,3,18,2
+1798,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,6,14,10,8,7,6,0,3,19,1
+1799,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,3,0,3,0,3,11,6
+1800,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,7,9,4,3,2,2,0,4,21,3
+1801,Vendas,Executivo de Vendas,2,Não viaja,0,8,6,2,2,2,2,0,3,15,3
+1802,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,7,4,3,0,2,0,3,17,5
+1803,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,5,10,0,0,0,0,0,3,18,2
+1804,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,2,15,7,7,1,7,0,3,14,6
+1805,Recursos Humanos,Recursos Humanos,1,Não viaja,0,5,13,11,10,3,8,0,3,13,3
+1807,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,4,11,7,1,0,7,1,3,17,3
+1809,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,10,10,3,0,8,1,3,15,4
+1812,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,2,7,2,1,2,2,0,3,18,6
+1813,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,4,7,3,2,1,2,0,3,13,2
+1814,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,3,11,3,2,1,2,0,3,12,3
+1815,Vendas,Executivo de Vendas,3,Viaja raramente,1,0,23,22,14,13,5,0,3,13,3
+1816,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,9,9,7,7,0,2,0,3,14,3
+1818,Recursos Humanos,Recursos Humanos,1,Viaja raramente,1,0,6,5,1,1,4,1,3,11,3
+1821,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,4,13,9,7,3,7,1,4,22,2
+1822,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,4,12,5,3,0,3,0,3,17,3
+1823,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,8,4,8,0,4,21,5
+1824,Vendas,Gerente,4,Não viaja,0,4,37,16,9,14,14,0,4,22,0
+1826,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,6,5,4,0,3,0,3,16,2
+1827,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,1,8,28,22,11,14,10,0,3,12,4
+1829,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,2,15,7,4,7,7,0,3,12,3
+1830,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,4,14,7,1,1,7,0,3,15,2
+1833,Vendas,Executivo de Vendas,3,Viaja frequentemente,0,2,9,3,2,2,2,0,3,14,3
+1834,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,3,3,2,1,2,0,4,25,3
+1835,Vendas,Representante de Vendas,2,Viaja raramente,1,2,20,4,2,0,3,0,4,20,4
+1836,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,5,5,3,1,2,0,3,13,4
+1837,Pesquisa e Desenvolvimento,Diretor de Pesquisa,4,Viaja frequentemente,1,2,23,2,2,2,2,0,3,14,3
+1839,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,1,0,0,0,0,0,0,3,16,4
+1842,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,0,2,1,0,0,0,1,3,17,4
+1844,Recursos Humanos,Recursos Humanos,1,Viaja raramente,1,4,4,2,2,2,0,1,3,15,3
+1845,Vendas,Executivo de Vendas,2,Não viaja,0,4,10,8,7,5,7,0,4,22,3
+1847,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,4,15,1,0,0,0,0,4,22,2
+1849,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,1,7,7,7,7,7,0,4,20,5
+1850,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,1,0,6,5,4,0,2,0,3,14,3
+1852,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,1,11,11,8,3,10,0,3,13,3
+1853,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,8,4,0,0,0,0,0,3,13,2
+1854,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,3,10,6,3,3,3,0,4,22,1
+1856,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,7,2,2,2,0,0,3,12,2
+1857,Pesquisa e Desenvolvimento,Diretor de Produção,3,Viaja raramente,0,3,12,9,8,4,7,0,3,14,4
+1858,Recursos Humanos,Recursos Humanos,1,Não viaja,0,1,3,3,2,2,2,0,3,15,2
+1859,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,8,11,7,0,1,6,0,3,17,3
+1860,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,4,8,0,0,0,0,0,3,13,3
+1862,Vendas,Executivo de Vendas,2,Viaja raramente,1,7,7,2,2,2,2,1,3,12,3
+1863,Vendas,Executivo de Vendas,4,Viaja raramente,0,2,25,19,17,2,8,0,3,12,5
+1864,Vendas,Representante de Vendas,2,Viaja raramente,0,1,9,9,8,5,8,0,4,21,5
+1865,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,1,1,1,0,0,0,0,3,11,3
+1866,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,7,21,16,12,6,14,0,3,13,2
+1867,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja raramente,0,4,29,22,10,12,9,0,3,12,3
+1868,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,1,1,1,0,1,0,1,4,24,3
+1869,Vendas,Executivo de Vendas,3,Viaja raramente,0,5,14,8,7,0,7,1,4,21,2
+1870,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,0,0,8,7,6,7,3,0,3,19,2
+1871,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,8,7,2,2,2,2,0,3,14,2
+1873,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,8,19,5,2,0,4,0,4,20,2
+1875,Vendas,Representante de Vendas,1,Viaja raramente,0,1,1,1,0,0,0,0,3,19,3
+1876,Vendas,Representante de Vendas,1,Viaja raramente,0,1,1,1,0,0,0,1,3,13,3
+1878,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,1,1,0,0,0,1,4,23,2
+1880,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,10,10,9,1,7,0,3,13,4
+1881,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,1,10,10,8,0,2,0,3,11,2
+1882,Vendas,Executivo de Vendas,3,Viaja raramente,1,2,9,5,3,1,0,0,3,13,3
+1883,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,3,11,3,2,1,2,0,3,14,2
+1885,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,5,16,5,3,0,4,0,4,22,2
+1886,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,0,4,3,2,0,2,0,3,11,2
+1888,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,0,10,9,8,3,8,0,3,13,2
+1890,Recursos Humanos,Recursos Humanos,2,Viaja frequentemente,0,1,10,10,1,0,8,0,4,21,2
+1892,Pesquisa e Desenvolvimento,Gerente,4,Viaja raramente,0,2,22,19,7,11,16,0,3,11,3
+1893,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,1,1,1,0,1,0,0,3,13,3
+1898,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,9,8,7,0,7,0,3,14,5
+1900,Pesquisa e Desenvolvimento,Gerente,4,Viaja frequentemente,0,3,24,22,17,4,7,0,3,11,3
+1903,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,2,10,2,0,2,2,0,3,15,5
+1905,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,1,1,5,5,2,3,0,1,4,23,2
+1907,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,5,4,2,1,0,1,3,16,3
+1908,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,12,4,2,1,3,0,3,16,1
+1909,Vendas,Executivo de Vendas,2,Viaja raramente,0,5,14,5,4,1,4,0,4,21,3
+1911,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,9,18,13,7,5,7,0,3,13,3
+1912,Vendas,Executivo de Vendas,2,Viaja raramente,1,2,8,5,2,1,4,0,3,11,2
+1915,Vendas,Executivo de Vendas,2,Viaja raramente,1,3,9,4,2,0,1,0,3,12,3
+1916,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,8,4,2,2,2,2,0,3,12,0
+1918,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja frequentemente,0,0,8,7,7,7,7,0,3,18,3
+1922,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,4,12,4,2,0,3,0,3,12,3
+1924,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,4,0,9,0,3,14,2
+1927,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,1,7,7,7,0,7,0,3,12,2
+1928,Vendas,Representante de Vendas,1,Viaja frequentemente,0,1,1,1,0,0,0,1,3,17,3
+1929,Vendas,Executivo de Vendas,2,Não viaja,0,6,10,3,2,1,2,0,3,19,1
+1931,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,6,5,3,1,2,0,3,11,3
+1932,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,1,1,16,15,10,6,11,0,3,15,3
+1933,Vendas,Executivo de Vendas,2,Viaja raramente,1,3,6,2,0,2,2,1,3,11,0
+1934,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Não viaja,0,8,16,8,7,1,7,0,3,18,4
+1935,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,6,0,0,0,0,0,3,16,3
+1936,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,1,10,10,0,7,9,0,4,25,3
+1937,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,1,1,20,20,11,0,7,0,3,16,3
+1938,Vendas,Gerente,4,Viaja raramente,1,4,29,1,0,0,0,0,3,13,2
+1939,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja frequentemente,1,3,8,4,1,0,3,1,3,14,2
+1940,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,10,5,2,0,3,0,3,19,0
+1941,Pesquisa e Desenvolvimento,Diretor de Pesquisa,5,Viaja frequentemente,0,3,28,5,4,4,3,0,3,15,3
+1943,Vendas,Executivo de Vendas,2,Viaja raramente,1,3,14,0,0,0,0,0,3,12,4
+1944,Recursos Humanos,Recursos Humanos,1,Viaja frequentemente,0,1,1,1,0,0,0,1,3,12,2
+1945,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,6,5,3,0,4,0,3,16,2
+1947,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,0,1,5,5,3,1,4,0,3,14,3
+1948,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Não viaja,1,1,4,4,2,2,3,0,3,13,3
+1949,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,1,5,5,4,0,2,0,4,22,3
+1950,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,14,14,8,2,1,0,4,21,3
+1951,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,9,8,7,1,1,0,3,18,2
+1952,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,0,8,7,7,7,6,0,3,13,6
+1954,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,0,6,5,3,0,2,0,3,12,5
+1955,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,0,5,9,5,1,1,2,0,3,18,6
+1956,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja frequentemente,0,1,10,10,8,8,7,0,4,21,6
+1960,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,5,6,4,1,0,3,1,3,12,2
+1961,Vendas,Representante de Vendas,1,Viaja raramente,0,4,20,1,0,0,0,0,3,14,3
+1962,Vendas,Executivo de Vendas,2,Viaja raramente,1,1,10,10,8,0,9,0,3,11,2
+1965,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,7,7,7,0,7,0,3,14,5
+1966,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,0,8,8,1,0,0,0,0,4,24,1
+1967,Vendas,Executivo de Vendas,2,Viaja frequentemente,1,1,10,10,7,0,8,1,3,11,4
+1968,Vendas,Executivo de Vendas,3,Viaja raramente,1,6,15,2,2,2,2,1,3,13,2
+1969,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,3,9,4,3,2,3,0,3,11,6
+1970,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,0,1,9,9,7,2,8,0,4,20,2
+1971,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,1,10,10,9,0,9,0,3,17,1
+1972,Recursos Humanos,Recursos Humanos,1,Viaja frequentemente,1,0,7,6,2,1,2,0,3,11,2
+1973,Recursos Humanos,Gerente,5,Viaja raramente,1,4,35,10,9,1,4,0,3,18,0
+1974,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,1,1,1,0,0,0,0,3,11,4
+1975,Vendas,Executivo de Vendas,4,Viaja raramente,0,0,21,20,8,11,10,0,3,12,3
+1976,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Não viaja,0,1,20,20,9,3,7,0,3,12,2
+1979,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Não viaja,0,4,13,11,7,4,8,0,4,20,2
+1980,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,6,9,5,2,1,4,0,3,19,3
+1981,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,0,1,4,4,3,1,2,0,3,12,2
+1982,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,5,5,2,1,4,0,3,13,6
+1985,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,1,10,10,9,9,4,0,3,11,2
+1986,Vendas,Executivo de Vendas,2,Viaja raramente,0,3,15,11,8,5,10,0,3,14,4
+1987,Recursos Humanos,Recursos Humanos,1,Viaja raramente,0,4,6,2,0,1,2,0,3,14,3
+1989,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,12,12,8,1,7,0,3,13,6
+1992,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,6,7,2,2,0,2,0,3,19,2
+1993,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,2,25,17,14,12,11,0,4,23,3
+1994,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Não viaja,0,1,1,1,1,0,0,0,3,12,2
+1995,Vendas,Executivo de Vendas,2,Viaja raramente,0,0,16,15,13,5,8,0,3,15,3
+1996,Vendas,Representante de Vendas,1,Viaja raramente,0,0,3,2,2,1,2,0,3,19,1
+1997,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,2,10,8,3,7,7,0,3,11,1
+1998,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,1,6,9,4,3,1,2,0,3,17,3
+1999,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,3,12,5,3,1,0,0,4,22,3
+2000,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Não viaja,0,0,14,13,8,5,12,0,3,18,3
+2003,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,1,7,5,2,2,2,2,0,3,11,3
+2007,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,0,4,3,2,1,2,0,3,12,2
+2008,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,1,10,10,7,0,8,0,3,19,5
+2009,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja raramente,1,0,10,9,7,8,1,0,3,13,6
+2010,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,1,6,6,2,4,1,0,3,13,3
+2012,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,8,8,1,0,0,0,0,3,19,3
+2013,Vendas,Representante de Vendas,1,Viaja raramente,0,0,3,2,2,2,2,0,3,14,2
+2014,Pesquisa e Desenvolvimento,Cientista de Pesquisa,2,Viaja raramente,0,7,18,7,7,1,7,0,3,13,2
+2015,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,0,3,20,18,16,1,11,0,3,12,3
+2016,Vendas,Executivo de Vendas,3,Viaja raramente,0,1,14,14,10,5,7,0,3,19,3
+2017,Pesquisa e Desenvolvimento,Diretor de Pesquisa,3,Viaja raramente,1,1,16,16,11,6,8,0,4,25,2
+2018,Vendas,Executivo de Vendas,2,Viaja raramente,1,0,6,5,3,0,4,0,4,22,3
+2019,Vendas,Representante de Vendas,1,Não viaja,0,2,16,9,8,0,0,0,3,15,3
+2020,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,6,6,4,3,1,2,0,3,12,2
+2021,Vendas,Representante de Vendas,1,Viaja raramente,1,1,2,2,2,1,2,0,3,11,6
+2022,Pesquisa e Desenvolvimento,Gerente,5,Não viaja,0,2,21,6,0,1,3,0,3,13,3
+2023,Vendas,Representante de Vendas,1,Viaja frequentemente,0,1,1,1,0,1,0,1,3,19,3
+2024,Vendas,Executivo de Vendas,3,Viaja raramente,0,0,10,9,7,3,4,0,3,19,2
+2025,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja frequentemente,0,7,18,4,2,0,2,0,3,13,3
+2026,Pesquisa e Desenvolvimento,Representante de Saúde,2,Não viaja,0,1,13,13,12,1,9,0,4,21,2
+2027,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,1,9,4,2,2,2,2,1,3,14,3
+2031,Pesquisa e Desenvolvimento,Gerente,5,Viaja raramente,0,5,24,22,6,4,14,0,3,11,2
+2032,Pesquisa e Desenvolvimento,Técnico de Laboratório,1,Viaja raramente,0,8,14,10,9,9,8,1,3,11,4
+2034,Pesquisa e Desenvolvimento,Diretor de Produção,4,Viaja raramente,0,0,21,20,7,0,10,0,4,23,3
+2035,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,8,8,7,1,7,0,4,21,2
+2036,Vendas,Executivo de Vendas,2,Não viaja,0,1,15,15,12,11,11,0,4,24,4
+2037,Vendas,Executivo de Vendas,2,Viaja raramente,0,2,14,5,4,0,4,0,3,11,5
+2038,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,4,4,2,1,2,0,3,14,4
+2040,Recursos Humanos,Recursos Humanos,3,Viaja raramente,1,1,9,9,0,1,7,0,3,16,2
+2041,Vendas,Executivo de Vendas,2,Viaja raramente,0,1,10,10,7,1,9,0,3,11,1
+2044,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,7,12,6,3,0,1,1,3,12,3
+2045,Vendas,Executivo de Vendas,2,Viaja raramente,0,4,8,6,3,0,0,0,3,13,2
+2046,Vendas,Executivo de Vendas,2,Viaja raramente,0,8,8,5,3,0,1,0,3,15,3
+2048,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,8,2,2,2,2,0,3,14,2
+2049,Pesquisa e Desenvolvimento,Representante de Saúde,2,Viaja frequentemente,1,1,10,10,2,0,2,0,3,14,2
+2051,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,2,20,5,3,0,2,0,3,14,2
+2052,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,4,4,3,1,1,0,3,12,5
+2053,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,1,4,10,4,3,0,3,0,3,13,2
+2054,Pesquisa e Desenvolvimento,Cientista de Pesquisa,1,Viaja raramente,0,1,5,5,4,0,4,0,3,14,3
+2055,Vendas,Executivo de Vendas,3,Viaja raramente,1,4,20,3,2,2,0,1,3,13,3
+2056,Vendas,Executivo de Vendas,4,Viaja raramente,0,0,21,20,9,9,6,0,3,11,2
+2057,Pesquisa e Desenvolvimento,Diretor de Produção,2,Não viaja,0,0,10,9,4,1,7,0,3,19,2
+2060,Vendas,Representante de Vendas,1,Viaja raramente,0,0,5,4,2,0,0,0,3,18,2
+2061,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja frequentemente,0,4,17,5,2,0,3,0,3,17,3
+2062,Pesquisa e Desenvolvimento,Representante de Saúde,3,Viaja raramente,0,4,9,7,7,1,7,0,3,15,5
+2064,Pesquisa e Desenvolvimento,Diretor de Produção,2,Viaja raramente,1,1,6,6,2,0,3,0,4,20,0
+2065,Vendas,Executivo de Vendas,2,Viaja frequentemente,0,2,17,9,6,0,8,0,3,14,3
+2068,Pesquisa e Desenvolvimento,Técnico de Laboratório,2,Viaja raramente,0,2,6,4,3,1,2,0,3,12,3

@@ -1,0 +1,1471 @@
+numero_funcionario,idade,genero,estado_civil,distancia_de_casa,escolaridade,area_de_formacao
+1,41,Feminino,Solteiro,1,2,Ciências Biológicas
+2,49,Masculino,Casado,8,1,Ciências Biológicas
+4,37,Masculino,Solteiro,2,2,Outros
+5,33,Feminino,Casado,3,4,Ciências Biológicas
+7,27,Masculino,Casado,2,1,Medicina
+8,32,Masculino,Solteiro,2,2,Ciências Biológicas
+10,59,Feminino,Casado,3,3,Medicina
+11,30,Masculino,Divorciado,24,1,Ciências Biológicas
+12,38,Masculino,Solteiro,23,3,Ciências Biológicas
+13,36,Masculino,Casado,27,3,Medicina
+14,35,Masculino,Casado,16,3,Medicina
+15,29,Feminino,Solteiro,15,2,Ciências Biológicas
+16,31,Masculino,Divorciado,26,1,Ciências Biológicas
+18,34,Masculino,Divorciado,19,2,Medicina
+19,28,Masculino,Solteiro,24,3,Ciências Biológicas
+20,29,Feminino,Divorciado,21,4,Ciências Biológicas
+21,32,Masculino,Divorciado,5,2,Ciências Biológicas
+22,22,Masculino,Divorciado,16,2,Medicina
+23,53,Feminino,Casado,2,4,Ciências Biológicas
+24,38,Masculino,Solteiro,2,3,Ciências Biológicas
+26,24,Feminino,Divorciado,11,2,Outros
+27,36,Masculino,Solteiro,9,4,Ciências Biológicas
+28,34,Feminino,Solteiro,7,4,Ciências Biológicas
+30,21,Masculino,Solteiro,15,2,Ciências Biológicas
+31,34,Masculino,Solteiro,6,1,Medicina
+32,53,Feminino,Divorciado,5,3,Outros
+33,32,Feminino,Solteiro,16,1,Ciências Biológicas
+35,42,Masculino,Casado,8,4,Marketing
+36,44,Feminino,Casado,7,4,Medicina
+38,46,Feminino,Solteiro,2,4,Marketing
+39,33,Masculino,Solteiro,2,3,Medicina
+40,44,Masculino,Casado,10,4,Outros
+41,30,Masculino,Solteiro,9,2,Medicina
+42,39,Masculino,Casado,5,3,Área Técnica
+45,24,Masculino,Casado,1,3,Medicina
+46,43,Feminino,Divorciado,2,2,Medicina
+47,50,Masculino,Casado,3,2,Marketing
+49,35,Feminino,Casado,2,3,Marketing
+51,36,Feminino,Casado,5,4,Ciências Biológicas
+52,33,Feminino,Casado,1,3,Ciências Biológicas
+53,35,Masculino,Divorciado,4,2,Outros
+54,27,Feminino,Divorciado,2,4,Ciências Biológicas
+55,26,Masculino,Solteiro,25,3,Ciências Biológicas
+56,27,Masculino,Solteiro,8,3,Ciências Biológicas
+57,30,Feminino,Solteiro,1,2,Medicina
+58,41,Feminino,Casado,12,3,Área Técnica
+60,34,Masculino,Solteiro,23,4,Marketing
+61,37,Masculino,Casado,19,2,Ciências Biológicas
+62,46,Masculino,Solteiro,5,4,Marketing
+63,35,Masculino,Casado,8,1,Ciências Biológicas
+64,48,Masculino,Solteiro,1,2,Ciências Biológicas
+65,28,Masculino,Solteiro,5,4,Área Técnica
+68,44,Feminino,Divorciado,1,5,Marketing
+70,35,Masculino,Casado,11,2,Medicina
+72,26,Feminino,Casado,23,3,Marketing
+73,33,Feminino,Solteiro,1,2,Ciências Biológicas
+74,35,Masculino,Casado,18,5,Ciências Biológicas
+75,35,Feminino,Casado,23,4,Medicina
+76,31,Masculino,Divorciado,7,4,Ciências Biológicas
+77,37,Masculino,Divorciado,1,4,Ciências Biológicas
+78,32,Masculino,Casado,1,3,Medicina
+79,38,Feminino,Solteiro,29,5,Ciências Biológicas
+80,50,Feminino,Divorciado,7,2,Medicina
+81,59,Feminino,Solteiro,25,3,Ciências Biológicas
+83,36,Feminino,Divorciado,8,3,Área Técnica
+84,55,Feminino,Divorciado,8,3,Medicina
+85,36,Masculino,Solteiro,11,3,Ciências Biológicas
+86,45,Masculino,Divorciado,7,3,Ciências Biológicas
+88,35,Masculino,Casado,1,3,Medicina
+90,36,Masculino,Casado,9,3,Medicina
+91,59,Feminino,Solteiro,1,1,Ciências Biológicas
+94,29,Masculino,Casado,2,3,Ciências Biológicas
+95,31,Masculino,Solteiro,1,4,Medicina
+96,32,Masculino,Casado,1,3,Ciências Biológicas
+97,36,Feminino,Casado,6,3,Ciências Biológicas
+98,31,Feminino,Solteiro,8,4,Ciências Biológicas
+100,35,Masculino,Solteiro,1,4,Marketing
+101,45,Masculino,Casado,6,4,Outros
+102,37,Masculino,Solteiro,7,4,Medicina
+103,46,Masculino,Divorciado,5,2,Medicina
+104,30,Masculino,Casado,1,1,Ciências Biológicas
+105,35,Masculino,Solteiro,1,3,Medicina
+106,55,Masculino,Casado,1,2,Ciências Biológicas
+107,38,Feminino,Divorciado,6,3,Medicina
+110,34,Masculino,Casado,1,2,Medicina
+112,56,Masculino,Solteiro,7,3,Ciências Biológicas
+113,23,Masculino,Divorciado,2,1,Área Técnica
+116,51,Masculino,Casado,9,4,Ciências Biológicas
+117,30,Masculino,Casado,2,3,Ciências Biológicas
+118,46,Masculino,Solteiro,9,2,Medicina
+119,40,Masculino,Casado,1,4,Ciências Biológicas
+120,51,Masculino,Solteiro,21,4,Marketing
+121,30,Feminino,Divorciado,4,2,Medicina
+124,46,Masculino,Casado,1,3,Medicina
+125,32,Masculino,Solteiro,6,4,Medicina
+126,54,Feminino,Casado,2,4,Área Técnica
+128,24,Feminino,Casado,3,2,Outros
+129,28,Masculino,Casado,4,3,Medicina
+131,58,Masculino,Solteiro,10,4,Medicina
+132,44,Masculino,Casado,23,3,Medicina
+133,37,Masculino,Divorciado,6,4,Recursos Humanos
+134,32,Masculino,Solteiro,1,1,Ciências Biológicas
+137,20,Feminino,Solteiro,6,3,Ciências Biológicas
+138,34,Feminino,Solteiro,6,4,Outros
+139,37,Masculino,Divorciado,2,2,Ciências Biológicas
+140,59,Feminino,Casado,2,4,Recursos Humanos
+141,50,Feminino,Casado,1,3,Ciências Biológicas
+142,25,Masculino,Solteiro,5,3,Marketing
+143,25,Masculino,Casado,7,1,Medicina
+144,22,Feminino,Solteiro,15,3,Medicina
+145,51,Feminino,Solteiro,1,4,Medicina
+147,34,Masculino,Solteiro,7,3,Ciências Biológicas
+148,54,Feminino,Solteiro,26,3,Recursos Humanos
+150,24,Masculino,Casado,18,1,Ciências Biológicas
+151,34,Feminino,Divorciado,6,4,Ciências Biológicas
+152,37,Masculino,Solteiro,3,3,Ciências Biológicas
+153,34,Feminino,Solteiro,5,3,Medicina
+154,36,Feminino,Casado,11,2,Área Técnica
+155,36,Feminino,Divorciado,3,2,Ciências Biológicas
+158,43,Masculino,Casado,26,2,Ciências Biológicas
+159,30,Masculino,Divorciado,23,3,Ciências Biológicas
+160,33,Masculino,Casado,22,2,Marketing
+161,56,Feminino,Casado,14,4,Ciências Biológicas
+162,51,Masculino,Solteiro,6,3,Ciências Biológicas
+163,31,Masculino,Casado,6,4,Ciências Biológicas
+164,26,Feminino,Casado,6,3,Outros
+165,58,Feminino,Casado,23,4,Medicina
+167,19,Masculino,Solteiro,22,1,Marketing
+169,22,Masculino,Casado,2,1,Área Técnica
+170,49,Feminino,Casado,20,4,Medicina
+171,43,Feminino,Solteiro,28,3,Medicina
+174,50,Feminino,Solteiro,12,3,Marketing
+175,31,Feminino,Casado,20,3,Ciências Biológicas
+176,41,Masculino,Divorciado,9,1,Ciências Biológicas
+177,26,Feminino,Casado,25,1,Ciências Biológicas
+178,36,Masculino,Divorciado,6,2,Medicina
+179,51,Masculino,Solteiro,8,4,Ciências Biológicas
+182,39,Feminino,Casado,4,4,Ciências Biológicas
+183,25,Masculino,Casado,28,3,Ciências Biológicas
+184,30,Masculino,Casado,9,3,Recursos Humanos
+190,32,Feminino,Solteiro,9,3,Medicina
+192,45,Masculino,Solteiro,29,3,Medicina
+193,38,Feminino,Solteiro,3,5,Área Técnica
+194,30,Feminino,Solteiro,18,3,Ciências Biológicas
+195,32,Masculino,Divorciado,9,2,Medicina
+197,30,Feminino,Divorciado,5,3,Área Técnica
+198,30,Masculino,Solteiro,2,1,Medicina
+199,41,Masculino,Divorciado,10,3,Ciências Biológicas
+200,41,Masculino,Casado,9,4,Ciências Biológicas
+201,19,Feminino,Solteiro,3,1,Medicina
+202,40,Feminino,Divorciado,26,3,Medicina
+204,35,Masculino,Casado,1,5,Marketing
+205,53,Masculino,Casado,6,2,Marketing
+206,45,Masculino,Divorciado,9,3,Ciências Biológicas
+207,32,Feminino,Solteiro,8,3,Marketing
+208,29,Masculino,Casado,1,1,Área Técnica
+211,51,Masculino,Casado,7,4,Medicina
+214,58,Feminino,Casado,9,3,Medicina
+215,40,Masculino,Casado,4,4,Marketing
+216,34,Feminino,Casado,2,4,Marketing
+217,22,Masculino,Casado,19,1,Medicina
+218,27,Masculino,Divorciado,9,3,Medicina
+221,28,Masculino,Casado,21,3,Medicina
+223,57,Masculino,Divorciado,24,2,Ciências Biológicas
+224,27,Masculino,Divorciado,3,3,Medicina
+226,50,Feminino,Solteiro,11,3,Ciências Biológicas
+227,41,Masculino,Divorciado,14,3,Ciências Biológicas
+228,30,Feminino,Casado,5,3,Ciências Biológicas
+230,38,Feminino,Solteiro,1,4,Ciências Biológicas
+231,32,Masculino,Solteiro,6,5,Ciências Biológicas
+233,27,Masculino,Casado,17,3,Área Técnica
+235,19,Feminino,Solteiro,1,1,Área Técnica
+238,36,Masculino,Solteiro,3,2,Medicina
+239,30,Masculino,Divorciado,9,3,Medicina
+240,45,Feminino,Divorciado,4,2,Ciências Biológicas
+241,56,Feminino,Divorciado,8,3,Ciências Biológicas
+242,33,Masculino,Solteiro,2,3,Ciências Biológicas
+243,19,Masculino,Solteiro,2,3,Ciências Biológicas
+244,46,Feminino,Divorciado,1,2,Marketing
+245,38,Feminino,Solteiro,9,2,Ciências Biológicas
+246,31,Feminino,Casado,12,1,Medicina
+247,34,Feminino,Solteiro,27,2,Medicina
+248,41,Feminino,Solteiro,20,2,Marketing
+249,50,Masculino,Casado,1,3,Medicina
+250,53,Feminino,Divorciado,13,2,Medicina
+252,33,Feminino,Casado,14,3,Medicina
+253,40,Feminino,Casado,4,1,Medicina
+254,55,Masculino,Solteiro,14,4,Medicina
+256,34,Masculino,Casado,2,1,Ciências Biológicas
+258,51,Feminino,Solteiro,3,3,Medicina
+259,52,Masculino,Casado,1,4,Ciências Biológicas
+260,27,Feminino,Solteiro,9,3,Medicina
+261,35,Masculino,Casado,23,2,Ciências Biológicas
+262,43,Masculino,Divorciado,7,3,Medicina
+264,45,Masculino,Casado,2,2,Medicina
+267,37,Masculino,Casado,21,3,Ciências Biológicas
+269,35,Feminino,Solteiro,2,3,Medicina
+270,42,Feminino,Divorciado,21,2,Medicina
+271,38,Masculino,Casado,2,4,Ciências Biológicas
+273,38,Masculino,Casado,29,3,Área Técnica
+274,27,Masculino,Casado,1,1,Área Técnica
+275,49,Masculino,Divorciado,18,4,Ciências Biológicas
+277,34,Masculino,Divorciado,10,4,Medicina
+281,40,Masculino,Casado,19,2,Medicina
+282,38,Masculino,Casado,29,1,Medicina
+283,29,Feminino,Casado,27,3,Marketing
+284,22,Masculino,Divorciado,5,3,Ciências Biológicas
+286,36,Feminino,Solteiro,18,1,Medicina
+287,40,Masculino,Casado,9,5,Ciências Biológicas
+288,46,Masculino,Divorciado,1,4,Medicina
+291,32,Masculino,Casado,4,4,Medicina
+292,30,Masculino,Solteiro,1,1,Ciências Biológicas
+293,27,Feminino,Solteiro,20,3,Ciências Biológicas
+296,51,Masculino,Casado,8,4,Ciências Biológicas
+297,30,Feminino,Solteiro,3,3,Área Técnica
+298,41,Feminino,Solteiro,6,3,Ciências Biológicas
+299,30,Feminino,Solteiro,26,4,Marketing
+300,29,Masculino,Solteiro,1,3,Área Técnica
+302,45,Feminino,Solteiro,6,3,Medicina
+303,54,Feminino,Casado,3,3,Marketing
+304,36,Masculino,Solteiro,5,2,Ciências Biológicas
+305,33,Feminino,Casado,4,4,Medicina
+306,37,Masculino,Divorciado,11,3,Outros
+307,38,Masculino,Divorciado,3,3,Ciências Biológicas
+308,31,Masculino,Casado,1,4,Medicina
+309,59,Masculino,Casado,3,3,Ciências Biológicas
+311,37,Masculino,Divorciado,4,4,Marketing
+312,29,Feminino,Casado,1,1,Medicina
+314,35,Feminino,Solteiro,1,3,Marketing
+315,29,Masculino,Solteiro,18,1,Medicina
+316,52,Feminino,Solteiro,2,3,Ciências Biológicas
+319,42,Masculino,Casado,4,2,Área Técnica
+321,59,Masculino,Casado,6,2,Medicina
+323,50,Feminino,Divorciado,1,4,Medicina
+325,33,Masculino,Casado,14,3,Medicina
+327,43,Feminino,Casado,16,3,Marketing
+328,33,Feminino,Casado,2,2,Ciências Biológicas
+329,52,Masculino,Solteiro,2,4,Ciências Biológicas
+330,32,Feminino,Casado,4,2,Ciências Biológicas
+331,32,Masculino,Solteiro,1,3,Ciências Biológicas
+332,39,Feminino,Divorciado,1,4,Medicina
+333,32,Masculino,Casado,26,4,Marketing
+334,41,Masculino,Divorciado,19,2,Ciências Biológicas
+335,40,Masculino,Divorciado,24,2,Área Técnica
+336,45,Masculino,Casado,1,3,Outros
+337,31,Masculino,Divorciado,3,4,Medicina
+338,33,Feminino,Casado,5,4,Ciências Biológicas
+339,34,Masculino,Casado,2,4,Ciências Biológicas
+340,37,Feminino,Casado,1,2,Medicina
+341,45,Masculino,Casado,7,4,Ciências Biológicas
+342,37,Masculino,Divorciado,10,3,Medicina
+343,39,Feminino,Solteiro,2,4,Área Técnica
+346,29,Masculino,Solteiro,15,3,Ciências Biológicas
+347,42,Feminino,Solteiro,17,2,Ciências Biológicas
+349,29,Masculino,Divorciado,20,2,Marketing
+350,25,Feminino,Casado,1,3,Ciências Biológicas
+351,42,Feminino,Divorciado,2,3,Medicina
+352,40,Masculino,Divorciado,2,2,Medicina
+353,51,Masculino,Casado,1,3,Ciências Biológicas
+355,31,Masculino,Solteiro,29,2,Medicina
+359,32,Masculino,Casado,7,3,Ciências Biológicas
+361,38,Masculino,Casado,2,2,Ciências Biológicas
+362,32,Masculino,Solteiro,2,1,Área Técnica
+363,46,Feminino,Casado,2,3,Área Técnica
+364,28,Masculino,Solteiro,2,4,Ciências Biológicas
+366,29,Masculino,Casado,2,3,Medicina
+367,31,Masculino,Casado,23,3,Medicina
+369,25,Masculino,Divorciado,5,2,Ciências Biológicas
+372,45,Masculino,Casado,20,2,Medicina
+373,36,Masculino,Casado,6,3,Ciências Biológicas
+374,55,Masculino,Solteiro,1,3,Medicina
+376,47,Masculino,Casado,29,4,Ciências Biológicas
+377,28,Masculino,Casado,9,3,Medicina
+378,37,Masculino,Casado,6,4,Medicina
+379,21,Masculino,Solteiro,3,2,Medicina
+380,37,Feminino,Divorciado,1,4,Medicina
+381,35,Feminino,Divorciado,22,3,Ciências Biológicas
+382,38,Feminino,Divorciado,7,2,Medicina
+384,26,Feminino,Divorciado,1,3,Ciências Biológicas
+385,50,Masculino,Divorciado,4,1,Ciências Biológicas
+386,53,Masculino,Casado,3,4,Medicina
+387,42,Masculino,Casado,1,1,Ciências Biológicas
+388,29,Masculino,Solteiro,2,2,Ciências Biológicas
+389,55,Masculino,Casado,20,2,Área Técnica
+390,26,Masculino,Casado,11,2,Medicina
+391,37,Feminino,Solteiro,1,3,Ciências Biológicas
+392,44,Masculino,Divorciado,24,3,Ciências Biológicas
+393,38,Masculino,Divorciado,23,4,Ciências Biológicas
+394,26,Masculino,Divorciado,16,4,Medicina
+395,28,Feminino,Solteiro,8,2,Ciências Biológicas
+396,49,Feminino,Solteiro,10,4,Ciências Biológicas
+397,36,Masculino,Solteiro,3,3,Área Técnica
+399,31,Feminino,Divorciado,5,3,Marketing
+401,26,Masculino,Solteiro,4,4,Marketing
+403,37,Masculino,Casado,9,3,Medicina
+404,42,Feminino,Casado,26,3,Marketing
+405,18,Masculino,Solteiro,3,3,Ciências Biológicas
+406,35,Masculino,Casado,16,3,Marketing
+407,36,Masculino,Casado,18,4,Ciências Biológicas
+408,51,Masculino,Divorciado,2,3,Medicina
+410,41,Masculino,Solteiro,2,4,Ciências Biológicas
+411,18,Feminino,Solteiro,10,3,Medicina
+412,28,Masculino,Solteiro,16,2,Medicina
+416,31,Masculino,Casado,7,3,Área Técnica
+417,39,Masculino,Divorciado,1,3,Medicina
+419,36,Feminino,Casado,24,4,Ciências Biológicas
+420,32,Masculino,Casado,7,3,Ciências Biológicas
+421,38,Feminino,Casado,25,2,Ciências Biológicas
+422,58,Masculino,Divorciado,1,4,Ciências Biológicas
+423,31,Masculino,Casado,5,4,Área Técnica
+424,31,Masculino,Casado,2,3,Recursos Humanos
+425,45,Masculino,Divorciado,7,3,Ciências Biológicas
+426,31,Masculino,Divorciado,2,4,Ciências Biológicas
+428,33,Feminino,Casado,5,4,Ciências Biológicas
+429,39,Masculino,Casado,10,1,Medicina
+430,43,Feminino,Solteiro,10,4,Ciências Biológicas
+431,49,Feminino,Solteiro,1,2,Área Técnica
+433,52,Masculino,Casado,8,4,Medicina
+434,27,Feminino,Solteiro,5,3,Ciências Biológicas
+436,32,Feminino,Casado,8,2,Área Técnica
+437,27,Masculino,Solteiro,2,3,Ciências Biológicas
+438,31,Masculino,Divorciado,7,3,Marketing
+439,32,Feminino,Solteiro,2,4,Medicina
+440,28,Masculino,Casado,2,4,Medicina
+441,30,Feminino,Casado,28,2,Medicina
+442,31,Feminino,Casado,7,2,Ciências Biológicas
+444,39,Masculino,Casado,7,2,Medicina
+445,39,Feminino,Casado,3,2,Medicina
+446,33,Masculino,Solteiro,10,3,Marketing
+447,47,Masculino,Casado,5,5,Ciências Biológicas
+448,43,Feminino,Divorciado,10,4,Ciências Biológicas
+449,27,Masculino,Casado,1,1,Marketing
+450,54,Feminino,Solteiro,20,4,Ciências Biológicas
+451,43,Feminino,Casado,7,3,Ciências Biológicas
+452,45,Masculino,Casado,8,4,Outros
+453,40,Masculino,Casado,1,2,Medicina
+454,29,Masculino,Casado,8,4,Outros
+455,29,Masculino,Solteiro,9,5,Outros
+456,30,Feminino,Divorciado,5,3,Marketing
+458,27,Feminino,Casado,8,4,Marketing
+460,37,Masculino,Divorciado,5,2,Medicina
+461,38,Masculino,Divorciado,15,2,Ciências Biológicas
+462,31,Feminino,Solteiro,7,4,Medicina
+463,29,Feminino,Divorciado,10,1,Marketing
+464,35,Masculino,Solteiro,5,4,Área Técnica
+465,23,Masculino,Divorciado,26,1,Ciências Biológicas
+466,41,Masculino,Solteiro,6,3,Medicina
+467,47,Masculino,Solteiro,4,1,Medicina
+468,42,Feminino,Solteiro,23,5,Ciências Biológicas
+469,29,Masculino,Casado,2,3,Ciências Biológicas
+470,42,Masculino,Divorciado,2,1,Área Técnica
+471,32,Feminino,Casado,2,3,Medicina
+473,48,Feminino,Casado,29,1,Medicina
+474,37,Masculino,Divorciado,6,3,Medicina
+475,30,Feminino,Casado,25,2,Área Técnica
+476,26,Masculino,Casado,1,3,Ciências Biológicas
+477,42,Masculino,Solteiro,2,4,Outros
+478,21,Feminino,Solteiro,1,1,Área Técnica
+479,36,Feminino,Solteiro,1,5,Medicina
+481,36,Masculino,Casado,3,4,Medicina
+482,57,Masculino,Casado,1,4,Medicina
+483,40,Feminino,Casado,10,4,Ciências Biológicas
+484,21,Masculino,Solteiro,9,2,Medicina
+485,33,Feminino,Solteiro,5,3,Marketing
+486,37,Feminino,Casado,10,3,Medicina
+487,46,Feminino,Casado,7,4,Medicina
+488,41,Masculino,Solteiro,4,3,Marketing
+491,50,Masculino,Solteiro,10,3,Área Técnica
+492,40,Masculino,Casado,22,2,Marketing
+493,31,Masculino,Solteiro,9,4,Ciências Biológicas
+494,21,Feminino,Solteiro,12,3,Ciências Biológicas
+495,29,Masculino,Solteiro,23,3,Ciências Biológicas
+496,35,Masculino,Solteiro,9,4,Ciências Biológicas
+497,27,Masculino,Divorciado,1,2,Medicina
+498,28,Masculino,Solteiro,9,4,Ciências Biológicas
+499,49,Masculino,Solteiro,7,3,Outros
+500,51,Feminino,Casado,14,2,Ciências Biológicas
+501,36,Feminino,Casado,2,3,Ciências Biológicas
+502,34,Masculino,Solteiro,19,3,Marketing
+505,55,Feminino,Solteiro,2,3,Ciências Biológicas
+507,24,Feminino,Divorciado,10,4,Marketing
+508,30,Masculino,Casado,2,1,Área Técnica
+510,26,Masculino,Solteiro,3,1,Área Técnica
+511,22,Feminino,Casado,11,3,Medicina
+513,36,Masculino,Casado,2,2,Medicina
+514,30,Masculino,Solteiro,4,3,Área Técnica
+515,37,Feminino,Divorciado,14,3,Ciências Biológicas
+516,40,Feminino,Divorciado,2,2,Marketing
+517,42,Feminino,Divorciado,1,4,Ciências Biológicas
+518,37,Masculino,Solteiro,10,4,Ciências Biológicas
+520,43,Masculino,Divorciado,12,3,Ciências Biológicas
+521,40,Feminino,Casado,2,3,Medicina
+522,54,Masculino,Casado,5,2,Medicina
+523,34,Feminino,Casado,4,4,Marketing
+524,31,Feminino,Casado,7,2,Medicina
+525,43,Masculino,Casado,21,3,Medicina
+526,43,Feminino,Divorciado,8,4,Outros
+527,25,Feminino,Solteiro,4,2,Ciências Biológicas
+529,37,Feminino,Casado,25,5,Medicina
+530,31,Masculino,Casado,1,2,Ciências Biológicas
+531,39,Masculino,Divorciado,1,1,Ciências Biológicas
+532,56,Feminino,Casado,6,3,Ciências Biológicas
+533,30,Feminino,Solteiro,12,3,Área Técnica
+534,41,Masculino,Casado,1,3,Marketing
+536,28,Masculino,Divorciado,17,2,Medicina
+538,25,Masculino,Casado,3,3,Medicina
+543,52,Masculino,Casado,3,3,Medicina
+544,45,Masculino,Casado,10,2,Ciências Biológicas
+546,52,Feminino,Casado,4,2,Ciências Biológicas
+547,42,Feminino,Divorciado,29,2,Ciências Biológicas
+548,30,Feminino,Solteiro,2,3,Ciências Biológicas
+549,60,Feminino,Casado,7,3,Ciências Biológicas
+550,46,Feminino,Divorciado,18,3,Medicina
+551,42,Feminino,Casado,28,4,Área Técnica
+554,24,Feminino,Solteiro,1,1,Área Técnica
+555,34,Feminino,Divorciado,6,2,Marketing
+556,38,Masculino,Casado,2,2,Ciências Biológicas
+558,40,Feminino,Casado,2,4,Ciências Biológicas
+560,26,Feminino,Divorciado,23,3,Ciências Biológicas
+562,30,Masculino,Casado,3,3,Ciências Biológicas
+564,29,Masculino,Casado,3,4,Medicina
+565,29,Feminino,Casado,25,5,Área Técnica
+566,19,Masculino,Solteiro,2,2,Área Técnica
+567,30,Feminino,Casado,22,4,Outros
+568,57,Masculino,Divorciado,29,3,Marketing
+569,50,Masculino,Casado,29,4,Ciências Biológicas
+571,30,Feminino,Solteiro,2,3,Medicina
+573,60,Feminino,Casado,28,3,Marketing
+574,47,Feminino,Divorciado,2,2,Medicina
+575,46,Masculino,Casado,2,3,Ciências Biológicas
+577,35,Masculino,Solteiro,22,3,Ciências Biológicas
+578,54,Feminino,Solteiro,8,4,Ciências Biológicas
+579,34,Masculino,Divorciado,2,4,Ciências Biológicas
+580,46,Feminino,Casado,10,3,Marketing
+581,31,Masculino,Divorciado,9,1,Ciências Biológicas
+582,33,Masculino,Casado,15,1,Medicina
+584,33,Masculino,Divorciado,10,1,Medicina
+585,30,Masculino,Solteiro,7,1,Marketing
+586,35,Masculino,Casado,16,3,Ciências Biológicas
+587,31,Masculino,Casado,20,3,Ciências Biológicas
+590,34,Feminino,Divorciado,23,3,Recursos Humanos
+591,42,Masculino,Casado,5,2,Outros
+592,36,Masculino,Solteiro,10,4,Medicina
+593,22,Masculino,Solteiro,4,1,Área Técnica
+595,48,Feminino,Casado,2,5,Marketing
+597,55,Feminino,Solteiro,18,5,Ciências Biológicas
+599,41,Masculino,Solteiro,10,2,Ciências Biológicas
+600,35,Masculino,Casado,1,3,Marketing
+601,40,Feminino,Solteiro,6,3,Ciências Biológicas
+602,39,Feminino,Casado,8,1,Ciências Biológicas
+604,31,Masculino,Solteiro,2,1,Ciências Biológicas
+605,42,Masculino,Casado,24,3,Medicina
+606,45,Masculino,Casado,2,3,Outros
+608,26,Feminino,Divorciado,17,4,Ciências Biológicas
+611,29,Masculino,Divorciado,19,3,Área Técnica
+612,33,Feminino,Divorciado,1,5,Medicina
+613,31,Masculino,Divorciado,7,3,Ciências Biológicas
+614,18,Masculino,Solteiro,5,3,Marketing
+615,40,Masculino,Divorciado,28,3,Outros
+616,41,Feminino,Solteiro,2,4,Outros
+618,26,Masculino,Divorciado,29,2,Medicina
+620,35,Feminino,Solteiro,1,3,Medicina
+621,34,Masculino,Solteiro,21,4,Ciências Biológicas
+622,26,Masculino,Solteiro,24,3,Área Técnica
+623,37,Feminino,Solteiro,1,3,Área Técnica
+624,46,Feminino,Casado,18,1,Medicina
+625,41,Feminino,Casado,2,5,Ciências Biológicas
+626,37,Masculino,Divorciado,9,4,Medicina
+630,52,Masculino,Divorciado,6,2,Área Técnica
+631,32,Masculino,Casado,11,4,Outros
+632,24,Masculino,Casado,24,3,Medicina
+634,38,Feminino,Casado,10,3,Medicina
+635,37,Feminino,Casado,1,4,Ciências Biológicas
+638,49,Masculino,Divorciado,18,4,Ciências Biológicas
+639,24,Masculino,Casado,23,3,Medicina
+641,26,Masculino,Casado,28,2,Marketing
+643,24,Masculino,Casado,17,2,Outros
+644,50,Masculino,Casado,3,3,Medicina
+645,25,Masculino,Casado,13,1,Medicina
+647,24,Feminino,Casado,7,3,Ciências Biológicas
+648,30,Masculino,Casado,12,4,Ciências Biológicas
+649,34,Masculino,Casado,1,2,Ciências Biológicas
+650,31,Masculino,Divorciado,13,4,Medicina
+652,35,Masculino,Solteiro,25,2,Outros
+653,31,Masculino,Divorciado,6,4,Medicina
+655,27,Feminino,Divorciado,6,4,Medicina
+656,37,Masculino,Casado,2,3,Marketing
+657,20,Feminino,Solteiro,1,3,Ciências Biológicas
+659,42,Feminino,Casado,2,4,Ciências Biológicas
+661,43,Masculino,Divorciado,6,4,Outros
+662,38,Feminino,Solteiro,1,1,Ciências Biológicas
+663,43,Masculino,Divorciado,9,5,Medicina
+664,48,Feminino,Casado,1,4,Ciências Biológicas
+665,44,Feminino,Solteiro,1,4,Ciências Biológicas
+666,34,Feminino,Divorciado,14,3,Área Técnica
+667,27,Masculino,Divorciado,2,1,Marketing
+669,21,Masculino,Solteiro,22,1,Área Técnica
+671,44,Masculino,Casado,3,4,Outros
+675,22,Masculino,Casado,6,1,Medicina
+677,33,Masculino,Divorciado,8,4,Marketing
+679,32,Feminino,Casado,9,4,Ciências Biológicas
+680,30,Feminino,Divorciado,3,3,Medicina
+682,53,Feminino,Solteiro,1,1,Medicina
+683,34,Masculino,Casado,1,5,Ciências Biológicas
+684,45,Feminino,Casado,26,4,Ciências Biológicas
+686,26,Feminino,Casado,6,3,Ciências Biológicas
+689,37,Masculino,Casado,3,3,Outros
+690,29,Feminino,Casado,3,2,Medicina
+691,35,Masculino,Solteiro,6,4,Ciências Biológicas
+692,33,Masculino,Divorciado,6,3,Ciências Biológicas
+698,54,Masculino,Casado,19,4,Medicina
+699,36,Masculino,Divorciado,9,2,Medicina
+700,27,Masculino,Solteiro,3,4,Medicina
+701,20,Masculino,Solteiro,10,1,Medicina
+702,33,Masculino,Solteiro,3,3,Ciências Biológicas
+704,35,Masculino,Casado,3,3,Ciências Biológicas
+705,23,Masculino,Casado,4,3,Medicina
+707,25,Masculino,Casado,8,3,Ciências Biológicas
+709,38,Feminino,Solteiro,7,4,Marketing
+710,29,Masculino,Divorciado,1,4,Ciências Biológicas
+712,48,Masculino,Casado,2,1,Marketing
+714,27,Feminino,Divorciado,3,1,Medicina
+715,37,Masculino,Solteiro,10,2,Ciências Biológicas
+716,50,Masculino,Casado,28,1,Medicina
+717,34,Feminino,Solteiro,9,3,Medicina
+720,24,Feminino,Solteiro,3,2,Ciências Biológicas
+721,39,Feminino,Solteiro,2,4,Área Técnica
+722,32,Masculino,Solteiro,10,3,Marketing
+723,50,Masculino,Casado,8,2,Área Técnica
+724,38,Feminino,Solteiro,1,4,Ciências Biológicas
+725,27,Feminino,Casado,1,2,Ciências Biológicas
+727,32,Feminino,Solteiro,3,2,Ciências Biológicas
+728,47,Masculino,Solteiro,14,4,Marketing
+729,40,Masculino,Casado,5,4,Ciências Biológicas
+730,53,Masculino,Casado,7,3,Ciências Biológicas
+731,41,Masculino,Divorciado,10,4,Recursos Humanos
+732,60,Masculino,Solteiro,16,4,Marketing
+733,27,Masculino,Divorciado,10,2,Ciências Biológicas
+734,41,Masculino,Casado,1,3,Recursos Humanos
+738,50,Masculino,Casado,8,4,Marketing
+741,28,Feminino,Solteiro,1,2,Ciências Biológicas
+742,36,Feminino,Casado,8,3,Ciências Biológicas
+743,38,Feminino,Solteiro,1,3,Ciências Biológicas
+744,44,Masculino,Solteiro,24,3,Medicina
+746,47,Feminino,Divorciado,3,3,Medicina
+747,30,Masculino,Divorciado,27,5,Marketing
+749,29,Masculino,Solteiro,10,3,Ciências Biológicas
+752,42,Masculino,Divorciado,19,3,Medicina
+754,43,Masculino,Casado,15,3,Ciências Biológicas
+757,34,Feminino,Solteiro,8,2,Medicina
+758,23,Masculino,Casado,9,1,Medicina
+760,39,Feminino,Casado,3,3,Recursos Humanos
+762,56,Masculino,Casado,9,3,Medicina
+763,40,Feminino,Solteiro,2,1,Medicina
+764,27,Feminino,Solteiro,7,3,Medicina
+766,29,Masculino,Divorciado,10,3,Marketing
+769,53,Masculino,Solteiro,6,3,Ciências Biológicas
+771,35,Feminino,Divorciado,2,4,Ciências Biológicas
+772,32,Masculino,Casado,24,4,Ciências Biológicas
+773,38,Masculino,Casado,2,5,Medicina
+775,34,Feminino,Divorciado,8,5,Ciências Biológicas
+776,52,Masculino,Casado,3,4,Marketing
+780,33,Masculino,Solteiro,1,4,Outros
+781,25,Feminino,Solteiro,26,1,Medicina
+783,45,Masculino,Solteiro,2,2,Área Técnica
+784,23,Masculino,Solteiro,10,1,Medicina
+785,47,Feminino,Solteiro,27,2,Ciências Biológicas
+786,34,Masculino,Solteiro,2,3,Outros
+787,55,Masculino,Casado,2,3,Medicina
+789,36,Masculino,Solteiro,8,4,Ciências Biológicas
+791,52,Masculino,Casado,19,4,Medicina
+792,26,Feminino,Divorciado,1,2,Ciências Biológicas
+793,29,Feminino,Casado,27,3,Medicina
+796,26,Masculino,Solteiro,8,3,Área Técnica
+797,34,Feminino,Solteiro,1,4,Ciências Biológicas
+799,54,Feminino,Divorciado,19,4,Medicina
+800,27,Masculino,Casado,8,1,Marketing
+802,37,Feminino,Divorciado,10,1,Ciências Biológicas
+803,38,Feminino,Solteiro,2,4,Ciências Biológicas
+804,34,Feminino,Solteiro,2,4,Medicina
+805,35,Feminino,Casado,8,4,Ciências Biológicas
+806,30,Masculino,Casado,1,3,Ciências Biológicas
+807,40,Feminino,Casado,2,2,Medicina
+808,34,Feminino,Casado,8,2,Ciências Biológicas
+809,42,Masculino,Divorciado,8,3,Ciências Biológicas
+811,23,Masculino,Casado,6,3,Ciências Biológicas
+812,24,Masculino,Divorciado,9,3,Ciências Biológicas
+813,52,Feminino,Casado,11,4,Ciências Biológicas
+815,50,Masculino,Casado,2,3,Medicina
+816,29,Feminino,Casado,1,2,Ciências Biológicas
+817,33,Masculino,Casado,7,3,Medicina
+819,33,Feminino,Solteiro,16,3,Marketing
+820,47,Feminino,Casado,2,2,Outros
+823,36,Feminino,Casado,1,3,Outros
+824,29,Masculino,Casado,23,2,Ciências Biológicas
+825,58,Masculino,Solteiro,2,4,Ciências Biológicas
+826,35,Feminino,Solteiro,1,4,Ciências Biológicas
+827,42,Feminino,Casado,1,2,Ciências Biológicas
+828,28,Masculino,Solteiro,2,4,Medicina
+829,36,Masculino,Casado,13,3,Recursos Humanos
+830,32,Feminino,Casado,4,3,Ciências Biológicas
+832,40,Masculino,Solteiro,16,4,Medicina
+833,30,Feminino,Solteiro,2,3,Medicina
+834,45,Feminino,Solteiro,2,3,Ciências Biológicas
+836,42,Masculino,Casado,29,3,Ciências Biológicas
+837,38,Masculino,Divorciado,12,3,Ciências Biológicas
+838,34,Feminino,Solteiro,16,4,Ciências Biológicas
+840,49,Feminino,Casado,11,3,Marketing
+842,55,Masculino,Solteiro,2,1,Medicina
+843,43,Masculino,Casado,14,2,Ciências Biológicas
+844,27,Masculino,Divorciado,5,1,Área Técnica
+845,35,Masculino,Solteiro,7,3,Outros
+846,28,Feminino,Casado,2,4,Marketing
+847,34,Masculino,Casado,3,2,Recursos Humanos
+848,26,Feminino,Casado,5,2,Medicina
+850,27,Masculino,Casado,3,3,Medicina
+851,51,Feminino,Casado,26,4,Marketing
+852,44,Masculino,Solteiro,4,3,Medicina
+854,25,Masculino,Solteiro,2,1,Medicina
+855,33,Masculino,Divorciado,1,3,Medicina
+856,35,Feminino,Solteiro,27,1,Medicina
+857,36,Masculino,Casado,1,2,Ciências Biológicas
+859,32,Masculino,Divorciado,13,4,Ciências Biológicas
+861,30,Masculino,Divorciado,5,4,Ciências Biológicas
+862,53,Feminino,Casado,7,2,Marketing
+864,45,Masculino,Divorciado,9,3,Marketing
+865,32,Feminino,Casado,8,2,Medicina
+867,52,Feminino,Casado,25,4,Medicina
+868,37,Masculino,Divorciado,16,4,Marketing
+869,28,Masculino,Divorciado,8,2,Medicina
+872,22,Masculino,Casado,1,2,Ciências Biológicas
+874,44,Masculino,Casado,8,4,Ciências Biológicas
+875,42,Masculino,Solteiro,2,1,Medicina
+878,36,Masculino,Casado,8,3,Ciências Biológicas
+879,25,Masculino,Casado,3,1,Outros
+880,35,Feminino,Casado,9,3,Ciências Biológicas
+881,35,Feminino,Divorciado,25,4,Ciências Biológicas
+882,32,Masculino,Divorciado,1,3,Ciências Biológicas
+885,25,Masculino,Casado,4,1,Marketing
+887,49,Feminino,Casado,1,3,Área Técnica
+888,24,Masculino,Casado,4,1,Ciências Biológicas
+889,32,Masculino,Casado,5,2,Ciências Biológicas
+893,38,Masculino,Casado,9,3,Marketing
+894,42,Feminino,Casado,3,3,Ciências Biológicas
+895,31,Masculino,Casado,11,4,Ciências Biológicas
+896,29,Feminino,Divorciado,1,3,Medicina
+897,53,Masculino,Casado,8,3,Marketing
+899,35,Masculino,Casado,25,3,Área Técnica
+900,37,Feminino,Casado,21,2,Medicina
+901,53,Feminino,Solteiro,23,4,Ciências Biológicas
+902,43,Feminino,Casado,1,3,Ciências Biológicas
+903,47,Feminino,Casado,2,2,Marketing
+904,37,Masculino,Solteiro,19,2,Medicina
+905,50,Masculino,Divorciado,2,4,Ciências Biológicas
+909,39,Feminino,Casado,2,3,Ciências Biológicas
+910,33,Masculino,Divorciado,3,2,Recursos Humanos
+911,32,Masculino,Solteiro,25,4,Ciências Biológicas
+912,29,Feminino,Divorciado,7,1,Medicina
+913,44,Masculino,Casado,9,2,Ciências Biológicas
+916,28,Masculino,Solteiro,5,4,Medicina
+918,58,Masculino,Divorciado,2,1,Ciências Biológicas
+920,43,Feminino,Divorciado,8,3,Ciências Biológicas
+922,20,Feminino,Solteiro,2,3,Medicina
+923,21,Feminino,Solteiro,18,1,Outros
+924,36,Masculino,Casado,14,1,Ciências Biológicas
+925,47,Feminino,Solteiro,2,4,Ciências Biológicas
+926,22,Feminino,Casado,3,1,Ciências Biológicas
+927,41,Feminino,Divorciado,2,4,Ciências Biológicas
+930,28,Feminino,Divorciado,9,3,Medicina
+932,39,Masculino,Casado,6,3,Medicina
+933,27,Feminino,Solteiro,4,3,Ciências Biológicas
+934,34,Masculino,Divorciado,10,3,Ciências Biológicas
+936,42,Feminino,Solteiro,14,2,Medicina
+939,33,Masculino,Solteiro,1,4,Outros
+940,58,Feminino,Divorciado,5,3,Área Técnica
+941,31,Masculino,Casado,7,4,Ciências Biológicas
+942,35,Feminino,Casado,21,1,Ciências Biológicas
+944,49,Feminino,Casado,8,2,Outros
+945,48,Masculino,Casado,20,4,Medicina
+947,31,Feminino,Casado,20,2,Marketing
+949,36,Masculino,Solteiro,7,4,Outros
+950,38,Feminino,Casado,1,3,Área Técnica
+951,32,Feminino,Casado,1,3,Ciências Biológicas
+952,25,Masculino,Casado,19,2,Marketing
+954,40,Masculino,Divorciado,10,4,Marketing
+956,26,Masculino,Solteiro,1,3,Medicina
+957,41,Masculino,Solteiro,6,3,Medicina
+958,36,Masculino,Solteiro,2,4,Medicina
+959,19,Masculino,Solteiro,21,3,Outros
+960,20,Masculino,Solteiro,4,3,Área Técnica
+961,31,Feminino,Casado,12,3,Medicina
+964,40,Masculino,Divorciado,9,4,Medicina
+966,32,Feminino,Casado,3,4,Medicina
+967,36,Masculino,Casado,3,1,Ciências Biológicas
+969,33,Feminino,Solteiro,1,3,Ciências Biológicas
+970,37,Masculino,Casado,1,4,Ciências Biológicas
+972,45,Masculino,Casado,4,2,Ciências Biológicas
+974,29,Feminino,Casado,20,3,Área Técnica
+975,35,Feminino,Casado,18,3,Medicina
+976,52,Masculino,Casado,1,2,Ciências Biológicas
+977,58,Masculino,Solteiro,2,3,Área Técnica
+981,53,Masculino,Divorciado,2,2,Medicina
+982,30,Masculino,Divorciado,8,2,Outros
+983,38,Feminino,Solteiro,10,3,Área Técnica
+984,35,Masculino,Divorciado,3,4,Ciências Biológicas
+985,39,Masculino,Solteiro,2,5,Ciências Biológicas
+986,40,Feminino,Solteiro,24,3,Ciências Biológicas
+987,47,Masculino,Divorciado,16,4,Medicina
+990,36,Masculino,Divorciado,8,4,Área Técnica
+991,31,Masculino,Solteiro,9,2,Medicina
+992,33,Masculino,Solteiro,17,3,Ciências Biológicas
+994,29,Feminino,Solteiro,10,3,Ciências Biológicas
+995,33,Feminino,Solteiro,13,1,Ciências Biológicas
+996,45,Feminino,Divorciado,1,4,Medicina
+997,50,Masculino,Divorciado,1,2,Medicina
+998,33,Feminino,Casado,1,4,Outros
+999,41,Masculino,Divorciado,9,3,Medicina
+1001,27,Feminino,Casado,16,4,Área Técnica
+1002,45,Masculino,Casado,23,2,Ciências Biológicas
+1003,47,Feminino,Solteiro,4,2,Ciências Biológicas
+1004,30,Feminino,Casado,22,3,Ciências Biológicas
+1005,50,Masculino,Casado,24,3,Ciências Biológicas
+1006,38,Masculino,Casado,10,1,Medicina
+1007,46,Masculino,Divorciado,7,2,Medicina
+1009,24,Feminino,Divorciado,17,1,Medicina
+1010,35,Masculino,Divorciado,14,4,Outros
+1011,31,Feminino,Casado,1,1,Ciências Biológicas
+1012,18,Masculino,Solteiro,5,2,Ciências Biológicas
+1013,54,Feminino,Casado,17,3,Área Técnica
+1014,35,Feminino,Divorciado,25,4,Medicina
+1015,30,Feminino,Casado,8,2,Ciências Biológicas
+1016,20,Feminino,Solteiro,11,3,Medicina
+1017,30,Feminino,Solteiro,5,3,Medicina
+1018,26,Masculino,Casado,2,2,Medicina
+1019,22,Masculino,Casado,8,1,Ciências Biológicas
+1022,48,Masculino,Solteiro,6,3,Ciências Biológicas
+1024,48,Masculino,Solteiro,4,4,Ciências Biológicas
+1025,41,Feminino,Solteiro,7,2,Medicina
+1026,39,Feminino,Casado,1,1,Ciências Biológicas
+1027,27,Feminino,Casado,2,4,Ciências Biológicas
+1028,35,Masculino,Divorciado,10,3,Outros
+1029,42,Masculino,Casado,5,2,Marketing
+1030,50,Masculino,Casado,9,3,Ciências Biológicas
+1032,59,Feminino,Solteiro,2,3,Ciências Biológicas
+1033,37,Feminino,Casado,11,2,Medicina
+1034,55,Masculino,Casado,18,4,Medicina
+1035,41,Feminino,Divorciado,7,1,Ciências Biológicas
+1036,38,Masculino,Solteiro,3,4,Ciências Biológicas
+1037,26,Masculino,Solteiro,29,2,Medicina
+1038,52,Feminino,Casado,2,1,Marketing
+1039,44,Feminino,Casado,28,3,Medicina
+1040,50,Feminino,Casado,1,3,Ciências Biológicas
+1042,36,Feminino,Solteiro,16,4,Ciências Biológicas
+1043,39,Feminino,Solteiro,22,3,Medicina
+1044,33,Feminino,Solteiro,8,1,Ciências Biológicas
+1045,45,Feminino,Casado,11,2,Ciências Biológicas
+1046,32,Feminino,Solteiro,29,4,Medicina
+1047,34,Masculino,Divorciado,1,4,Marketing
+1048,59,Masculino,Casado,1,2,Área Técnica
+1049,45,Masculino,Solteiro,24,4,Medicina
+1050,53,Feminino,Casado,2,3,Marketing
+1052,36,Masculino,Divorciado,15,3,Outros
+1053,26,Masculino,Casado,2,3,Ciências Biológicas
+1055,34,Feminino,Casado,10,4,Ciências Biológicas
+1056,28,Masculino,Casado,10,1,Medicina
+1060,38,Masculino,Casado,3,4,Outros
+1061,50,Masculino,Casado,2,4,Medicina
+1062,37,Feminino,Solteiro,3,3,Outros
+1066,40,Masculino,Casado,26,3,Marketing
+1068,26,Feminino,Divorciado,1,1,Medicina
+1069,46,Masculino,Divorciado,1,4,Medicina
+1070,54,Feminino,Casado,2,4,Ciências Biológicas
+1071,56,Feminino,Casado,9,3,Medicina
+1073,36,Feminino,Solteiro,12,5,Medicina
+1074,55,Masculino,Solteiro,2,1,Medicina
+1076,43,Masculino,Divorciado,25,3,Medicina
+1077,20,Feminino,Solteiro,9,3,Marketing
+1079,21,Feminino,Solteiro,10,3,Ciências Biológicas
+1080,46,Feminino,Divorciado,8,4,Ciências Biológicas
+1081,51,Masculino,Casado,4,4,Ciências Biológicas
+1082,28,Masculino,Solteiro,24,2,Área Técnica
+1083,26,Masculino,Casado,1,2,Medicina
+1084,30,Masculino,Casado,20,3,Outros
+1085,41,Feminino,Casado,7,2,Área Técnica
+1088,38,Feminino,Casado,17,1,Ciências Biológicas
+1092,40,Masculino,Casado,20,4,Área Técnica
+1094,27,Masculino,Casado,8,5,Ciências Biológicas
+1096,55,Masculino,Casado,2,1,Ciências Biológicas
+1097,28,Feminino,Solteiro,10,3,Outros
+1098,44,Masculino,Casado,1,2,Medicina
+1099,33,Masculino,Divorciado,5,3,Ciências Biológicas
+1100,35,Masculino,Solteiro,4,3,Área Técnica
+1101,33,Feminino,Solteiro,29,4,Medicina
+1102,28,Masculino,Divorciado,15,2,Ciências Biológicas
+1103,34,Masculino,Solteiro,3,1,Ciências Biológicas
+1105,37,Feminino,Divorciado,10,4,Ciências Biológicas
+1106,25,Masculino,Casado,4,1,Área Técnica
+1107,26,Masculino,Divorciado,21,3,Medicina
+1108,33,Masculino,Solteiro,25,3,Medicina
+1109,42,Masculino,Casado,2,2,Medicina
+1111,28,Masculino,Divorciado,1,3,Medicina
+1113,50,Masculino,Solteiro,1,4,Outros
+1114,33,Feminino,Casado,7,3,Ciências Biológicas
+1115,34,Masculino,Casado,3,4,Ciências Biológicas
+1116,48,Masculino,Solteiro,1,4,Medicina
+1117,45,Feminino,Casado,9,4,Ciências Biológicas
+1118,52,Masculino,Solteiro,7,4,Ciências Biológicas
+1119,38,Masculino,Divorciado,10,4,Marketing
+1120,29,Feminino,Divorciado,28,4,Ciências Biológicas
+1121,28,Feminino,Divorciado,3,3,Medicina
+1124,46,Masculino,Casado,3,1,Marketing
+1125,38,Masculino,Solteiro,2,2,Marketing
+1126,43,Feminino,Casado,27,3,Ciências Biológicas
+1127,39,Masculino,Divorciado,2,3,Ciências Biológicas
+1128,40,Masculino,Solteiro,14,3,Medicina
+1131,21,Feminino,Solteiro,1,1,Área Técnica
+1132,39,Masculino,Solteiro,9,3,Ciências Biológicas
+1133,36,Masculino,Solteiro,18,4,Ciências Biológicas
+1135,31,Masculino,Casado,20,3,Ciências Biológicas
+1136,28,Masculino,Casado,2,1,Ciências Biológicas
+1137,35,Masculino,Divorciado,11,2,Marketing
+1138,49,Masculino,Casado,8,4,Área Técnica
+1140,34,Masculino,Solteiro,2,2,Ciências Biológicas
+1143,29,Feminino,Divorciado,10,3,Ciências Biológicas
+1148,42,Masculino,Solteiro,29,3,Medicina
+1150,29,Masculino,Casado,8,1,Medicina
+1152,38,Masculino,Casado,1,3,Recursos Humanos
+1154,28,Masculino,Divorciado,6,3,Ciências Biológicas
+1156,18,Masculino,Solteiro,8,1,Medicina
+1157,33,Feminino,Solteiro,9,4,Marketing
+1158,41,Masculino,Casado,12,4,Ciências Biológicas
+1160,31,Masculino,Casado,15,3,Medicina
+1161,37,Feminino,Divorciado,25,2,Medicina
+1162,27,Masculino,Casado,6,3,Ciências Biológicas
+1163,34,Feminino,Casado,9,1,Ciências Biológicas
+1164,35,Masculino,Solteiro,8,4,Área Técnica
+1165,29,Feminino,Casado,23,1,Ciências Biológicas
+1166,40,Feminino,Solteiro,9,4,Medicina
+1167,42,Masculino,Solteiro,12,3,Ciências Biológicas
+1171,42,Masculino,Solteiro,4,4,Marketing
+1172,35,Masculino,Casado,1,4,Medicina
+1173,24,Masculino,Solteiro,24,3,Medicina
+1175,28,Feminino,Casado,12,1,Ciências Biológicas
+1177,26,Masculino,Casado,3,4,Medicina
+1179,30,Masculino,Casado,10,3,Marketing
+1180,40,Feminino,Casado,26,2,Medicina
+1182,35,Masculino,Divorciado,2,3,Ciências Biológicas
+1184,34,Masculino,Solteiro,1,3,Medicina
+1185,35,Masculino,Casado,4,4,Outros
+1188,43,Feminino,Solteiro,9,3,Marketing
+1190,32,Feminino,Divorciado,2,1,Ciências Biológicas
+1191,56,Feminino,Divorciado,4,4,Área Técnica
+1192,29,Feminino,Casado,6,1,Medicina
+1193,19,Masculino,Solteiro,9,2,Ciências Biológicas
+1195,45,Feminino,Casado,7,3,Medicina
+1196,37,Feminino,Casado,1,3,Ciências Biológicas
+1198,20,Masculino,Solteiro,3,3,Ciências Biológicas
+1200,44,Masculino,Solteiro,10,4,Ciências Biológicas
+1201,53,Feminino,Divorciado,7,2,Medicina
+1202,29,Feminino,Casado,15,1,Ciências Biológicas
+1203,22,Masculino,Casado,3,4,Ciências Biológicas
+1204,46,Feminino,Casado,2,3,Marketing
+1206,44,Masculino,Solteiro,17,3,Ciências Biológicas
+1207,33,Masculino,Casado,2,3,Recursos Humanos
+1210,41,Masculino,Divorciado,5,2,Ciências Biológicas
+1211,30,Masculino,Divorciado,29,4,Ciências Biológicas
+1212,40,Masculino,Casado,2,4,Medicina
+1215,50,Feminino,Casado,2,3,Medicina
+1216,28,Masculino,Casado,19,4,Medicina
+1217,46,Masculino,Casado,15,2,Ciências Biológicas
+1218,35,Masculino,Casado,17,4,Ciências Biológicas
+1219,24,Feminino,Casado,17,2,Ciências Biológicas
+1220,33,Feminino,Casado,25,3,Medicina
+1221,36,Masculino,Divorciado,6,4,Ciências Biológicas
+1224,30,Masculino,Divorciado,7,4,Ciências Biológicas
+1225,44,Masculino,Solteiro,29,4,Outros
+1226,20,Masculino,Solteiro,21,3,Marketing
+1228,46,Masculino,Divorciado,2,4,Área Técnica
+1231,42,Masculino,Casado,2,5,Medicina
+1233,60,Masculino,Divorciado,7,4,Marketing
+1234,32,Feminino,Casado,13,3,Outros
+1235,32,Feminino,Solteiro,2,2,Ciências Biológicas
+1237,36,Feminino,Divorciado,1,3,Área Técnica
+1238,33,Masculino,Casado,9,3,Medicina
+1239,40,Feminino,Divorciado,10,3,Área Técnica
+1240,25,Masculino,Solteiro,10,4,Ciências Biológicas
+1241,30,Masculino,Casado,1,3,Medicina
+1242,42,Feminino,Casado,26,5,Medicina
+1243,35,Feminino,Casado,8,2,Marketing
+1244,27,Masculino,Casado,14,3,Ciências Biológicas
+1245,54,Feminino,Divorciado,1,4,Ciências Biológicas
+1246,44,Feminino,Casado,2,1,Ciências Biológicas
+1248,19,Feminino,Solteiro,10,3,Medicina
+1249,29,Feminino,Divorciado,1,3,Ciências Biológicas
+1250,54,Masculino,Casado,3,3,Ciências Biológicas
+1251,31,Masculino,Casado,11,2,Medicina
+1252,31,Feminino,Solteiro,24,3,Medicina
+1254,59,Feminino,Solteiro,3,3,Ciências Biológicas
+1255,43,Masculino,Casado,3,3,Ciências Biológicas
+1256,49,Masculino,Casado,4,2,Medicina
+1257,36,Masculino,Casado,3,3,Área Técnica
+1258,48,Masculino,Solteiro,2,2,Área Técnica
+1259,27,Masculino,Divorciado,4,2,Ciências Biológicas
+1260,29,Masculino,Divorciado,7,3,Ciências Biológicas
+1263,48,Masculino,Solteiro,1,3,Ciências Biológicas
+1264,29,Feminino,Divorciado,1,3,Ciências Biológicas
+1265,34,Feminino,Casado,20,3,Área Técnica
+1267,44,Masculino,Casado,5,3,Marketing
+1268,33,Masculino,Divorciado,10,5,Marketing
+1269,19,Feminino,Solteiro,25,3,Ciências Biológicas
+1270,23,Masculino,Casado,1,2,Ciências Biológicas
+1273,25,Masculino,Solteiro,24,1,Ciências Biológicas
+1275,26,Masculino,Solteiro,4,2,Ciências Biológicas
+1277,45,Feminino,Solteiro,2,3,Marketing
+1278,55,Masculino,Divorciado,8,1,Medicina
+1279,21,Feminino,Solteiro,10,2,Ciências Biológicas
+1280,46,Feminino,Casado,4,2,Marketing
+1281,34,Feminino,Solteiro,2,3,Marketing
+1282,51,Masculino,Divorciado,9,3,Ciências Biológicas
+1283,59,Masculino,Solteiro,18,4,Medicina
+1285,34,Feminino,Divorciado,19,3,Medicina
+1286,28,Masculino,Solteiro,1,4,Medicina
+1288,44,Masculino,Divorciado,4,2,Ciências Biológicas
+1289,34,Masculino,Casado,11,3,Ciências Biológicas
+1291,35,Masculino,Casado,6,1,Ciências Biológicas
+1292,42,Feminino,Casado,7,4,Medicina
+1293,43,Feminino,Solteiro,4,4,Marketing
+1294,36,Feminino,Solteiro,2,4,Ciências Biológicas
+1295,44,Feminino,Casado,15,3,Medicina
+1296,28,Masculino,Casado,2,3,Ciências Biológicas
+1297,51,Feminino,Solteiro,6,2,Medicina
+1298,30,Feminino,Solteiro,9,2,Medicina
+1299,29,Feminino,Divorciado,7,3,Área Técnica
+1301,28,Masculino,Solteiro,1,3,Área Técnica
+1303,25,Feminino,Solteiro,1,3,Medicina
+1304,32,Masculino,Casado,8,3,Medicina
+1306,45,Feminino,Solteiro,25,3,Medicina
+1307,39,Feminino,Divorciado,13,4,Medicina
+1308,58,Masculino,Divorciado,23,4,Ciências Biológicas
+1309,32,Masculino,Casado,7,2,Ciências Biológicas
+1310,39,Masculino,Solteiro,23,3,Medicina
+1311,30,Feminino,Casado,6,3,Área Técnica
+1312,36,Feminino,Casado,10,4,Área Técnica
+1314,46,Feminino,Solteiro,1,2,Ciências Biológicas
+1315,28,Feminino,Casado,1,3,Ciências Biológicas
+1317,50,Feminino,Casado,28,3,Ciências Biológicas
+1318,40,Masculino,Solteiro,25,4,Marketing
+1319,52,Masculino,Solteiro,5,3,Ciências Biológicas
+1321,30,Feminino,Casado,17,4,Medicina
+1322,39,Masculino,Solteiro,18,2,Ciências Biológicas
+1324,31,Feminino,Divorciado,2,4,Ciências Biológicas
+1329,41,Masculino,Solteiro,10,2,Medicina
+1331,31,Feminino,Solteiro,1,3,Ciências Biológicas
+1333,44,Masculino,Casado,3,3,Ciências Biológicas
+1334,42,Masculino,Casado,2,1,Ciências Biológicas
+1336,55,Feminino,Casado,2,2,Medicina
+1338,56,Masculino,Solteiro,8,4,Ciências Biológicas
+1340,40,Masculino,Divorciado,16,2,Ciências Biológicas
+1344,34,Masculino,Divorciado,9,3,Ciências Biológicas
+1346,40,Masculino,Solteiro,2,3,Ciências Biológicas
+1349,41,Feminino,Divorciado,1,3,Marketing
+1350,35,Masculino,Solteiro,4,4,Ciências Biológicas
+1352,51,Masculino,Divorciado,5,3,Ciências Biológicas
+1355,38,Feminino,Divorciado,2,2,Ciências Biológicas
+1356,34,Feminino,Solteiro,15,2,Medicina
+1358,25,Masculino,Casado,19,1,Medicina
+1360,58,Feminino,Casado,7,4,Medicina
+1361,40,Masculino,Casado,1,4,Ciências Biológicas
+1362,36,Feminino,Casado,7,3,Marketing
+1363,48,Masculino,Solteiro,4,3,Ciências Biológicas
+1364,27,Feminino,Casado,11,3,Medicina
+1367,51,Feminino,Solteiro,11,2,Área Técnica
+1368,18,Feminino,Solteiro,1,3,Ciências Biológicas
+1369,35,Feminino,Casado,1,3,Medicina
+1371,27,Masculino,Solteiro,2,1,Ciências Biológicas
+1372,55,Masculino,Solteiro,13,4,Marketing
+1373,56,Masculino,Casado,23,3,Ciências Biológicas
+1374,34,Feminino,Divorciado,26,1,Área Técnica
+1375,40,Feminino,Divorciado,2,1,Medicina
+1377,34,Masculino,Casado,29,3,Medicina
+1379,31,Feminino,Solteiro,2,3,Ciências Biológicas
+1380,35,Feminino,Casado,18,4,Marketing
+1382,38,Masculino,Divorciado,7,3,Ciências Biológicas
+1383,34,Feminino,Solteiro,2,4,Área Técnica
+1387,28,Masculino,Casado,26,3,Ciências Biológicas
+1389,31,Masculino,Casado,22,4,Medicina
+1390,39,Masculino,Casado,21,4,Ciências Biológicas
+1391,51,Masculino,Casado,2,3,Marketing
+1392,41,Feminino,Divorciado,22,3,Ciências Biológicas
+1394,37,Masculino,Casado,4,1,Ciências Biológicas
+1395,33,Masculino,Casado,5,1,Ciências Biológicas
+1396,32,Masculino,Casado,2,1,Marketing
+1397,39,Masculino,Casado,25,2,Ciências Biológicas
+1399,25,Masculino,Casado,18,1,Ciências Biológicas
+1401,52,Feminino,Casado,28,2,Medicina
+1402,43,Feminino,Solteiro,6,3,Medicina
+1403,27,Feminino,Casado,10,3,Marketing
+1405,27,Feminino,Solteiro,17,4,Ciências Biológicas
+1407,26,Masculino,Solteiro,2,1,Medicina
+1408,42,Feminino,Casado,10,3,Recursos Humanos
+1409,52,Feminino,Casado,8,4,Outros
+1411,37,Feminino,Solteiro,11,3,Medicina
+1412,35,Masculino,Solteiro,18,2,Ciências Biológicas
+1415,25,Masculino,Casado,1,3,Área Técnica
+1417,26,Masculino,Solteiro,7,3,Outros
+1419,29,Masculino,Solteiro,17,3,Outros
+1420,49,Masculino,Solteiro,28,2,Ciências Biológicas
+1421,29,Feminino,Solteiro,14,1,Outros
+1422,54,Feminino,Solteiro,1,3,Medicina
+1423,58,Feminino,Casado,1,3,Medicina
+1424,55,Masculino,Divorciado,1,4,Medicina
+1425,36,Feminino,Solteiro,3,4,Marketing
+1427,31,Feminino,Solteiro,1,4,Ciências Biológicas
+1428,30,Feminino,Divorciado,7,4,Marketing
+1430,31,Feminino,Solteiro,8,5,Ciências Biológicas
+1431,34,Masculino,Divorciado,1,4,Outros
+1433,31,Feminino,Solteiro,8,3,Ciências Biológicas
+1434,27,Masculino,Casado,11,1,Ciências Biológicas
+1435,36,Masculino,Solteiro,4,4,Ciências Biológicas
+1436,36,Feminino,Casado,16,4,Marketing
+1438,47,Masculino,Casado,1,3,Área Técnica
+1439,25,Masculino,Casado,9,2,Ciências Biológicas
+1440,37,Masculino,Solteiro,5,2,Área Técnica
+1441,56,Feminino,Casado,1,2,Ciências Biológicas
+1443,47,Feminino,Casado,2,4,Medicina
+1445,24,Feminino,Casado,4,1,Medicina
+1446,32,Masculino,Casado,7,5,Marketing
+1447,34,Feminino,Casado,1,3,Ciências Biológicas
+1448,41,Masculino,Casado,5,5,Medicina
+1449,40,Masculino,Divorciado,9,4,Outros
+1453,31,Masculino,Divorciado,8,2,Ciências Biológicas
+1457,46,Masculino,Divorciado,9,3,Marketing
+1458,39,Feminino,Solteiro,2,3,Ciências Biológicas
+1459,31,Feminino,Solteiro,1,5,Ciências Biológicas
+1460,45,Masculino,Divorciado,20,3,Medicina
+1461,31,Feminino,Solteiro,8,2,Medicina
+1464,31,Masculino,Casado,2,3,Ciências Biológicas
+1465,45,Masculino,Casado,29,3,Área Técnica
+1466,48,Masculino,Divorciado,7,3,Marketing
+1467,34,Feminino,Casado,9,4,Área Técnica
+1468,40,Masculino,Divorciado,8,1,Medicina
+1469,28,Masculino,Solteiro,5,3,Medicina
+1471,44,Masculino,Solteiro,5,3,Ciências Biológicas
+1472,53,Masculino,Solteiro,2,3,Medicina
+1473,49,Masculino,Casado,5,4,Área Técnica
+1474,40,Masculino,Divorciado,2,3,Medicina
+1475,44,Masculino,Solteiro,20,3,Ciências Biológicas
+1477,33,Masculino,Casado,7,3,Medicina
+1478,34,Masculino,Solteiro,3,3,Outros
+1479,30,Masculino,Casado,16,1,Ciências Biológicas
+1480,42,Feminino,Solteiro,9,2,Medicina
+1481,44,Feminino,Casado,1,5,Marketing
+1482,30,Masculino,Divorciado,7,3,Área Técnica
+1483,57,Masculino,Casado,1,2,Ciências Biológicas
+1484,49,Masculino,Divorciado,7,4,Ciências Biológicas
+1485,34,Masculino,Divorciado,15,3,Medicina
+1486,28,Masculino,Casado,1,3,Área Técnica
+1487,29,Feminino,Solteiro,13,3,Área Técnica
+1489,34,Feminino,Solteiro,24,4,Medicina
+1492,35,Masculino,Casado,7,1,Ciências Biológicas
+1494,24,Masculino,Solteiro,9,3,Medicina
+1495,24,Feminino,Casado,13,2,Ciências Biológicas
+1496,44,Masculino,Solteiro,2,1,Medicina
+1497,29,Masculino,Divorciado,19,3,Ciências Biológicas
+1499,30,Masculino,Divorciado,1,3,Ciências Biológicas
+1501,55,Masculino,Casado,4,4,Ciências Biológicas
+1502,33,Feminino,Casado,4,4,Medicina
+1503,47,Feminino,Casado,14,3,Medicina
+1504,28,Masculino,Solteiro,2,2,Medicina
+1506,28,Masculino,Divorciado,1,3,Ciências Biológicas
+1507,28,Masculino,Solteiro,7,3,Ciências Biológicas
+1509,49,Feminino,Casado,3,2,Medicina
+1513,29,Feminino,Casado,2,1,Ciências Biológicas
+1514,28,Masculino,Casado,29,1,Ciências Biológicas
+1515,33,Masculino,Solteiro,8,5,Ciências Biológicas
+1516,32,Masculino,Solteiro,10,3,Medicina
+1520,54,Feminino,Divorciado,11,4,Medicina
+1522,29,Masculino,Solteiro,1,4,Área Técnica
+1523,44,Masculino,Casado,28,3,Ciências Biológicas
+1525,39,Feminino,Solteiro,6,3,Ciências Biológicas
+1527,46,Feminino,Casado,3,3,Ciências Biológicas
+1529,35,Feminino,Solteiro,16,3,Ciências Biológicas
+1533,23,Masculino,Solteiro,20,1,Ciências Biológicas
+1534,40,Masculino,Solteiro,9,4,Ciências Biológicas
+1535,34,Masculino,Casado,1,3,Área Técnica
+1537,31,Feminino,Solteiro,3,3,Ciências Biológicas
+1539,50,Masculino,Solteiro,22,5,Medicina
+1541,34,Masculino,Casado,7,2,Área Técnica
+1542,42,Masculino,Casado,2,3,Medicina
+1543,37,Masculino,Casado,13,3,Medicina
+1544,29,Feminino,Casado,8,1,Outros
+1545,33,Masculino,Solteiro,25,3,Ciências Biológicas
+1546,45,Masculino,Casado,28,3,Área Técnica
+1547,42,Masculino,Casado,2,3,Ciências Biológicas
+1548,40,Masculino,Casado,9,2,Medicina
+1549,33,Masculino,Casado,28,4,Ciências Biológicas
+1550,40,Masculino,Solteiro,6,2,Medicina
+1551,24,Masculino,Divorciado,21,2,Área Técnica
+1552,40,Masculino,Divorciado,8,2,Ciências Biológicas
+1553,45,Masculino,Divorciado,1,4,Área Técnica
+1554,35,Feminino,Casado,28,4,Ciências Biológicas
+1555,32,Feminino,Casado,5,2,Ciências Biológicas
+1556,36,Masculino,Solteiro,2,4,Ciências Biológicas
+1557,48,Feminino,Divorciado,16,4,Ciências Biológicas
+1558,29,Masculino,Casado,9,3,Ciências Biológicas
+1560,33,Masculino,Casado,8,4,Ciências Biológicas
+1562,30,Masculino,Casado,1,3,Ciências Biológicas
+1563,38,Masculino,Casado,10,4,Recursos Humanos
+1564,35,Masculino,Solteiro,1,3,Medicina
+1568,30,Masculino,Casado,29,4,Área Técnica
+1569,35,Feminino,Divorciado,2,3,Ciências Biológicas
+1572,53,Feminino,Casado,2,5,Área Técnica
+1573,38,Masculino,Casado,2,3,Medicina
+1574,32,Masculino,Casado,1,4,Área Técnica
+1576,48,Feminino,Casado,15,4,Outros
+1577,34,Masculino,Solteiro,7,4,Medicina
+1578,55,Masculino,Casado,26,5,Marketing
+1580,34,Masculino,Casado,1,4,Ciências Biológicas
+1581,26,Feminino,Casado,3,3,Ciências Biológicas
+1582,38,Masculino,Casado,14,3,Ciências Biológicas
+1583,38,Feminino,Solteiro,16,3,Ciências Biológicas
+1585,36,Feminino,Solteiro,1,4,Ciências Biológicas
+1586,29,Masculino,Solteiro,3,1,Medicina
+1587,35,Feminino,Solteiro,10,4,Medicina
+1588,39,Masculino,Casado,6,3,Medicina
+1590,29,Masculino,Divorciado,2,1,Ciências Biológicas
+1591,50,Masculino,Casado,9,3,Marketing
+1592,23,Masculino,Casado,10,3,Área Técnica
+1594,36,Masculino,Casado,6,4,Ciências Biológicas
+1595,42,Masculino,Solteiro,9,2,Outros
+1596,35,Masculino,Casado,28,3,Ciências Biológicas
+1597,34,Masculino,Casado,10,4,Área Técnica
+1598,40,Feminino,Casado,14,2,Ciências Biológicas
+1599,43,Masculino,Divorciado,27,3,Área Técnica
+1601,35,Masculino,Casado,7,2,Ciências Biológicas
+1602,46,Masculino,Solteiro,1,4,Ciências Biológicas
+1604,28,Masculino,Casado,24,3,Medicina
+1605,22,Feminino,Casado,26,2,Outros
+1606,50,Masculino,Casado,20,5,Medicina
+1607,32,Feminino,Casado,5,4,Outros
+1608,44,Feminino,Divorciado,7,3,Medicina
+1609,30,Masculino,Casado,7,3,Medicina
+1611,45,Feminino,Solteiro,5,5,Medicina
+1612,45,Masculino,Casado,26,3,Marketing
+1613,31,Masculino,Solteiro,2,4,Outros
+1614,36,Feminino,Casado,12,4,Ciências Biológicas
+1615,34,Masculino,Divorciado,10,4,Ciências Biológicas
+1617,49,Feminino,Casado,25,4,Ciências Biológicas
+1618,39,Masculino,Casado,10,5,Medicina
+1619,27,Masculino,Divorciado,19,3,Outros
+1621,35,Masculino,Casado,18,5,Ciências Biológicas
+1622,28,Feminino,Divorciado,27,3,Medicina
+1623,21,Masculino,Solteiro,5,1,Medicina
+1624,18,Feminino,Solteiro,3,2,Medicina
+1625,47,Feminino,Casado,26,4,Ciências Biológicas
+1627,39,Masculino,Divorciado,3,2,Medicina
+1628,40,Feminino,Casado,15,3,Ciências Biológicas
+1630,35,Feminino,Casado,8,4,Ciências Biológicas
+1631,37,Masculino,Casado,19,3,Ciências Biológicas
+1633,39,Feminino,Solteiro,4,3,Medicina
+1635,45,Feminino,Divorciado,2,2,Outros
+1638,38,Feminino,Casado,2,2,Medicina
+1639,35,Masculino,Casado,10,3,Medicina
+1640,37,Feminino,Casado,10,3,Medicina
+1641,40,Feminino,Solteiro,16,3,Ciências Biológicas
+1642,44,Masculino,Casado,1,5,Recursos Humanos
+1644,48,Masculino,Casado,4,5,Medicina
+1645,35,Masculino,Divorciado,15,2,Medicina
+1646,24,Feminino,Solteiro,2,1,Área Técnica
+1647,27,Feminino,Casado,8,3,Medicina
+1648,27,Masculino,Solteiro,2,3,Medicina
+1649,40,Masculino,Solteiro,7,3,Ciências Biológicas
+1650,29,Masculino,Solteiro,10,3,Medicina
+1651,36,Feminino,Casado,5,4,Ciências Biológicas
+1653,25,Masculino,Divorciado,2,1,Ciências Biológicas
+1654,39,Masculino,Casado,12,3,Medicina
+1655,49,Feminino,Casado,22,4,Outros
+1656,50,Feminino,Divorciado,17,5,Ciências Biológicas
+1657,20,Feminino,Solteiro,2,3,Medicina
+1658,34,Feminino,Divorciado,3,3,Ciências Biológicas
+1659,36,Masculino,Solteiro,7,3,Ciências Biológicas
+1661,49,Feminino,Casado,6,1,Ciências Biológicas
+1662,36,Feminino,Casado,1,4,Medicina
+1664,36,Masculino,Divorciado,3,2,Ciências Biológicas
+1665,54,Feminino,Casado,22,5,Medicina
+1666,43,Masculino,Casado,15,2,Ciências Biológicas
+1667,35,Masculino,Solteiro,12,4,Outros
+1668,38,Masculino,Casado,1,3,Ciências Biológicas
+1669,29,Masculino,Divorciado,5,3,Medicina
+1670,33,Masculino,Divorciado,2,4,Medicina
+1671,32,Masculino,Divorciado,2,3,Medicina
+1673,31,Feminino,Casado,5,4,Ciências Biológicas
+1674,49,Feminino,Divorciado,16,3,Medicina
+1675,38,Feminino,Solteiro,2,3,Medicina
+1676,47,Feminino,Divorciado,2,4,Ciências Biológicas
+1677,49,Masculino,Solteiro,1,3,Ciências Biológicas
+1678,41,Masculino,Solteiro,23,2,Ciências Biológicas
+1680,20,Masculino,Solteiro,9,1,Ciências Biológicas
+1681,33,Feminino,Divorciado,16,3,Ciências Biológicas
+1682,36,Masculino,Casado,26,4,Ciências Biológicas
+1683,44,Feminino,Divorciado,1,3,Ciências Biológicas
+1684,23,Masculino,Solteiro,8,1,Medicina
+1687,38,Feminino,Casado,4,2,Medicina
+1689,53,Masculino,Casado,24,4,Medicina
+1691,48,Feminino,Casado,7,2,Medicina
+1692,32,Masculino,Solteiro,2,4,Ciências Biológicas
+1693,26,Masculino,Solteiro,7,3,Medicina
+1694,55,Masculino,Divorciado,22,3,Área Técnica
+1696,34,Masculino,Casado,5,2,Medicina
+1697,60,Masculino,Divorciado,1,4,Medicina
+1698,33,Masculino,Casado,21,3,Medicina
+1700,37,Masculino,Divorciado,1,4,Medicina
+1701,34,Feminino,Casado,19,3,Ciências Biológicas
+1702,23,Masculino,Divorciado,7,3,Ciências Biológicas
+1703,44,Feminino,Casado,2,3,Ciências Biológicas
+1704,35,Masculino,Solteiro,2,4,Medicina
+1706,43,Masculino,Casado,2,3,Medicina
+1707,24,Masculino,Casado,9,3,Medicina
+1708,41,Masculino,Solteiro,6,3,Marketing
+1709,29,Feminino,Casado,9,4,Medicina
+1710,36,Feminino,Solteiro,2,4,Ciências Biológicas
+1712,45,Masculino,Casado,1,1,Ciências Biológicas
+1714,24,Masculino,Casado,22,1,Recursos Humanos
+1716,47,Masculino,Casado,9,3,Ciências Biológicas
+1718,26,Masculino,Casado,17,4,Medicina
+1719,45,Feminino,Solteiro,28,2,Área Técnica
+1720,32,Masculino,Casado,10,3,Ciências Biológicas
+1721,31,Masculino,Casado,2,4,Ciências Biológicas
+1722,41,Masculino,Casado,4,3,Recursos Humanos
+1724,40,Feminino,Casado,8,2,Ciências Biológicas
+1725,24,Masculino,Divorciado,29,1,Medicina
+1727,46,Masculino,Solteiro,13,4,Ciências Biológicas
+1728,35,Masculino,Casado,27,4,Ciências Biológicas
+1729,30,Masculino,Casado,16,1,Ciências Biológicas
+1731,47,Masculino,Casado,2,4,Marketing
+1732,46,Masculino,Divorciado,2,3,Ciências Biológicas
+1733,36,Masculino,Divorciado,13,5,Marketing
+1734,32,Masculino,Solteiro,1,2,Ciências Biológicas
+1735,23,Feminino,Solteiro,4,1,Medicina
+1736,31,Feminino,Solteiro,24,1,Área Técnica
+1737,39,Masculino,Casado,1,3,Ciências Biológicas
+1739,32,Masculino,Casado,19,3,Ciências Biológicas
+1740,40,Masculino,Solteiro,7,4,Medicina
+1744,45,Feminino,Casado,4,3,Ciências Biológicas
+1745,30,Feminino,Solteiro,2,4,Área Técnica
+1746,24,Masculino,Casado,10,3,Medicina
+1747,30,Feminino,Divorciado,8,3,Recursos Humanos
+1749,31,Masculino,Casado,5,3,Área Técnica
+1751,27,Feminino,Solteiro,8,3,Medicina
+1752,29,Feminino,Solteiro,9,3,Marketing
+1753,29,Masculino,Solteiro,1,3,Ciências Biológicas
+1754,30,Masculino,Divorciado,15,2,Marketing
+1755,34,Masculino,Casado,2,4,Medicina
+1756,33,Feminino,Solteiro,2,3,Marketing
+1757,49,Feminino,Solteiro,11,4,Marketing
+1758,33,Feminino,Solteiro,16,3,Ciências Biológicas
+1760,38,Feminino,Casado,2,2,Medicina
+1761,31,Masculino,Casado,16,4,Marketing
+1762,29,Feminino,Divorciado,4,3,Área Técnica
+1763,30,Masculino,Casado,16,3,Ciências Biológicas
+1764,32,Masculino,Solteiro,5,4,Área Técnica
+1766,38,Masculino,Casado,18,3,Medicina
+1767,43,Masculino,Casado,17,3,Área Técnica
+1768,42,Masculino,Divorciado,12,3,Medicina
+1770,55,Masculino,Casado,2,3,Medicina
+1771,33,Masculino,Divorciado,4,3,Área Técnica
+1772,41,Masculino,Divorciado,9,4,Ciências Biológicas
+1774,34,Masculino,Divorciado,10,3,Ciências Biológicas
+1775,53,Feminino,Casado,1,4,Medicina
+1778,43,Masculino,Solteiro,2,3,Ciências Biológicas
+1779,34,Feminino,Solteiro,3,2,Ciências Biológicas
+1780,21,Masculino,Solteiro,7,1,Marketing
+1782,38,Feminino,Casado,6,2,Outros
+1783,22,Feminino,Casado,8,1,Medicina
+1784,31,Feminino,Casado,29,4,Marketing
+1786,51,Feminino,Casado,3,3,Área Técnica
+1787,37,Masculino,Casado,9,2,Marketing
+1789,46,Masculino,Divorciado,2,4,Medicina
+1790,36,Masculino,Casado,10,3,Ciências Biológicas
+1792,44,Masculino,Divorciado,1,2,Medicina
+1794,37,Masculino,Divorciado,8,2,Outros
+1797,35,Masculino,Solteiro,27,3,Ciências Biológicas
+1798,33,Masculino,Casado,8,4,Ciências Biológicas
+1799,28,Masculino,Casado,1,3,Ciências Biológicas
+1800,39,Masculino,Solteiro,10,1,Medicina
+1801,46,Masculino,Solteiro,26,2,Ciências Biológicas
+1802,40,Feminino,Casado,2,2,Ciências Biológicas
+1803,42,Masculino,Casado,13,3,Medicina
+1804,35,Masculino,Divorciado,2,2,Medicina
+1805,38,Masculino,Divorciado,2,3,Recursos Humanos
+1807,34,Masculino,Casado,9,4,Ciências Biológicas
+1809,37,Masculino,Solteiro,10,4,Medicina
+1812,39,Masculino,Divorciado,20,3,Ciências Biológicas
+1813,43,Masculino,Solteiro,9,3,Ciências Biológicas
+1814,41,Masculino,Solteiro,5,3,Ciências Biológicas
+1815,41,Feminino,Divorciado,4,1,Marketing
+1816,30,Feminino,Solteiro,10,3,Medicina
+1818,26,Feminino,Casado,20,2,Medicina
+1821,46,Feminino,Casado,21,2,Medicina
+1822,40,Feminino,Divorciado,1,3,Ciências Biológicas
+1823,34,Masculino,Casado,8,2,Área Técnica
+1824,58,Masculino,Divorciado,2,3,Medicina
+1826,35,Masculino,Casado,23,4,Medicina
+1827,47,Feminino,Divorciado,4,3,Ciências Biológicas
+1829,40,Feminino,Divorciado,12,3,Ciências Biológicas
+1830,54,Feminino,Casado,7,4,Medicina
+1833,31,Feminino,Casado,7,4,Marketing
+1834,28,Feminino,Casado,1,3,Medicina
+1835,38,Feminino,Casado,2,4,Marketing
+1836,26,Masculino,Solteiro,10,3,Medicina
+1837,58,Masculino,Casado,15,4,Ciências Biológicas
+1839,18,Feminino,Solteiro,14,3,Medicina
+1842,31,Masculino,Casado,18,5,Recursos Humanos
+1844,29,Masculino,Divorciado,13,3,Recursos Humanos
+1845,45,Feminino,Casado,2,4,Ciências Biológicas
+1847,36,Feminino,Casado,2,4,Outros
+1849,43,Masculino,Casado,2,4,Ciências Biológicas
+1850,27,Feminino,Solteiro,5,2,Ciências Biológicas
+1852,29,Masculino,Casado,20,1,Medicina
+1853,32,Masculino,Solteiro,10,4,Marketing
+1854,42,Masculino,Casado,10,4,Área Técnica
+1856,47,Feminino,Solteiro,9,4,Ciências Biológicas
+1857,46,Masculino,Divorciado,2,2,Ciências Biológicas
+1858,28,Masculino,Divorciado,1,2,Ciências Biológicas
+1859,29,Masculino,Divorciado,29,1,Ciências Biológicas
+1860,42,Masculino,Solteiro,8,3,Ciências Biológicas
+1862,32,Masculino,Solteiro,2,4,Marketing
+1863,46,Feminino,Divorciado,3,3,Área Técnica
+1864,27,Feminino,Casado,23,1,Medicina
+1865,29,Masculino,Casado,6,1,Medicina
+1866,43,Feminino,Casado,6,3,Medicina
+1867,48,Masculino,Casado,10,3,Ciências Biológicas
+1868,29,Masculino,Solteiro,24,2,Ciências Biológicas
+1869,46,Feminino,Casado,10,3,Ciências Biológicas
+1870,27,Feminino,Casado,15,3,Ciências Biológicas
+1871,39,Masculino,Divorciado,19,4,Outros
+1873,55,Masculino,Casado,2,4,Área Técnica
+1875,28,Feminino,Casado,3,3,Medicina
+1876,30,Masculino,Solteiro,9,3,Medicina
+1878,22,Masculino,Solteiro,7,1,Ciências Biológicas
+1880,36,Feminino,Casado,10,4,Área Técnica
+1881,31,Masculino,Divorciado,20,3,Ciências Biológicas
+1882,34,Masculino,Casado,4,3,Ciências Biológicas
+1883,29,Masculino,Solteiro,7,3,Ciências Biológicas
+1885,37,Masculino,Casado,7,4,Medicina
+1886,35,Feminino,Casado,16,2,Outros
+1888,45,Feminino,Casado,25,2,Ciências Biológicas
+1890,36,Masculino,Solteiro,2,1,Recursos Humanos
+1892,40,Masculino,Divorciado,1,4,Ciências Biológicas
+1893,26,Feminino,Casado,1,2,Ciências Biológicas
+1898,27,Feminino,Solteiro,2,2,Medicina
+1900,48,Feminino,Divorciado,22,3,Medicina
+1903,44,Masculino,Casado,1,4,Ciências Biológicas
+1905,34,Masculino,Casado,16,4,Área Técnica
+1907,56,Masculino,Solteiro,24,2,Ciências Biológicas
+1908,36,Masculino,Casado,17,2,Marketing
+1909,41,Feminino,Casado,8,3,Marketing
+1911,42,Masculino,Casado,6,3,Medicina
+1912,31,Feminino,Divorciado,10,2,Medicina
+1915,34,Feminino,Casado,3,1,Medicina
+1916,31,Feminino,Divorciado,4,3,Medicina
+1918,26,Masculino,Casado,6,3,Outros
+1922,45,Masculino,Solteiro,1,4,Medicina
+1924,33,Masculino,Solteiro,10,4,Marketing
+1927,28,Masculino,Casado,1,2,Ciências Biológicas
+1928,29,Masculino,Solteiro,24,3,Área Técnica
+1929,39,Feminino,Casado,21,4,Ciências Biológicas
+1931,27,Masculino,Casado,2,4,Área Técnica
+1932,34,Masculino,Casado,22,4,Outros
+1933,28,Feminino,Solteiro,13,2,Marketing
+1934,47,Masculino,Casado,14,4,Área Técnica
+1935,56,Feminino,Casado,11,5,Marketing
+1936,39,Masculino,Casado,9,2,Medicina
+1937,38,Feminino,Divorciado,8,3,Medicina
+1938,58,Feminino,Casado,21,3,Ciências Biológicas
+1939,32,Feminino,Solteiro,5,2,Ciências Biológicas
+1940,38,Masculino,Divorciado,9,2,Ciências Biológicas
+1941,49,Masculino,Casado,2,1,Ciências Biológicas
+1943,42,Masculino,Divorciado,12,4,Marketing
+1944,27,Feminino,Casado,22,3,Recursos Humanos
+1945,35,Masculino,Casado,18,4,Medicina
+1947,28,Masculino,Solteiro,16,3,Medicina
+1948,31,Masculino,Divorciado,3,2,Medicina
+1949,36,Masculino,Casado,9,4,Ciências Biológicas
+1950,34,Masculino,Solteiro,1,3,Marketing
+1951,34,Masculino,Divorciado,13,4,Medicina
+1952,26,Masculino,Solteiro,1,3,Medicina
+1954,29,Masculino,Casado,1,3,Ciências Biológicas
+1955,32,Feminino,Divorciado,15,4,Medicina
+1956,31,Masculino,Casado,1,3,Ciências Biológicas
+1960,28,Masculino,Divorciado,17,3,Área Técnica
+1961,38,Masculino,Solteiro,1,3,Ciências Biológicas
+1962,35,Feminino,Casado,7,4,Ciências Biológicas
+1965,27,Masculino,Solteiro,9,3,Marketing
+1966,32,Masculino,Solteiro,5,4,Ciências Biológicas
+1967,31,Masculino,Casado,26,4,Marketing
+1968,53,Masculino,Solteiro,24,4,Ciências Biológicas
+1969,54,Feminino,Casado,9,2,Ciências Biológicas
+1970,33,Masculino,Divorciado,7,2,Ciências Biológicas
+1971,43,Masculino,Casado,11,3,Ciências Biológicas
+1972,38,Masculino,Casado,1,4,Outros
+1973,55,Masculino,Casado,26,4,Recursos Humanos
+1974,31,Feminino,Divorciado,2,1,Medicina
+1975,39,Masculino,Solteiro,15,4,Marketing
+1976,42,Masculino,Solteiro,23,2,Ciências Biológicas
+1979,31,Feminino,Casado,10,3,Medicina
+1980,54,Feminino,Solteiro,10,3,Medicina
+1981,24,Masculino,Solteiro,1,2,Ciências Biológicas
+1982,23,Masculino,Solteiro,12,2,Outros
+1985,40,Feminino,Casado,11,3,Área Técnica
+1986,40,Feminino,Casado,2,2,Marketing
+1987,25,Feminino,Casado,2,3,Recursos Humanos
+1989,30,Masculino,Casado,1,2,Medicina
+1992,25,Masculino,Divorciado,2,1,Outros
+1993,47,Masculino,Solteiro,25,3,Medicina
+1994,33,Masculino,Divorciado,1,2,Medicina
+1995,38,Masculino,Casado,1,4,Ciências Biológicas
+1996,31,Masculino,Casado,2,2,Ciências Biológicas
+1997,38,Masculino,Casado,6,4,Ciências Biológicas
+1998,42,Masculino,Divorciado,18,4,Ciências Biológicas
+1999,41,Masculino,Casado,1,3,Ciências Biológicas
+2000,47,Feminino,Casado,1,1,Medicina
+2003,35,Masculino,Casado,11,4,Medicina
+2007,22,Masculino,Solteiro,1,2,Ciências Biológicas
+2008,35,Masculino,Solteiro,9,4,Medicina
+2009,33,Feminino,Casado,15,2,Medicina
+2010,32,Feminino,Solteiro,29,4,Ciências Biológicas
+2012,40,Masculino,Casado,1,4,Ciências Biológicas
+2013,32,Masculino,Casado,1,4,Medicina
+2014,39,Masculino,Solteiro,24,1,Ciências Biológicas
+2015,38,Feminino,Casado,10,3,Medicina
+2016,32,Feminino,Casado,1,4,Marketing
+2017,37,Feminino,Casado,10,3,Ciências Biológicas
+2018,25,Feminino,Divorciado,8,2,Outros
+2019,52,Masculino,Divorciado,29,4,Ciências Biológicas
+2020,44,Masculino,Solteiro,1,3,Medicina
+2021,21,Masculino,Solteiro,5,1,Medicina
+2022,39,Masculino,Solteiro,9,3,Ciências Biológicas
+2023,23,Masculino,Casado,9,3,Marketing
+2024,36,Feminino,Casado,3,3,Medicina
+2025,36,Feminino,Divorciado,4,2,Ciências Biológicas
+2026,56,Masculino,Divorciado,1,4,Ciências Biológicas
+2027,29,Masculino,Casado,1,4,Medicina
+2031,42,Masculino,Casado,2,3,Ciências Biológicas
+2032,56,Masculino,Casado,7,2,Área Técnica
+2034,41,Feminino,Casado,28,4,Ciências Biológicas
+2035,34,Feminino,Casado,28,3,Marketing
+2036,36,Masculino,Divorciado,15,4,Marketing
+2037,41,Masculino,Divorciado,3,3,Ciências Biológicas
+2038,32,Masculino,Solteiro,2,3,Área Técnica
+2040,35,Feminino,Solteiro,26,4,Ciências Biológicas
+2041,38,Feminino,Casado,10,2,Ciências Biológicas
+2044,50,Masculino,Divorciado,1,4,Ciências Biológicas
+2045,36,Feminino,Casado,11,4,Marketing
+2046,45,Feminino,Solteiro,20,3,Ciências Biológicas
+2048,40,Masculino,Solteiro,2,4,Ciências Biológicas
+2049,35,Masculino,Casado,18,4,Ciências Biológicas
+2051,40,Feminino,Casado,2,4,Medicina
+2052,35,Feminino,Casado,1,4,Ciências Biológicas
+2053,29,Masculino,Casado,13,2,Outros
+2054,29,Feminino,Solteiro,28,4,Medicina
+2055,50,Masculino,Divorciado,28,3,Marketing
+2056,39,Feminino,Casado,24,1,Marketing
+2057,31,Masculino,Solteiro,5,3,Medicina
+2060,26,Feminino,Solteiro,5,3,Outros
+2061,36,Masculino,Casado,23,2,Medicina
+2062,39,Masculino,Casado,6,1,Medicina
+2064,27,Masculino,Casado,4,3,Ciências Biológicas
+2065,49,Masculino,Casado,2,3,Medicina
+2068,34,Masculino,Casado,8,3,Medicina
